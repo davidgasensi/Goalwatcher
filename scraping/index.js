@@ -14,8 +14,6 @@ async function scrape (url) {
   return cheerio.load(html)
 }
 
-
-
 const cleanText = text => text.replace(/\t|\n|\s:/g, '').replace(/.*:/g, ' ').trim()
 
 
@@ -33,7 +31,7 @@ async function getLeaderBoard() {
     goalsConceded: { selector: '.gc', typeOf: 'number' },
     points: { selector: '.puntos', typeOf: 'number' }
   }
-
+  
   const getTeamIdFrom = ({name}) => TEAMS.find(team => team.name === name)
 
   let leaderboard = [];
