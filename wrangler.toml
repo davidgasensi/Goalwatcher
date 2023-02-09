@@ -1,3 +1,6 @@
 name = "proyecto-mancito-api"
 main = "api/index.js"
 compatibility_date = "2023-02-09"
+
+[site]
+bucket = "./assets"

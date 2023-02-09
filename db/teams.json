@@ -2,7 +2,7 @@
    {
       "id": "barcelona",
       "name": "FC Barcelona",
-      "image": "logo-barcelona.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-barcelona.svg",
       "urlWeb": "https://www.fcbarcelona.es/es/",
       "socialNetworks": [
          "https://www.instagram.com/fcbarcelona/",
@@ -14,7 +14,7 @@
    {
       "id": "madrid",
       "name": "Real Madrid",
-      "image": "logo-madrid.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-madrid.svg",
       "urlWeb": "https://www.realmadrid.com/",
       "socialNetworks": [
          "https://www.instagram.com/realmadrid/",
@@ -26,7 +26,7 @@
    {
       "id": "realsociedad",
       "name": "R. Sociedad",
-      "image": "logo-realsociedad.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-realsociedad.svg",
       "urlWeb": "https://www.realsociedad.eus/",
       "socialNetworks": [
          "https://www.instagram.com/realsociedad/?hl=es",
@@ -38,7 +38,7 @@
    {
       "id": "atletico",
       "name": "Atlético",
-      "image": "logo-atletico.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-atletico.svg",
       "urlWeb": "https://www.atleticodemadrid.com/",
       "socialNetworks": [
          "https://www.instagram.com/atleticodemadrid/?hl=es",
@@ -50,7 +50,7 @@
    {
       "id": "rayo",
       "name": "Rayo",
-      "image": "logo-rayo.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-rayo.svg",
       "urlWeb": "http://www.rayovallecano.es/",
       "socialNetworks": [
          "https://www.instagram.com/rayovallecano/?hl=es",
@@ -62,7 +62,7 @@
    {
       "id": "villarreal",
       "name": "Villarreal",
-      "image": "logo-villarreal.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-villarreal.svg",
       "urlWeb": "https://villarrealcf.es/",
       "socialNetworks": [
          "https://www.instagram.com/villarrealcf/?hl=es",
@@ -74,7 +74,7 @@
    {
       "id": "betis",
       "name": "Betis",
-      "image": "logo-betis.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-betis.svg",
       "urlWeb": "https://www.realbetisbalompie.es/",
       "socialNetworks": [
          "https://www.instagram.com/realbetisbalompie/?hl=es",
@@ -86,7 +86,7 @@
    {
       "id": "athletic",
       "name": "Athletic",
-      "image": "logo-athletic.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-athletic.svg",
       "urlWeb": "https://www.athletic-club.eus/",
       "socialNetworks": [
          "https://www.instagram.com/athleticclub/?hl=es",
@@ -98,7 +98,7 @@
    {
       "id": "osasuna",
       "name": "Osasuna",
-      "image": "logo-osasuna.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
       "urlWeb": "https://www.osasuna.es/",
       "socialNetworks": [
          "https://www.instagram.com/caosasuna/?hl=es",
@@ -110,7 +110,7 @@
    {
       "id": "mallorca",
       "name": "Mallorca",
-      "image": "logo-mallorca.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-mallorca.svg",
       "urlWeb": "https://www.rcdmallorca.es/",
       "socialNetworks": [
          "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
@@ -122,7 +122,7 @@
    {
       "id": "girona",
       "name": "Girona",
-      "image": "logo-girona.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-girona.svg",
       "urlWeb": "https://www.gironafc.cat/es",
       "socialNetworks": [
          "https://www.instagram.com/gironafc/?hl=es",
@@ -134,7 +134,7 @@
    {
       "id": "celta",
       "name": "Celta",
-      "image": "logo-celta.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-celta.svg",
       "urlWeb": "https://rccelta.es/",
       "socialNetworks": [
          "https://www.instagram.com/rccelta/?hl=es",
@@ -146,7 +146,7 @@
    {
       "id": "valladolid",
       "name": "Valladolid",
-      "image": "logo-valladolid.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-valladolid.svg",
       "urlWeb": "https://www.realvalladolid.es/",
       "socialNetworks": [
          "https://www.instagram.com/realvalladolid/?hl=es",
@@ -158,7 +158,7 @@
    {
       "id": "almeria",
       "name": "Almería",
-      "image": "logo-almeria.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-almeria.svg",
       "urlWeb": "https://www.udalmeriasad.com/",
       "socialNetworks": [
          "https://www.instagram.com/udalmeria/?hl=es",
@@ -170,7 +170,7 @@
    {
       "id": "espanyol",
       "name": "Espanyol",
-      "image": "logo-espanyol.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-espanyol.svg",
       "urlWeb": "https://www.rcdespanyol.com/",
       "socialNetworks": [
          "https://www.instagram.com/rcdespanyol/?hl=es",
@@ -182,7 +182,7 @@
    {
       "id": "sevilla",
       "name": "Sevilla",
-      "image": "logo-sevilla.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-sevilla.svg",
       "urlWeb": "https://sevillafc.es/",
       "socialNetworks": [
          "https://www.instagram.com/sevillafc/?hl=es",
@@ -194,7 +194,7 @@
    {
       "id": "valencia",
       "name": "Valencia",
-      "image": "logo-valencia.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-valencia.svg",
       "urlWeb": "https://www.valenciacf.com/",
       "socialNetworks": [
          "https://www.instagram.com/valenciacf/?hl=es",
@@ -206,7 +206,7 @@
    {
       "id": "cadiz",
       "name": "Cádiz",
-      "image": "logo-cadiz.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
       "urlWeb": "https://www.cadizcf.com/",
       "socialNetworks": [
          "https://www.instagram.com/cadizclubdefutbol/?hl=es",
@@ -218,7 +218,7 @@
    {
       "id": "getafe",
       "name": "Getafe",
-      "image": "logo-getafe.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-getafe.svg",
       "urlWeb": "https://www.getafecf.com/",
       "socialNetworks": [
          "https://www.instagram.com/getafecf/?hl=es",
@@ -230,7 +230,7 @@
    {
       "id": "elche",
       "name": "Elche",
-      "image": "logo-elche.svg",
+      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-elche.svg",
       "urlWeb": "https://www.elchecf.es/",
       "socialNetworks": [
          "https://www.instagram.com/elchecf/?hl=es",
