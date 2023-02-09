@@ -1,0 +1,242 @@
+[
+   {
+      "id": "barcelona",
+      "name": "FC Barcelona",
+      "image": "logo-barcelona.svg",
+      "urlWeb": "https://www.fcbarcelona.es/es/",
+      "socialNetworks": [
+         "https://www.instagram.com/fcbarcelona/",
+         "https://twitter.com/FCBarcelona_es?s=20",
+         "https://www.tiktok.com/@fcbarcelona?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "madrid",
+      "name": "Real Madrid",
+      "image": "logo-madrid.svg",
+      "urlWeb": "https://www.realmadrid.com/",
+      "socialNetworks": [
+         "https://www.instagram.com/realmadrid/",
+         "https://twitter.com/realmadrid?s=20",
+         "https://www.tiktok.com/@realmadrid?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "realsociedad",
+      "name": "R. Sociedad",
+      "image": "logo-realsociedad.svg",
+      "urlWeb": "https://www.realsociedad.eus/",
+      "socialNetworks": [
+         "https://www.instagram.com/realsociedad/?hl=es",
+         "https://twitter.com/RealSociedad?s=20",
+         "https://www.tiktok.com/@realsociedad"
+      ],
+      "players" : []
+   },
+   {
+      "id": "atletico",
+      "name": "Atlético",
+      "image": "logo-atletico.svg",
+      "urlWeb": "https://www.atleticodemadrid.com/",
+      "socialNetworks": [
+         "https://www.instagram.com/atleticodemadrid/?hl=es",
+         "https://twitter.com/Atleti?s=20",
+         "https://www.tiktok.com/@atleticodemadrid?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "rayo",
+      "name": "Rayo",
+      "image": "logo-rayo.svg",
+      "urlWeb": "http://www.rayovallecano.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/rayovallecano/?hl=es",
+         "https://twitter.com/RayoVallecano?s=20",
+         "https://www.tiktok.com/@rayovallecano?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "villarreal",
+      "name": "Villarreal",
+      "image": "logo-villarreal.svg",
+      "urlWeb": "https://villarrealcf.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/villarrealcf/?hl=es",
+         "https://twitter.com/VillarrealCF?s=20",
+         "https://www.tiktok.com/@villarrealcf?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "betis",
+      "name": "Betis",
+      "image": "logo-betis.svg",
+      "urlWeb": "https://www.realbetisbalompie.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/realbetisbalompie/?hl=es",
+         "https://twitter.com/RealBetis?s=20",
+         "https://www.tiktok.com/@realbetisbalompie?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "athletic",
+      "name": "Athletic",
+      "image": "logo-athletic.svg",
+      "urlWeb": "https://www.athletic-club.eus/",
+      "socialNetworks": [
+         "https://www.instagram.com/athleticclub/?hl=es",
+         "https://twitter.com/AthleticClub?s=20",
+         "https://www.tiktok.com/@athleticclub?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "osasuna",
+      "name": "Osasuna",
+      "image": "logo-osasuna.svg",
+      "urlWeb": "https://www.osasuna.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/caosasuna/?hl=es",
+         "https://twitter.com/Osasuna?s=20",
+         "https://www.tiktok.com/@caosasuna?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "mallorca",
+      "name": "Mallorca",
+      "image": "logo-mallorca.svg",
+      "urlWeb": "https://www.rcdmallorca.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
+         "https://twitter.com/RCD_Mallorca?s=20",
+         "https://www.tiktok.com/@realmallorcaoficial?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "girona",
+      "name": "Girona",
+      "image": "logo-girona.svg",
+      "urlWeb": "https://www.gironafc.cat/es",
+      "socialNetworks": [
+         "https://www.instagram.com/gironafc/?hl=es",
+         "https://twitter.com/GironaFC?s=20",
+         "https://www.tiktok.com/@gironafc"
+      ],
+      "players" : []
+   },
+   {
+      "id": "celta",
+      "name": "Celta",
+      "image": "logo-celta.svg",
+      "urlWeb": "https://rccelta.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/rccelta/?hl=es",
+         "https://twitter.com/RCCelta?s=20",
+         "https://www.tiktok.com/@rccelta?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "valladolid",
+      "name": "Valladolid",
+      "image": "logo-valladolid.svg",
+      "urlWeb": "https://www.realvalladolid.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/realvalladolid/?hl=es",
+         "https://twitter.com/realvalladolid?s=20",
+         "https://www.tiktok.com/@realvalladolid"
+      ],
+      "players" : []
+   },
+   {
+      "id": "almeria",
+      "name": "Almería",
+      "image": "logo-almeria.svg",
+      "urlWeb": "https://www.udalmeriasad.com/",
+      "socialNetworks": [
+         "https://www.instagram.com/udalmeria/?hl=es",
+         "https://twitter.com/U_D_Almeria?s=20",
+         "https://www.tiktok.com/@udalmeria"
+      ],
+      "players" : []
+   },
+   {
+      "id": "espanyol",
+      "name": "Espanyol",
+      "image": "logo-espanyol.svg",
+      "urlWeb": "https://www.rcdespanyol.com/",
+      "socialNetworks": [
+         "https://www.instagram.com/rcdespanyol/?hl=es",
+         "https://twitter.com/RCDEspanyol?s=20",
+         "https://www.tiktok.com/@rcdespanyol?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "sevilla",
+      "name": "Sevilla",
+      "image": "logo-sevilla.svg",
+      "urlWeb": "https://sevillafc.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/sevillafc/?hl=es",
+         "https://twitter.com/SevillaFC?s=20",
+         "https://www.tiktok.com/@sevillafc?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "valencia",
+      "name": "Valencia",
+      "image": "logo-valencia.svg",
+      "urlWeb": "https://www.valenciacf.com/",
+      "socialNetworks": [
+         "https://www.instagram.com/valenciacf/?hl=es",
+         "https://twitter.com/valenciacf?s=20",
+         "https://www.tiktok.com/@valenciacf?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "cadiz",
+      "name": "Cádiz",
+      "image": "logo-cadiz.svg",
+      "urlWeb": "https://www.cadizcf.com/",
+      "socialNetworks": [
+         "https://www.instagram.com/cadizclubdefutbol/?hl=es",
+         "https://twitter.com/Cadiz_CF?s=20",
+         "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
+      ],
+      "players" : []
+   },
+   {
+      "id": "getafe",
+      "name": "Getafe",
+      "image": "logo-getafe.svg",
+      "urlWeb": "https://www.getafecf.com/",
+      "socialNetworks": [
+         "https://www.instagram.com/getafecf/?hl=es",
+         "https://twitter.com/GetafeCF?s=20",
+         "https://www.tiktok.com/@getafecf"
+      ],
+      "players" : []
+   },
+   {
+      "id": "elche",
+      "name": "Elche",
+      "image": "logo-elche.svg",
+      "urlWeb": "https://www.elchecf.es/",
+      "socialNetworks": [
+         "https://www.instagram.com/elchecf/?hl=es",
+         "https://twitter.com/elchecf?s=20",
+         "https://www.tiktok.com/@elchecf?lang=es"
+      ],
+      "players" : []
+   }
+]

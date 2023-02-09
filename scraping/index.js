@@ -2,6 +2,7 @@ import fetch from 'node-fetch'
 import * as cheerio from 'cheerio'
 import { writeFile } from 'node:fs/promises'
 import path from 'node:path'
+import TEAMS from '../db/teams.json' assert { type: 'json' }
 
 const URLS = {
   leaderboard: 'https://www.sport.es/es/resultados/la-liga/clasificacion/'
@@ -12,6 +13,8 @@ async function scrape (url) {
   const html = await res.text()
   return cheerio.load(html)
 }
+
+
 
 const cleanText = text => text.replace(/\t|\n|\s:/g, '').replace(/.*:/g, ' ').trim()
 
@@ -29,8 +32,9 @@ async function getLeaderBoard() {
     goalsScored: { selector: '.gf', typeOf: 'number' },
     goalsConceded: { selector: '.gc', typeOf: 'number' },
     points: { selector: '.puntos', typeOf: 'number' }
-    
   }
+
+  const getTeamIdFrom = ({name}) => TEAMS.find(team => team.name === name)
 
   let leaderboard = [];
   $rows.each((index, el) => {
@@ -45,7 +49,13 @@ async function getLeaderBoard() {
       return [key, value]
     })
 
-    leaderboard.push(Object.fromEntries(leaderBoardEntries));
+    const { team: teamName, ...leaderboardForTeam } = Object.fromEntries(leaderBoardEntries)
+    const team = getTeamIdFrom({name: teamName})
+
+    leaderboard.push({
+      ... leaderboardForTeam,
+      team
+    });
   })
   return leaderboard
 }
