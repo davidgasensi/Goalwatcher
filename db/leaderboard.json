@@ -1,0 +1,202 @@
+[
+  {
+    "team": "FC Barcelona",
+    "gamesPlayed": 20,
+    "wins": 17,
+    "loses": 1,
+    "draws": 2,
+    "goalsScored": 42,
+    "goalsConceded": 7,
+    "points": 53
+  },
+  {
+    "team": "Real Madrid",
+    "gamesPlayed": 20,
+    "wins": 14,
+    "loses": 3,
+    "draws": 3,
+    "goalsScored": 40,
+    "goalsConceded": 17,
+    "points": 45
+  },
+  {
+    "team": "R. Sociedad",
+    "gamesPlayed": 20,
+    "wins": 12,
+    "loses": 5,
+    "draws": 3,
+    "goalsScored": 28,
+    "goalsConceded": 19,
+    "points": 39
+  },
+  {
+    "team": "Atlético",
+    "gamesPlayed": 20,
+    "wins": 10,
+    "loses": 5,
+    "draws": 5,
+    "goalsScored": 29,
+    "goalsConceded": 17,
+    "points": 35
+  },
+  {
+    "team": "Rayo",
+    "gamesPlayed": 20,
+    "wins": 9,
+    "loses": 6,
+    "draws": 5,
+    "goalsScored": 27,
+    "goalsConceded": 22,
+    "points": 32
+  },
+  {
+    "team": "Villarreal",
+    "gamesPlayed": 20,
+    "wins": 9,
+    "loses": 7,
+    "draws": 4,
+    "goalsScored": 22,
+    "goalsConceded": 17,
+    "points": 31
+  },
+  {
+    "team": "Betis",
+    "gamesPlayed": 20,
+    "wins": 9,
+    "loses": 7,
+    "draws": 4,
+    "goalsScored": 24,
+    "goalsConceded": 20,
+    "points": 31
+  },
+  {
+    "team": "Athletic",
+    "gamesPlayed": 20,
+    "wins": 8,
+    "loses": 7,
+    "draws": 5,
+    "goalsScored": 29,
+    "goalsConceded": 21,
+    "points": 29
+  },
+  {
+    "team": "Osasuna",
+    "gamesPlayed": 20,
+    "wins": 8,
+    "loses": 7,
+    "draws": 5,
+    "goalsScored": 19,
+    "goalsConceded": 19,
+    "points": 29
+  },
+  {
+    "team": "Mallorca",
+    "gamesPlayed": 20,
+    "wins": 8,
+    "loses": 8,
+    "draws": 4,
+    "goalsScored": 16,
+    "goalsConceded": 18,
+    "points": 28
+  },
+  {
+    "team": "Girona",
+    "gamesPlayed": 20,
+    "wins": 6,
+    "loses": 8,
+    "draws": 6,
+    "goalsScored": 27,
+    "goalsConceded": 29,
+    "points": 24
+  },
+  {
+    "team": "Celta",
+    "gamesPlayed": 20,
+    "wins": 6,
+    "loses": 9,
+    "draws": 5,
+    "goalsScored": 22,
+    "goalsConceded": 32,
+    "points": 23
+  },
+  {
+    "team": "Valladolid",
+    "gamesPlayed": 20,
+    "wins": 7,
+    "loses": 11,
+    "draws": 2,
+    "goalsScored": 15,
+    "goalsConceded": 28,
+    "points": 23
+  },
+  {
+    "team": "Almería",
+    "gamesPlayed": 20,
+    "wins": 6,
+    "loses": 10,
+    "draws": 4,
+    "goalsScored": 23,
+    "goalsConceded": 31,
+    "points": 22
+  },
+  {
+    "team": "Espanyol",
+    "gamesPlayed": 20,
+    "wins": 4,
+    "loses": 7,
+    "draws": 9,
+    "goalsScored": 24,
+    "goalsConceded": 30,
+    "points": 21
+  },
+  {
+    "team": "Sevilla",
+    "gamesPlayed": 20,
+    "wins": 5,
+    "loses": 9,
+    "draws": 6,
+    "goalsScored": 21,
+    "goalsConceded": 29,
+    "points": 21
+  },
+  {
+    "team": "Valencia",
+    "gamesPlayed": 20,
+    "wins": 5,
+    "loses": 10,
+    "draws": 5,
+    "goalsScored": 25,
+    "goalsConceded": 24,
+    "points": 20
+  },
+  {
+    "team": "Cádiz",
+    "gamesPlayed": 20,
+    "wins": 4,
+    "loses": 9,
+    "draws": 7,
+    "goalsScored": 15,
+    "goalsConceded": 33,
+    "points": 19
+  },
+  {
+    "team": "Getafe",
+    "gamesPlayed": 20,
+    "wins": 4,
+    "loses": 10,
+    "draws": 6,
+    "goalsScored": 17,
+    "goalsConceded": 27,
+    "points": 18
+  },
+  {
+    "team": "Elche",
+    "gamesPlayed": 20,
+    "wins": 1,
+    "loses": 13,
+    "draws": 6,
+    "goalsScored": 15,
+    "goalsConceded": 40,
+    "points": 9
+  }
+]
