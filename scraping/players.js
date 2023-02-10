@@ -6,7 +6,6 @@ import _ from 'lodash';
 import TEAMS from '../db/teams.json' assert { type: 'json' };
 import removeAccents from 'remove-accents';
 
-
 const URLS_ALL = [
   'https://resultados.as.com/resultados/ficha/equipo/barcelona/3/plantilla/',
   'https://resultados.as.com/resultados/ficha/equipo/almeria/85/plantilla/',
@@ -29,6 +28,7 @@ const URLS_ALL = [
   'https://resultados.as.com/resultados/ficha/equipo/valencia/17/plantilla/',
   'https://resultados.as.com/resultados/ficha/equipo/villarreal/19/plantilla/',
 ];
+
 let allPlayers = [];
 URLS_ALL.forEach(async (u) => {
   async function scrape(url) {
@@ -68,7 +68,10 @@ URLS_ALL.forEach(async (u) => {
       const $el = $(el);
       const playerEntries = Object.entries(PLAYER_SELECTORS).map(
         ([key, { selector, typeOf }]) => {
-          const rawValue = typeOf === 'image' ? $el.find(selector).find('img').attr('src') : $el.find(selector).text();
+          const rawValue =
+            typeOf === 'image'
+              ? $el.find(selector).find('img').attr('src')
+              : $el.find(selector).text();
           const cleanedValue = cleanText(rawValue);
           const value =
             typeOf === 'number' ? Number(cleanedValue) : cleanedValue;
@@ -81,14 +84,12 @@ URLS_ALL.forEach(async (u) => {
 
       players.push({
         ...playerForTeam,
-
         team: removeAccents(
           cleanTextTeam(
             $('h1.tit-ppal.s-block').text().toLocaleLowerCase().trim()
           )
         ),
-      }
-      );
+      });
     });
     return players;
   }
@@ -111,7 +112,7 @@ URLS_ALL.forEach(async (u) => {
 
   const teamFiltered = await getTeam(); // tenemos el equipo que estamos scrapeando
   const filePathTeams = path.join(process.cwd(), './db/teams.json'); // current working directory
-  const filePathPlayers = path.join(process.cwd(), './db/players.json')
+  const filePathPlayers = path.join(process.cwd(), './db/players.json');
 
   TEAMS.filter(
     (el) => (el === teamFiltered ? (teamFiltered.players = []) : null) // filtramos el TEAMS para coger
@@ -122,9 +123,5 @@ URLS_ALL.forEach(async (u) => {
 
   allPlayers.push(players);
   await writeFile(filePathTeams, JSON.stringify(TEAMS, null, 2), null); // escribimos en el fichero teams.json el nuevo array de TEAMS
-  await writeFile(
-    filePathPlayers,
-    JSON.stringify(allPlayers, null, 2),
-    null
-  );
+  await writeFile(filePathPlayers, JSON.stringify(allPlayers, null, 2), null);
 });
