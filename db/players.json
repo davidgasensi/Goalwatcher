@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Ter Stegen",
+    "position": "Portero",
+    "number": 1,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Iñaki Peña",
+    "position": "Portero",
+    "number": 13,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Arnau Tenas",
+    "position": "Portero",
+    "number": 36,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Ronald Araújo",
+    "position": "Defensa",
+    "number": 4,
+    "team": "Barcelona"
+  },
+  {
+    "name": "A. Christensen",
+    "position": "Defensa",
+    "number": 15,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Koundé",
+    "position": "Defensa",
+    "number": 23,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Eric Garcia",
+    "position": "Defensa",
+    "number": 24,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Busquets",
+    "position": "Centrocampista",
+    "number": 5,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Gavi",
+    "position": "Centrocampista",
+    "number": 6,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Ferrán Torres",
+    "position": "Centrocampista",
+    "number": 11,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Marcos Alonso",
+    "position": "Centrocampista",
+    "number": 17,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Alba",
+    "position": "Centrocampista",
+    "number": 18,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Kessié Franck",
+    "position": "Centrocampista",
+    "number": 19,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Sergi Roberto",
+    "position": "Centrocampista",
+    "number": 20,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Frenkie De Jong",
+    "position": "Centrocampista",
+    "number": 21,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Alex Balde",
+    "position": "Centrocampista",
+    "number": 28,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Marc Casado",
+    "position": "Centrocampista",
+    "number": 29,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Pablo Torre",
+    "position": "Centrocampista",
+    "number": 32,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Ousmane Dembélé",
+    "position": "Delantero",
+    "number": 7,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Pedri",
+    "position": "Delantero",
+    "number": 8,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Lewandowski",
+    "position": "Delantero",
+    "number": 9,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Ansu Fati",
+    "position": "Delantero",
+    "number": 10,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Raphinha",
+    "position": "Delantero",
+    "number": 22,
+    "team": "Barcelona"
+  },
+  {
+    "name": "Ilias Chakkour",
+    "position": "Delantero",
+    "number": 27,
+    "team": "Barcelona"
+  }
+]

@@ -1,242 +1,3244 @@
 [
-   {
-      "id": "barcelona",
-      "name": "FC Barcelona",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-barcelona.svg",
-      "urlWeb": "https://www.fcbarcelona.es/es/",
-      "socialNetworks": [
-         "https://www.instagram.com/fcbarcelona/",
-         "https://twitter.com/FCBarcelona_es?s=20",
-         "https://www.tiktok.com/@fcbarcelona?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "madrid",
-      "name": "Real Madrid",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-madrid.svg",
-      "urlWeb": "https://www.realmadrid.com/",
-      "socialNetworks": [
-         "https://www.instagram.com/realmadrid/",
-         "https://twitter.com/realmadrid?s=20",
-         "https://www.tiktok.com/@realmadrid?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "realsociedad",
-      "name": "R. Sociedad",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-realsociedad.svg",
-      "urlWeb": "https://www.realsociedad.eus/",
-      "socialNetworks": [
-         "https://www.instagram.com/realsociedad/?hl=es",
-         "https://twitter.com/RealSociedad?s=20",
-         "https://www.tiktok.com/@realsociedad"
-      ],
-      "players" : []
-   },
-   {
-      "id": "atletico",
-      "name": "Atlético",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-atletico.svg",
-      "urlWeb": "https://www.atleticodemadrid.com/",
-      "socialNetworks": [
-         "https://www.instagram.com/atleticodemadrid/?hl=es",
-         "https://twitter.com/Atleti?s=20",
-         "https://www.tiktok.com/@atleticodemadrid?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "rayo",
-      "name": "Rayo",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-rayo.svg",
-      "urlWeb": "http://www.rayovallecano.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/rayovallecano/?hl=es",
-         "https://twitter.com/RayoVallecano?s=20",
-         "https://www.tiktok.com/@rayovallecano?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "villarreal",
-      "name": "Villarreal",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-villarreal.svg",
-      "urlWeb": "https://villarrealcf.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/villarrealcf/?hl=es",
-         "https://twitter.com/VillarrealCF?s=20",
-         "https://www.tiktok.com/@villarrealcf?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "betis",
-      "name": "Betis",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-betis.svg",
-      "urlWeb": "https://www.realbetisbalompie.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/realbetisbalompie/?hl=es",
-         "https://twitter.com/RealBetis?s=20",
-         "https://www.tiktok.com/@realbetisbalompie?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "athletic",
-      "name": "Athletic",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-athletic.svg",
-      "urlWeb": "https://www.athletic-club.eus/",
-      "socialNetworks": [
-         "https://www.instagram.com/athleticclub/?hl=es",
-         "https://twitter.com/AthleticClub?s=20",
-         "https://www.tiktok.com/@athleticclub?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "osasuna",
-      "name": "Osasuna",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
-      "urlWeb": "https://www.osasuna.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/caosasuna/?hl=es",
-         "https://twitter.com/Osasuna?s=20",
-         "https://www.tiktok.com/@caosasuna?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "mallorca",
-      "name": "Mallorca",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-mallorca.svg",
-      "urlWeb": "https://www.rcdmallorca.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
-         "https://twitter.com/RCD_Mallorca?s=20",
-         "https://www.tiktok.com/@realmallorcaoficial?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "girona",
-      "name": "Girona",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-girona.svg",
-      "urlWeb": "https://www.gironafc.cat/es",
-      "socialNetworks": [
-         "https://www.instagram.com/gironafc/?hl=es",
-         "https://twitter.com/GironaFC?s=20",
-         "https://www.tiktok.com/@gironafc"
-      ],
-      "players" : []
-   },
-   {
-      "id": "celta",
-      "name": "Celta",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-celta.svg",
-      "urlWeb": "https://rccelta.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/rccelta/?hl=es",
-         "https://twitter.com/RCCelta?s=20",
-         "https://www.tiktok.com/@rccelta?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "valladolid",
-      "name": "Valladolid",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-valladolid.svg",
-      "urlWeb": "https://www.realvalladolid.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/realvalladolid/?hl=es",
-         "https://twitter.com/realvalladolid?s=20",
-         "https://www.tiktok.com/@realvalladolid"
-      ],
-      "players" : []
-   },
-   {
-      "id": "almeria",
-      "name": "Almería",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-almeria.svg",
-      "urlWeb": "https://www.udalmeriasad.com/",
-      "socialNetworks": [
-         "https://www.instagram.com/udalmeria/?hl=es",
-         "https://twitter.com/U_D_Almeria?s=20",
-         "https://www.tiktok.com/@udalmeria"
-      ],
-      "players" : []
-   },
-   {
-      "id": "espanyol",
-      "name": "Espanyol",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-espanyol.svg",
-      "urlWeb": "https://www.rcdespanyol.com/",
-      "socialNetworks": [
-         "https://www.instagram.com/rcdespanyol/?hl=es",
-         "https://twitter.com/RCDEspanyol?s=20",
-         "https://www.tiktok.com/@rcdespanyol?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "sevilla",
-      "name": "Sevilla",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-sevilla.svg",
-      "urlWeb": "https://sevillafc.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/sevillafc/?hl=es",
-         "https://twitter.com/SevillaFC?s=20",
-         "https://www.tiktok.com/@sevillafc?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "valencia",
-      "name": "Valencia",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-valencia.svg",
-      "urlWeb": "https://www.valenciacf.com/",
-      "socialNetworks": [
-         "https://www.instagram.com/valenciacf/?hl=es",
-         "https://twitter.com/valenciacf?s=20",
-         "https://www.tiktok.com/@valenciacf?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "cadiz",
-      "name": "Cádiz",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
-      "urlWeb": "https://www.cadizcf.com/",
-      "socialNetworks": [
-         "https://www.instagram.com/cadizclubdefutbol/?hl=es",
-         "https://twitter.com/Cadiz_CF?s=20",
-         "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
-      ],
-      "players" : []
-   },
-   {
-      "id": "getafe",
-      "name": "Getafe",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-getafe.svg",
-      "urlWeb": "https://www.getafecf.com/",
-      "socialNetworks": [
-         "https://www.instagram.com/getafecf/?hl=es",
-         "https://twitter.com/GetafeCF?s=20",
-         "https://www.tiktok.com/@getafecf"
-      ],
-      "players" : []
-   },
-   {
-      "id": "elche",
-      "name": "Elche",
-      "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-elche.svg",
-      "urlWeb": "https://www.elchecf.es/",
-      "socialNetworks": [
-         "https://www.instagram.com/elchecf/?hl=es",
-         "https://twitter.com/elchecf?s=20",
-         "https://www.tiktok.com/@elchecf?lang=es"
-      ],
-      "players" : []
-   }
+  {
+    "id": "barcelona",
+    "name": "FC Barcelona",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-barcelona.svg",
+    "urlWeb": "https://www.fcbarcelona.es/es/",
+    "socialNetworks": [
+      "https://www.instagram.com/fcbarcelona/",
+      "https://twitter.com/FCBarcelona_es?s=20",
+      "https://www.tiktok.com/@fcbarcelona?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Ter Stegen",
+        "position": "Portero",
+        "number": 1,
+        "team": "barcelona"
+      },
+      {
+        "name": "Iñaki Peña",
+        "position": "Portero",
+        "number": 13,
+        "team": "barcelona"
+      },
+      {
+        "name": "Arnau Tenas",
+        "position": "Portero",
+        "number": 36,
+        "team": "barcelona"
+      },
+      {
+        "name": "Ronald Araújo",
+        "position": "Defensa",
+        "number": 4,
+        "team": "barcelona"
+      },
+      {
+        "name": "A. Christensen",
+        "position": "Defensa",
+        "number": 15,
+        "team": "barcelona"
+      },
+      {
+        "name": "Koundé",
+        "position": "Defensa",
+        "number": 23,
+        "team": "barcelona"
+      },
+      {
+        "name": "Eric Garcia",
+        "position": "Defensa",
+        "number": 24,
+        "team": "barcelona"
+      },
+      {
+        "name": "Busquets",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "barcelona"
+      },
+      {
+        "name": "Gavi",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "barcelona"
+      },
+      {
+        "name": "Ferrán Torres",
+        "position": "Centrocampista",
+        "number": 11,
+        "team": "barcelona"
+      },
+      {
+        "name": "Marcos Alonso",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "barcelona"
+      },
+      {
+        "name": "Alba",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "barcelona"
+      },
+      {
+        "name": "Kessié Franck",
+        "position": "Centrocampista",
+        "number": 19,
+        "team": "barcelona"
+      },
+      {
+        "name": "Sergi Roberto",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "barcelona"
+      },
+      {
+        "name": "Frenkie De Jong",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "barcelona"
+      },
+      {
+        "name": "Alex Balde",
+        "position": "Centrocampista",
+        "number": 28,
+        "team": "barcelona"
+      },
+      {
+        "name": "Marc Casado",
+        "position": "Centrocampista",
+        "number": 29,
+        "team": "barcelona"
+      },
+      {
+        "name": "Pablo Torre",
+        "position": "Centrocampista",
+        "number": 32,
+        "team": "barcelona"
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "position": "Delantero",
+        "number": 7,
+        "team": "barcelona"
+      },
+      {
+        "name": "Pedri",
+        "position": "Delantero",
+        "number": 8,
+        "team": "barcelona"
+      },
+      {
+        "name": "Lewandowski",
+        "position": "Delantero",
+        "number": 9,
+        "team": "barcelona"
+      },
+      {
+        "name": "Ansu Fati",
+        "position": "Delantero",
+        "number": 10,
+        "team": "barcelona"
+      },
+      {
+        "name": "Raphinha",
+        "position": "Delantero",
+        "number": 22,
+        "team": "barcelona"
+      },
+      {
+        "name": "Ilias Chakkour",
+        "position": "Delantero",
+        "number": 27,
+        "team": "barcelona"
+      }
+    ]
+  },
+  {
+    "id": "real madrid",
+    "name": "Real Madrid",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-madrid.svg",
+    "urlWeb": "https://www.realmadrid.com/",
+    "socialNetworks": [
+      "https://www.instagram.com/realmadrid/",
+      "https://twitter.com/realmadrid?s=20",
+      "https://www.tiktok.com/@realmadrid?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Courtois",
+        "position": "Portero",
+        "number": 1,
+        "team": "real madrid"
+      },
+      {
+        "name": "Andriy Lunin",
+        "position": "Portero",
+        "number": 13,
+        "team": "real madrid"
+      },
+      {
+        "name": "Luis López",
+        "position": "Portero",
+        "number": 26,
+        "team": "real madrid"
+      },
+      {
+        "name": "Lucas Cañizares",
+        "position": "Portero",
+        "number": 30,
+        "team": "real madrid"
+      },
+      {
+        "name": "Diego Piñeiro",
+        "position": "Portero",
+        "number": 38,
+        "team": "real madrid"
+      },
+      {
+        "name": "Eder Militao",
+        "position": "Defensa",
+        "number": 3,
+        "team": "real madrid"
+      },
+      {
+        "name": "Alaba",
+        "position": "Defensa",
+        "number": 4,
+        "team": "real madrid"
+      },
+      {
+        "name": "Jesús Vallejo",
+        "position": "Defensa",
+        "number": 5,
+        "team": "real madrid"
+      },
+      {
+        "name": "Nacho",
+        "position": "Defensa",
+        "number": 6,
+        "team": "real madrid"
+      },
+      {
+        "name": "Rüdiger",
+        "position": "Defensa",
+        "number": 22,
+        "team": "real madrid"
+      },
+      {
+        "name": "Dani Carvajal",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "real madrid"
+      },
+      {
+        "name": "Hazard",
+        "position": "Centrocampista",
+        "number": 7,
+        "team": "real madrid"
+      },
+      {
+        "name": "Kroos",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "real madrid"
+      },
+      {
+        "name": "Modric",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "real madrid"
+      },
+      {
+        "name": "Camavinga",
+        "position": "Centrocampista",
+        "number": 12,
+        "team": "real madrid"
+      },
+      {
+        "name": "Federico Valverde",
+        "position": "Centrocampista",
+        "number": 15,
+        "team": "real madrid"
+      },
+      {
+        "name": "Álvaro Odriozola",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "real madrid"
+      },
+      {
+        "name": "Aurelien Tchouameni",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "real madrid"
+      },
+      {
+        "name": "Dani Ceballos",
+        "position": "Centrocampista",
+        "number": 19,
+        "team": "real madrid"
+      },
+      {
+        "name": "Rodrygo",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "real madrid"
+      },
+      {
+        "name": "Ferland Mendy",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "real madrid"
+      },
+      {
+        "name": "Sergio Arribas",
+        "position": "Centrocampista",
+        "number": 33,
+        "team": "real madrid"
+      },
+      {
+        "name": "Vinicius Augusto",
+        "position": "Centrocampista",
+        "number": 37,
+        "team": "real madrid"
+      },
+      {
+        "name": "Benzema",
+        "position": "Delantero",
+        "number": 9,
+        "team": "real madrid"
+      },
+      {
+        "name": "Marco Asensio",
+        "position": "Delantero",
+        "number": 11,
+        "team": "real madrid"
+      },
+      {
+        "name": "Lucas Vázquez",
+        "position": "Delantero",
+        "number": 17,
+        "team": "real madrid"
+      },
+      {
+        "name": "Vinicius Junior",
+        "position": "Delantero",
+        "number": 20,
+        "team": "real madrid"
+      },
+      {
+        "name": "Mariano",
+        "position": "Delantero",
+        "number": 24,
+        "team": "real madrid"
+      }
+    ]
+  },
+  {
+    "id": "r. sociedad",
+    "name": "R. Sociedad",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-realsociedad.svg",
+    "urlWeb": "https://www.realsociedad.eus/",
+    "socialNetworks": [
+      "https://www.instagram.com/realsociedad/?hl=es",
+      "https://twitter.com/RealSociedad?s=20",
+      "https://www.tiktok.com/@realsociedad"
+    ],
+    "players": [
+      {
+        "name": "Remiro",
+        "position": "Portero",
+        "number": 1,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Andoni Zubiaurre",
+        "position": "Portero",
+        "number": 13,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Unai Marrero",
+        "position": "Portero",
+        "number": 32,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Aihen Muñoz",
+        "position": "Defensa",
+        "number": 12,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Jon Pacheco",
+        "position": "Defensa",
+        "number": 20,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Le Normand",
+        "position": "Defensa",
+        "number": 24,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Urko Gonzalez",
+        "position": "Defensa",
+        "number": 30,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Alex Sola",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Martín Zubimendi",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Illarramendi",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Zubeldia",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Elustondo",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Merino",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Oyarzabal",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Take Kubo",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Diego Rico",
+        "position": "Centrocampista",
+        "number": 15,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Ander Guevara",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Robert Navarro",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Gorosabel",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "David Silva",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Beñat Turrientes",
+        "position": "Centrocampista",
+        "number": 22,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Brais",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Jon Ander Olasagasti",
+        "position": "Centrocampista",
+        "number": 31,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Jonathan Gomez",
+        "position": "Centrocampista",
+        "number": 35,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Barrenetxea",
+        "position": "Delantero",
+        "number": 7,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Carlos Fernández",
+        "position": "Delantero",
+        "number": 9,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Mohamed Ali-Cho",
+        "position": "Delantero",
+        "number": 11,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Sörloth",
+        "position": "Delantero",
+        "number": 19,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Sadiq",
+        "position": "Delantero",
+        "number": 25,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Ander Martín",
+        "position": "Delantero",
+        "number": 28,
+        "team": "r. sociedad"
+      },
+      {
+        "name": "Merquelanz",
+        "position": "Delantero",
+        "number": 0,
+        "team": "r. sociedad"
+      }
+    ]
+  },
+  {
+    "id": "atlético",
+    "name": "Atlético",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-atletico.svg",
+    "urlWeb": "https://www.atleticodemadrid.com/",
+    "socialNetworks": [
+      "https://www.instagram.com/atleticodemadrid/?hl=es",
+      "https://twitter.com/Atleti?s=20",
+      "https://www.tiktok.com/@atleticodemadrid?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Ivo Grbic",
+        "position": "Portero",
+        "number": 1,
+        "team": "atlético"
+      },
+      {
+        "name": "Oblak",
+        "position": "Portero",
+        "number": 13,
+        "team": "atlético"
+      },
+      {
+        "name": "Antonio Gomis",
+        "position": "Portero",
+        "number": 31,
+        "team": "atlético"
+      },
+      {
+        "name": "Alejandro Iturbe",
+        "position": "Portero",
+        "number": 33,
+        "team": "atlético"
+      },
+      {
+        "name": "Giménez",
+        "position": "Defensa",
+        "number": 2,
+        "team": "atlético"
+      },
+      {
+        "name": "Savic",
+        "position": "Defensa",
+        "number": 15,
+        "team": "atlético"
+      },
+      {
+        "name": "Mario Hermoso",
+        "position": "Defensa",
+        "number": 22,
+        "team": "atlético"
+      },
+      {
+        "name": "Marco Moreno",
+        "position": "Defensa",
+        "number": 36,
+        "team": "atlético"
+      },
+      {
+        "name": "Reguilón",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "atlético"
+      },
+      {
+        "name": "Kondogbia",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "atlético"
+      },
+      {
+        "name": "De Paul",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "atlético"
+      },
+      {
+        "name": "Koke",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "atlético"
+      },
+      {
+        "name": "Griezmann",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "atlético"
+      },
+      {
+        "name": "Correa",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "atlético"
+      },
+      {
+        "name": "Lemar",
+        "position": "Centrocampista",
+        "number": 11,
+        "team": "atlético"
+      },
+      {
+        "name": "Marcos Llorente",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "atlético"
+      },
+      {
+        "name": "Nahuel Molina",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "atlético"
+      },
+      {
+        "name": "Saúl",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "atlético"
+      },
+      {
+        "name": "Witsel",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "atlético"
+      },
+      {
+        "name": "Reinildo Mandava",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "atlético"
+      },
+      {
+        "name": "Pablo Barrios Rivas",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "atlético"
+      },
+      {
+        "name": "Adrian Corral",
+        "position": "Centrocampista",
+        "number": 48,
+        "team": "atlético"
+      },
+      {
+        "name": "Depay",
+        "position": "Delantero",
+        "number": 9,
+        "team": "atlético"
+      },
+      {
+        "name": "Morata",
+        "position": "Delantero",
+        "number": 19,
+        "team": "atlético"
+      },
+      {
+        "name": "Carrasco",
+        "position": "Delantero",
+        "number": 21,
+        "team": "atlético"
+      }
+    ]
+  },
+  {
+    "id": "rayo",
+    "name": "Rayo",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-rayo.svg",
+    "urlWeb": "http://www.rayovallecano.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/rayovallecano/?hl=es",
+      "https://twitter.com/RayoVallecano?s=20",
+      "https://www.tiktok.com/@rayovallecano?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Dimitrievski",
+        "position": "Portero",
+        "number": 1,
+        "team": "rayo"
+      },
+      {
+        "name": "Diego López",
+        "position": "Portero",
+        "number": 13,
+        "team": "rayo"
+      },
+      {
+        "name": "Miguel Morro",
+        "position": "Portero",
+        "number": 30,
+        "team": "rayo"
+      },
+      {
+        "name": "Mario Suárez",
+        "position": "Defensa",
+        "number": 4,
+        "team": "rayo"
+      },
+      {
+        "name": "Catena",
+        "position": "Defensa",
+        "number": 5,
+        "team": "rayo"
+      },
+      {
+        "name": "Abdul Mumin",
+        "position": "Defensa",
+        "number": 16,
+        "team": "rayo"
+      },
+      {
+        "name": "Lejeune",
+        "position": "Defensa",
+        "number": 19,
+        "team": "rayo"
+      },
+      {
+        "name": "Saveljich",
+        "position": "Defensa",
+        "number": 24,
+        "team": "rayo"
+      },
+      {
+        "name": "Mario Hernández",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "rayo"
+      },
+      {
+        "name": "Fran Garcia",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "rayo"
+      },
+      {
+        "name": "Comesaña",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "rayo"
+      },
+      {
+        "name": "Isi",
+        "position": "Centrocampista",
+        "number": 7,
+        "team": "rayo"
+      },
+      {
+        "name": "Trejo",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "rayo"
+      },
+      {
+        "name": "Nteka",
+        "position": "Centrocampista",
+        "number": 11,
+        "team": "rayo"
+      },
+      {
+        "name": "Josep Chavarría",
+        "position": "Centrocampista",
+        "number": 15,
+        "team": "rayo"
+      },
+      {
+        "name": "Unai López",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "rayo"
+      },
+      {
+        "name": "Balliu",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "rayo"
+      },
+      {
+        "name": "Pathé Ciss",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "rayo"
+      },
+      {
+        "name": "Jose Pozo",
+        "position": "Centrocampista",
+        "number": 22,
+        "team": "rayo"
+      },
+      {
+        "name": "Óscar Valentín",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "rayo"
+      },
+      {
+        "name": "Falcao",
+        "position": "Delantero",
+        "number": 9,
+        "team": "rayo"
+      },
+      {
+        "name": "Andrés Martín",
+        "position": "Delantero",
+        "number": 12,
+        "team": "rayo"
+      },
+      {
+        "name": "Salvi",
+        "position": "Delantero",
+        "number": 14,
+        "team": "rayo"
+      },
+      {
+        "name": "Álvaro García",
+        "position": "Delantero",
+        "number": 18,
+        "team": "rayo"
+      },
+      {
+        "name": "Sergio Camello",
+        "position": "Delantero",
+        "number": 34,
+        "team": "rayo"
+      }
+    ]
+  },
+  {
+    "id": "villarreal",
+    "name": "Villarreal",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-villarreal.svg",
+    "urlWeb": "https://villarrealcf.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/villarrealcf/?hl=es",
+      "https://twitter.com/VillarrealCF?s=20",
+      "https://www.tiktok.com/@villarrealcf?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Reina",
+        "position": "Portero",
+        "number": 1,
+        "team": "villarreal"
+      },
+      {
+        "name": "Kiko Femenía",
+        "position": "Defensa",
+        "number": 2,
+        "team": "villarreal"
+      },
+      {
+        "name": "Albiol",
+        "position": "Defensa",
+        "number": 3,
+        "team": "villarreal"
+      },
+      {
+        "name": "Jorge Cuenca",
+        "position": "Defensa",
+        "number": 5,
+        "team": "villarreal"
+      },
+      {
+        "name": "Mandi",
+        "position": "Defensa",
+        "number": 23,
+        "team": "villarreal"
+      },
+      {
+        "name": "Pau Torres",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "villarreal"
+      },
+      {
+        "name": "Capoue",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "villarreal"
+      },
+      {
+        "name": "Juan Foyth",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "villarreal"
+      },
+      {
+        "name": "Parejo",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "villarreal"
+      },
+      {
+        "name": "Manu Morlanes",
+        "position": "Centrocampista",
+        "number": 11,
+        "team": "villarreal"
+      },
+      {
+        "name": "Mojica",
+        "position": "Centrocampista",
+        "number": 12,
+        "team": "villarreal"
+      },
+      {
+        "name": "Trigueros",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "villarreal"
+      },
+      {
+        "name": "Giovani Lo Celso",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "villarreal"
+      },
+      {
+        "name": "Alberto Moreno",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "villarreal"
+      },
+      {
+        "name": "Coquelin",
+        "position": "Centrocampista",
+        "number": 19,
+        "team": "villarreal"
+      },
+      {
+        "name": "Yeremy Pino",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "villarreal"
+      },
+      {
+        "name": "Alfonso Pedraza",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "villarreal"
+      },
+      {
+        "name": "Gerard Moreno",
+        "position": "Delantero",
+        "number": 7,
+        "team": "villarreal"
+      },
+      {
+        "name": "Chukwueze",
+        "position": "Delantero",
+        "number": 11,
+        "team": "villarreal"
+      },
+      {
+        "name": "Morales",
+        "position": "Delantero",
+        "number": 22,
+        "team": "villarreal"
+      }
+    ]
+  },
+  {
+    "id": "betis",
+    "name": "Betis",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-betis.svg",
+    "urlWeb": "https://www.realbetisbalompie.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/realbetisbalompie/?hl=es",
+      "https://twitter.com/RealBetis?s=20",
+      "https://www.tiktok.com/@realbetisbalompie?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Bravo",
+        "position": "Portero",
+        "number": 1,
+        "team": "betis"
+      },
+      {
+        "name": "Rui Silva",
+        "position": "Portero",
+        "number": 13,
+        "team": "betis"
+      },
+      {
+        "name": "Dani Martín",
+        "position": "Portero",
+        "number": 25,
+        "team": "betis"
+      },
+      {
+        "name": "Edgar González",
+        "position": "Defensa",
+        "number": 3,
+        "team": "betis"
+      },
+      {
+        "name": "Víctor Ruiz",
+        "position": "Defensa",
+        "number": 6,
+        "team": "betis"
+      },
+      {
+        "name": "Pezzella",
+        "position": "Defensa",
+        "number": 16,
+        "team": "betis"
+      },
+      {
+        "name": "Luiz Felipe",
+        "position": "Defensa",
+        "number": 19,
+        "team": "betis"
+      },
+      {
+        "name": "Montoya",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "betis"
+      },
+      {
+        "name": "Paul Akouokou",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "betis"
+      },
+      {
+        "name": "Guido Rodríguez",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "betis"
+      },
+      {
+        "name": "Juanmi",
+        "position": "Centrocampista",
+        "number": 7,
+        "team": "betis"
+      },
+      {
+        "name": "Fekir",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "betis"
+      },
+      {
+        "name": "Canales",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "betis"
+      },
+      {
+        "name": "William Carvalho",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "betis"
+      },
+      {
+        "name": "Guardado",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "betis"
+      },
+      {
+        "name": "Sabaly",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "betis"
+      },
+      {
+        "name": "Aitor Ruibal",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "betis"
+      },
+      {
+        "name": "Rodri",
+        "position": "Centrocampista",
+        "number": 28,
+        "team": "betis"
+      },
+      {
+        "name": "Fran Delgado",
+        "position": "Centrocampista",
+        "number": 32,
+        "team": "betis"
+      },
+      {
+        "name": "Juan Miranda",
+        "position": "Centrocampista",
+        "number": 33,
+        "team": "betis"
+      },
+      {
+        "name": "Borja Iglesias",
+        "position": "Delantero",
+        "number": 9,
+        "team": "betis"
+      },
+      {
+        "name": "Willian José",
+        "position": "Delantero",
+        "number": 12,
+        "team": "betis"
+      },
+      {
+        "name": "Joaquín",
+        "position": "Delantero",
+        "number": 17,
+        "team": "betis"
+      }
+    ]
+  },
+  {
+    "id": "athletic",
+    "name": "Athletic",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-athletic.svg",
+    "urlWeb": "https://www.athletic-club.eus/",
+    "socialNetworks": [
+      "https://www.instagram.com/athleticclub/?hl=es",
+      "https://twitter.com/AthleticClub?s=20",
+      "https://www.tiktok.com/@athleticclub?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Unai Simón",
+        "position": "Portero",
+        "number": 1,
+        "team": "athletic"
+      },
+      {
+        "name": "Herrerín",
+        "position": "Portero",
+        "number": 1,
+        "team": "athletic"
+      },
+      {
+        "name": "Julen Agirrezabala",
+        "position": "Portero",
+        "number": 13,
+        "team": "athletic"
+      },
+      {
+        "name": "Ander Iruarrizaga",
+        "position": "Portero",
+        "number": 35,
+        "team": "athletic"
+      },
+      {
+        "name": "Daniel Vivian",
+        "position": "Defensa",
+        "number": 3,
+        "team": "athletic"
+      },
+      {
+        "name": "Íñigo Martínez",
+        "position": "Defensa",
+        "number": 4,
+        "team": "athletic"
+      },
+      {
+        "name": "Yeray",
+        "position": "Defensa",
+        "number": 5,
+        "team": "athletic"
+      },
+      {
+        "name": "De Marcos",
+        "position": "Defensa",
+        "number": 18,
+        "team": "athletic"
+      },
+      {
+        "name": "Aitor Paredes",
+        "position": "Defensa",
+        "number": 31,
+        "team": "athletic"
+      },
+      {
+        "name": "Vesga",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "athletic"
+      },
+      {
+        "name": "O. Sancet",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "athletic"
+      },
+      {
+        "name": "Dani García",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "athletic"
+      },
+      {
+        "name": "Lekue",
+        "position": "Centrocampista",
+        "number": 15,
+        "team": "athletic"
+      },
+      {
+        "name": "Unai Vencedor",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "athletic"
+      },
+      {
+        "name": "Yuri",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "athletic"
+      },
+      {
+        "name": "Oier Zarraga",
+        "position": "Centrocampista",
+        "number": 19,
+        "team": "athletic"
+      },
+      {
+        "name": "Capa",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "athletic"
+      },
+      {
+        "name": "Raúl García",
+        "position": "Centrocampista",
+        "number": 22,
+        "team": "athletic"
+      },
+      {
+        "name": "Ander Herrera",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "athletic"
+      },
+      {
+        "name": "Balenziaga",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "athletic"
+      },
+      {
+        "name": "Jon Morcillo",
+        "position": "Delantero",
+        "number": 2,
+        "team": "athletic"
+      },
+      {
+        "name": "Berenguer",
+        "position": "Delantero",
+        "number": 7,
+        "team": "athletic"
+      },
+      {
+        "name": "Williams",
+        "position": "Delantero",
+        "number": 9,
+        "team": "athletic"
+      },
+      {
+        "name": "Muniain",
+        "position": "Delantero",
+        "number": 10,
+        "team": "athletic"
+      },
+      {
+        "name": "Nico Williams",
+        "position": "Delantero",
+        "number": 11,
+        "team": "athletic"
+      },
+      {
+        "name": "Guruzeta",
+        "position": "Delantero",
+        "number": 12,
+        "team": "athletic"
+      }
+    ]
+  },
+  {
+    "id": "osasuna",
+    "name": "Osasuna",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
+    "urlWeb": "https://www.osasuna.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/caosasuna/?hl=es",
+      "https://twitter.com/Osasuna?s=20",
+      "https://www.tiktok.com/@caosasuna?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Herrera",
+        "position": "Portero",
+        "number": 1,
+        "team": "osasuna"
+      },
+      {
+        "name": "Aitor",
+        "position": "Portero",
+        "number": 25,
+        "team": "osasuna"
+      },
+      {
+        "name": "Dario",
+        "position": "Portero",
+        "number": 39,
+        "team": "osasuna"
+      },
+      {
+        "name": "Unai García",
+        "position": "Defensa",
+        "number": 4,
+        "team": "osasuna"
+      },
+      {
+        "name": "David García",
+        "position": "Defensa",
+        "number": 5,
+        "team": "osasuna"
+      },
+      {
+        "name": "Rubén Peña",
+        "position": "Defensa",
+        "number": 15,
+        "team": "osasuna"
+      },
+      {
+        "name": "Aridane",
+        "position": "Defensa",
+        "number": 23,
+        "team": "osasuna"
+      },
+      {
+        "name": "Jorge Herrando",
+        "position": "Defensa",
+        "number": 31,
+        "team": "osasuna"
+      },
+      {
+        "name": "Nacho Vidal",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "osasuna"
+      },
+      {
+        "name": "Juan Cruz",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "osasuna"
+      },
+      {
+        "name": "Lucas Torró",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "osasuna"
+      },
+      {
+        "name": "Jon Moncayola",
+        "position": "Centrocampista",
+        "number": 7,
+        "team": "osasuna"
+      },
+      {
+        "name": "Brasanac",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "osasuna"
+      },
+      {
+        "name": "Chimy Ávila",
+        "position": "Centrocampista",
+        "number": 9,
+        "team": "osasuna"
+      },
+      {
+        "name": "Rubén García",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "osasuna"
+      },
+      {
+        "name": "Manu Sánchez",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "osasuna"
+      },
+      {
+        "name": "Aimar Oroz",
+        "position": "Centrocampista",
+        "number": 22,
+        "team": "osasuna"
+      },
+      {
+        "name": "Kike Barja",
+        "position": "Delantero",
+        "number": 11,
+        "team": "osasuna"
+      },
+      {
+        "name": "Abde",
+        "position": "Delantero",
+        "number": 12,
+        "team": "osasuna"
+      },
+      {
+        "name": "Moi Gómez",
+        "position": "Delantero",
+        "number": 16,
+        "team": "osasuna"
+      },
+      {
+        "name": "Ante Budimir",
+        "position": "Delantero",
+        "number": 17,
+        "team": "osasuna"
+      },
+      {
+        "name": "Kike García",
+        "position": "Delantero",
+        "number": 18,
+        "team": "osasuna"
+      },
+      {
+        "name": "Iker Benito",
+        "position": "Delantero",
+        "number": 33,
+        "team": "osasuna"
+      }
+    ]
+  },
+  {
+    "id": "mallorca",
+    "name": "Mallorca",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-mallorca.svg",
+    "urlWeb": "https://www.rcdmallorca.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
+      "https://twitter.com/RCD_Mallorca?s=20",
+      "https://www.tiktok.com/@realmallorcaoficial?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Predrag Rajkovic",
+        "position": "Portero",
+        "number": 1,
+        "team": "mallorca"
+      },
+      {
+        "name": "Dominik Greif",
+        "position": "Portero",
+        "number": 13,
+        "team": "mallorca"
+      },
+      {
+        "name": "Leo Román",
+        "position": "Portero",
+        "number": 31,
+        "team": "mallorca"
+      },
+      {
+        "name": "Pere García",
+        "position": "Portero",
+        "number": 33,
+        "team": "mallorca"
+      },
+      {
+        "name": "Nastasic",
+        "position": "Defensa",
+        "number": 2,
+        "team": "mallorca"
+      },
+      {
+        "name": "Copete",
+        "position": "Defensa",
+        "number": 6,
+        "team": "mallorca"
+      },
+      {
+        "name": "Raíllo",
+        "position": "Defensa",
+        "number": 21,
+        "team": "mallorca"
+      },
+      {
+        "name": "Valjent",
+        "position": "Defensa",
+        "number": 24,
+        "team": "mallorca"
+      },
+      {
+        "name": "Josep Gaya",
+        "position": "Defensa",
+        "number": 29,
+        "team": "mallorca"
+      },
+      {
+        "name": "Ruiz de Galarreta",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "mallorca"
+      },
+      {
+        "name": "Grenier",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "mallorca"
+      },
+      {
+        "name": "Antonio Sánchez",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "mallorca"
+      },
+      {
+        "name": "Iddrisu Baba",
+        "position": "Centrocampista",
+        "number": 12,
+        "team": "mallorca"
+      },
+      {
+        "name": "Dani",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "mallorca"
+      },
+      {
+        "name": "Pablo Maffeo",
+        "position": "Centrocampista",
+        "number": 15,
+        "team": "mallorca"
+      },
+      {
+        "name": "Battaglia",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "mallorca"
+      },
+      {
+        "name": "Jaume Costa",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "mallorca"
+      },
+      {
+        "name": "Lee Kang-In",
+        "position": "Centrocampista",
+        "number": 19,
+        "team": "mallorca"
+      },
+      {
+        "name": "Giovanni González",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "mallorca"
+      },
+      {
+        "name": "Braian Cufré",
+        "position": "Delantero",
+        "number": 3,
+        "team": "mallorca"
+      },
+      {
+        "name": "Muriqi",
+        "position": "Delantero",
+        "number": 7,
+        "team": "mallorca"
+      },
+      {
+        "name": "Abdón Prats",
+        "position": "Delantero",
+        "number": 9,
+        "team": "mallorca"
+      },
+      {
+        "name": "Tinotenda Kadewere",
+        "position": "Delantero",
+        "number": 17,
+        "team": "mallorca"
+      },
+      {
+        "name": "Ángel",
+        "position": "Delantero",
+        "number": 22,
+        "team": "mallorca"
+      },
+      {
+        "name": "Amath",
+        "position": "Delantero",
+        "number": 23,
+        "team": "mallorca"
+      }
+    ]
+  },
+  {
+    "id": "girona",
+    "name": "Girona",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-girona.svg",
+    "urlWeb": "https://www.gironafc.cat/es",
+    "socialNetworks": [
+      "https://www.instagram.com/gironafc/?hl=es",
+      "https://twitter.com/GironaFC?s=20",
+      "https://www.tiktok.com/@gironafc"
+    ],
+    "players": [
+      {
+        "name": "Juan Carlos",
+        "position": "Portero",
+        "number": 1,
+        "team": "girona"
+      },
+      {
+        "name": "Gazzaniga",
+        "position": "Portero",
+        "number": 13,
+        "team": "girona"
+      },
+      {
+        "name": "Toni Fuidias",
+        "position": "Portero",
+        "number": 26,
+        "team": "girona"
+      },
+      {
+        "name": "Bernardo",
+        "position": "Defensa",
+        "number": 2,
+        "team": "girona"
+      },
+      {
+        "name": "Arnau Martinez",
+        "position": "Defensa",
+        "number": 4,
+        "team": "girona"
+      },
+      {
+        "name": "David López",
+        "position": "Defensa",
+        "number": 5,
+        "team": "girona"
+      },
+      {
+        "name": "Juanpe",
+        "position": "Defensa",
+        "number": 15,
+        "team": "girona"
+      },
+      {
+        "name": "Yan Couto",
+        "position": "Defensa",
+        "number": 20,
+        "team": "girona"
+      },
+      {
+        "name": "Santi Bueno",
+        "position": "Defensa",
+        "number": 22,
+        "team": "girona"
+      },
+      {
+        "name": "Miguel Gutierrez",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "girona"
+      },
+      {
+        "name": "Ibrahima Kebe",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "girona"
+      },
+      {
+        "name": "Valery Fernández",
+        "position": "Centrocampista",
+        "number": 11,
+        "team": "girona"
+      },
+      {
+        "name": "Aleix García",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "girona"
+      },
+      {
+        "name": "Javi Hernández",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "girona"
+      },
+      {
+        "name": "Rodrigo Riquelme",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "girona"
+      },
+      {
+        "name": "Oriol Romeu",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "girona"
+      },
+      {
+        "name": "Reinier Carvalho",
+        "position": "Centrocampista",
+        "number": 19,
+        "team": "girona"
+      },
+      {
+        "name": "Yangel Herrera",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "girona"
+      },
+      {
+        "name": "Iván Martín",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "girona"
+      },
+      {
+        "name": "Borja García",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "girona"
+      },
+      {
+        "name": "Ricard Artero",
+        "position": "Centrocampista",
+        "number": 36,
+        "team": "girona"
+      },
+      {
+        "name": "Stuani",
+        "position": "Delantero",
+        "number": 7,
+        "team": "girona"
+      },
+      {
+        "name": "Valentín Castellano",
+        "position": "Delantero",
+        "number": 9,
+        "team": "girona"
+      },
+      {
+        "name": "Toni Villa",
+        "position": "Delantero",
+        "number": 12,
+        "team": "girona"
+      }
+    ]
+  },
+  {
+    "id": "celta",
+    "name": "Celta",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-celta.svg",
+    "urlWeb": "https://rccelta.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/rccelta/?hl=es",
+      "https://twitter.com/RCCelta?s=20",
+      "https://www.tiktok.com/@rccelta?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Marchesín",
+        "position": "Portero",
+        "number": 1,
+        "team": "celta"
+      },
+      {
+        "name": "Iván Villar",
+        "position": "Portero",
+        "number": 13,
+        "team": "celta"
+      },
+      {
+        "name": "Coke Carrillo",
+        "position": "Portero",
+        "number": 31,
+        "team": "celta"
+      },
+      {
+        "name": "Óscar Mingueza",
+        "position": "Defensa",
+        "number": 3,
+        "team": "celta"
+      },
+      {
+        "name": "Unai Núñez",
+        "position": "Defensa",
+        "number": 4,
+        "team": "celta"
+      },
+      {
+        "name": "Joseph Aidoo",
+        "position": "Defensa",
+        "number": 15,
+        "team": "celta"
+      },
+      {
+        "name": "Carlos Domínguez",
+        "position": "Defensa",
+        "number": 26,
+        "team": "celta"
+      },
+      {
+        "name": "Hugo Mallo",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "celta"
+      },
+      {
+        "name": "Óscar Rodríguez",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "celta"
+      },
+      {
+        "name": "Denis Suárez",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "celta"
+      },
+      {
+        "name": "Fran Beltrán",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "celta"
+      },
+      {
+        "name": "Renato Tapia",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "celta"
+      },
+      {
+        "name": "Javi Galán",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "celta"
+      },
+      {
+        "name": "Kevin",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "celta"
+      },
+      {
+        "name": "Gabriel Veiga",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "celta"
+      },
+      {
+        "name": "Fernando",
+        "position": "Centrocampista",
+        "number": 36,
+        "team": "celta"
+      },
+      {
+        "name": "Carles Perez",
+        "position": "Delantero",
+        "number": 7,
+        "team": "celta"
+      },
+      {
+        "name": "Paciencia",
+        "position": "Delantero",
+        "number": 9,
+        "team": "celta"
+      },
+      {
+        "name": "Aspas",
+        "position": "Delantero",
+        "number": 10,
+        "team": "celta"
+      },
+      {
+        "name": "Franco Cervi",
+        "position": "Delantero",
+        "number": 11,
+        "team": "celta"
+      },
+      {
+        "name": "Jorgen Strand Larsen",
+        "position": "Delantero",
+        "number": 18,
+        "team": "celta"
+      },
+      {
+        "name": "Augusto Solari",
+        "position": "Delantero",
+        "number": 21,
+        "team": "celta"
+      },
+      {
+        "name": "Luca De La Torre",
+        "position": "Delantero",
+        "number": 23,
+        "team": "celta"
+      },
+      {
+        "name": "Miguel Rodriguez",
+        "position": "Delantero",
+        "number": 29,
+        "team": "celta"
+      }
+    ]
+  },
+  {
+    "id": "real valladolid",
+    "name": "Valladolid",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-valladolid.svg",
+    "urlWeb": "https://www.realvalladolid.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/realvalladolid/?hl=es",
+      "https://twitter.com/realvalladolid?s=20",
+      "https://www.tiktok.com/@realvalladolid"
+    ],
+    "players": [
+      {
+        "name": "Masip",
+        "position": "Portero",
+        "number": 1,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Asenjo",
+        "position": "Portero",
+        "number": 13,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Javier Sánchez",
+        "position": "Defensa",
+        "number": 5,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Jawad El Yamiq",
+        "position": "Defensa",
+        "number": 15,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Luis Pérez",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Kike",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Aguado",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Monchu",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Olaza",
+        "position": "Centrocampista",
+        "number": 12,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Malsa",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Roque Mesa",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Escudero",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Iván Sánchez",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Anuar",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Joaquín",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Sergio León",
+        "position": "Delantero",
+        "number": 7,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Óscar Plano",
+        "position": "Delantero",
+        "number": 10,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Gonzalo Plata",
+        "position": "Delantero",
+        "number": 11,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Kenedy",
+        "position": "Delantero",
+        "number": 19,
+        "team": "real valladolid"
+      },
+      {
+        "name": "Sergi Guardiola",
+        "position": "Delantero",
+        "number": 19,
+        "team": "real valladolid"
+      }
+    ]
+  },
+  {
+    "id": "almería",
+    "name": "Almería",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-almeria.svg",
+    "urlWeb": "https://www.udalmeriasad.com/",
+    "socialNetworks": [
+      "https://www.instagram.com/udalmeria/?hl=es",
+      "https://twitter.com/U_D_Almeria?s=20",
+      "https://www.tiktok.com/@udalmeria"
+    ],
+    "players": [
+      {
+        "name": "Fernando Martínez",
+        "position": "Portero",
+        "number": 13,
+        "team": "almería"
+      },
+      {
+        "name": "Diego Lázaro",
+        "position": "Portero",
+        "number": 25,
+        "team": "almería"
+      },
+      {
+        "name": "Pacheco",
+        "position": "Portero",
+        "number": 0,
+        "team": "almería"
+      },
+      {
+        "name": "Rodrigo Ely",
+        "position": "Defensa",
+        "number": 19,
+        "team": "almería"
+      },
+      {
+        "name": "Chumi",
+        "position": "Defensa",
+        "number": 21,
+        "team": "almería"
+      },
+      {
+        "name": "Srdan Babic",
+        "position": "Defensa",
+        "number": 22,
+        "team": "almería"
+      },
+      {
+        "name": "Gonzalo Melero",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "almería"
+      },
+      {
+        "name": "Eguaras",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "almería"
+      },
+      {
+        "name": "Lucas Robertone",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "almería"
+      },
+      {
+        "name": "César De la Hoz",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "almería"
+      },
+      {
+        "name": "Portillo",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "almería"
+      },
+      {
+        "name": "Lazaro",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "almería"
+      },
+      {
+        "name": "Akieme",
+        "position": "Centrocampista",
+        "number": 15,
+        "team": "almería"
+      },
+      {
+        "name": "Arnau Martínez",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "almería"
+      },
+      {
+        "name": "Álex Centelles",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "almería"
+      },
+      {
+        "name": "Samuel Costa",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "almería"
+      },
+      {
+        "name": "Houboulang Mendes",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "almería"
+      },
+      {
+        "name": "Martin Svidersky",
+        "position": "Centrocampista",
+        "number": 26,
+        "team": "almería"
+      },
+      {
+        "name": "Ramazani",
+        "position": "Delantero",
+        "number": 7,
+        "team": "almería"
+      },
+      {
+        "name": "El Bilal Toure",
+        "position": "Delantero",
+        "number": 9,
+        "team": "almería"
+      },
+      {
+        "name": "Embarba",
+        "position": "Delantero",
+        "number": 10,
+        "team": "almería"
+      },
+      {
+        "name": "Dyego Sousa",
+        "position": "Delantero",
+        "number": 11,
+        "team": "almería"
+      },
+      {
+        "name": "Leo Baptistao",
+        "position": "Delantero",
+        "number": 12,
+        "team": "almería"
+      },
+      {
+        "name": "Pozo",
+        "position": "Delantero",
+        "number": 17,
+        "team": "almería"
+      },
+      {
+        "name": "Carlos Mosquero",
+        "position": "Delantero",
+        "number": 33,
+        "team": "almería"
+      }
+    ]
+  },
+  {
+    "id": "espanyol",
+    "name": "Espanyol",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-espanyol.svg",
+    "urlWeb": "https://www.rcdespanyol.com/",
+    "socialNetworks": [
+      "https://www.instagram.com/rcdespanyol/?hl=es",
+      "https://twitter.com/RCDEspanyol?s=20",
+      "https://www.tiktok.com/@rcdespanyol?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Joan Garcia",
+        "position": "Portero",
+        "number": 1,
+        "team": "espanyol"
+      },
+      {
+        "name": "Álvaro Fernández",
+        "position": "Portero",
+        "number": 25,
+        "team": "espanyol"
+      },
+      {
+        "name": "Ángel",
+        "position": "Portero",
+        "number": 34,
+        "team": "espanyol"
+      },
+      {
+        "name": "Cabrera",
+        "position": "Defensa",
+        "number": 4,
+        "team": "espanyol"
+      },
+      {
+        "name": "Calero",
+        "position": "Defensa",
+        "number": 5,
+        "team": "espanyol"
+      },
+      {
+        "name": "Aleix Vidal",
+        "position": "Defensa",
+        "number": 22,
+        "team": "espanyol"
+      },
+      {
+        "name": "Sergi Gómez",
+        "position": "Defensa",
+        "number": 24,
+        "team": "espanyol"
+      },
+      {
+        "name": "Luca Koleosho",
+        "position": "Defensa",
+        "number": 30,
+        "team": "espanyol"
+      },
+      {
+        "name": "Óscar Gil",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "espanyol"
+      },
+      {
+        "name": "Adrià Pedrosa",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "espanyol"
+      },
+      {
+        "name": "Keidi",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "espanyol"
+      },
+      {
+        "name": "Darder",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "espanyol"
+      },
+      {
+        "name": "Vinicius",
+        "position": "Centrocampista",
+        "number": 12,
+        "team": "espanyol"
+      },
+      {
+        "name": "Brian",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "espanyol"
+      },
+      {
+        "name": "Edu Expósito",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "espanyol"
+      },
+      {
+        "name": "Melamed",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "espanyol"
+      },
+      {
+        "name": "Omar",
+        "position": "Centrocampista",
+        "number": 26,
+        "team": "espanyol"
+      },
+      {
+        "name": "Dani",
+        "position": "Centrocampista",
+        "number": 31,
+        "team": "espanyol"
+      },
+      {
+        "name": "Roger Santamaria",
+        "position": "Centrocampista",
+        "number": 35,
+        "team": "espanyol"
+      },
+      {
+        "name": "Javi Puado",
+        "position": "Delantero",
+        "number": 7,
+        "team": "espanyol"
+      },
+      {
+        "name": "Joselu",
+        "position": "Delantero",
+        "number": 9,
+        "team": "espanyol"
+      },
+      {
+        "name": "José Carlos",
+        "position": "Delantero",
+        "number": 16,
+        "team": "espanyol"
+      },
+      {
+        "name": "Braithwaite",
+        "position": "Delantero",
+        "number": 17,
+        "team": "espanyol"
+      },
+      {
+        "name": "Dani Gómez",
+        "position": "Delantero",
+        "number": 19,
+        "team": "espanyol"
+      },
+      {
+        "name": "De Tomás",
+        "position": "Delantero",
+        "number": 25,
+        "team": "espanyol"
+      },
+      {
+        "name": "Nabili Zoubdi Touaizi",
+        "position": "Delantero",
+        "number": 32,
+        "team": "espanyol"
+      }
+    ]
+  },
+  {
+    "id": "sevilla",
+    "name": "Sevilla",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-sevilla.svg",
+    "urlWeb": "https://sevillafc.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/sevillafc/?hl=es",
+      "https://twitter.com/SevillaFC?s=20",
+      "https://www.tiktok.com/@sevillafc?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Dmitrovic",
+        "position": "Portero",
+        "number": 1,
+        "team": "sevilla"
+      },
+      {
+        "name": "Bono",
+        "position": "Portero",
+        "number": 13,
+        "team": "sevilla"
+      },
+      {
+        "name": "Rekik",
+        "position": "Defensa",
+        "number": 4,
+        "team": "sevilla"
+      },
+      {
+        "name": "Nianzou Tanguy Kouassi",
+        "position": "Defensa",
+        "number": 14,
+        "team": "sevilla"
+      },
+      {
+        "name": "Marcao",
+        "position": "Defensa",
+        "number": 23,
+        "team": "sevilla"
+      },
+      {
+        "name": "Montiel",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "sevilla"
+      },
+      {
+        "name": "Alex Telles",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "sevilla"
+      },
+      {
+        "name": "Lucas Ocampos",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "sevilla"
+      },
+      {
+        "name": "Gudelj",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "sevilla"
+      },
+      {
+        "name": "Suso",
+        "position": "Centrocampista",
+        "number": 7,
+        "team": "sevilla"
+      },
+      {
+        "name": "Joan Jordán",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "sevilla"
+      },
+      {
+        "name": "Rakitic",
+        "position": "Centrocampista",
+        "number": 10,
+        "team": "sevilla"
+      },
+      {
+        "name": "Januzaj",
+        "position": "Centrocampista",
+        "number": 11,
+        "team": "sevilla"
+      },
+      {
+        "name": "Jesús Navas",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "sevilla"
+      },
+      {
+        "name": "Lamela",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "sevilla"
+      },
+      {
+        "name": "Marcos Acuña",
+        "position": "Centrocampista",
+        "number": 19,
+        "team": "sevilla"
+      },
+      {
+        "name": "Fernando",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "sevilla"
+      },
+      {
+        "name": "Óliver Torres",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "sevilla"
+      },
+      {
+        "name": "Papu Gómez",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "sevilla"
+      },
+      {
+        "name": "Pablo Pérez",
+        "position": "Centrocampista",
+        "number": 26,
+        "team": "sevilla"
+      },
+      {
+        "name": "Carlos Alvarez",
+        "position": "Centrocampista",
+        "number": 27,
+        "team": "sevilla"
+      },
+      {
+        "name": "Nacho Quintana",
+        "position": "Centrocampista",
+        "number": 28,
+        "team": "sevilla"
+      },
+      {
+        "name": "José Ángel Carmona",
+        "position": "Centrocampista",
+        "number": 40,
+        "team": "sevilla"
+      },
+      {
+        "name": "Jesús Corona",
+        "position": "Delantero",
+        "number": 9,
+        "team": "sevilla"
+      },
+      {
+        "name": "Rafa Mir",
+        "position": "Delantero",
+        "number": 12,
+        "team": "sevilla"
+      },
+      {
+        "name": "En-Nesyri",
+        "position": "Delantero",
+        "number": 15,
+        "team": "sevilla"
+      },
+      {
+        "name": "Jose Alonso",
+        "position": "Delantero",
+        "number": 41,
+        "team": "sevilla"
+      }
+    ]
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-valencia.svg",
+    "urlWeb": "https://www.valenciacf.com/",
+    "socialNetworks": [
+      "https://www.instagram.com/valenciacf/?hl=es",
+      "https://twitter.com/valenciacf?s=20",
+      "https://www.tiktok.com/@valenciacf?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Jaume",
+        "position": "Portero",
+        "number": 1,
+        "team": "valencia"
+      },
+      {
+        "name": "Cristian Rivero",
+        "position": "Portero",
+        "number": 13,
+        "team": "valencia"
+      },
+      {
+        "name": "Mamardashvili",
+        "position": "Portero",
+        "number": 25,
+        "team": "valencia"
+      },
+      {
+        "name": "Charly",
+        "position": "Portero",
+        "number": 26,
+        "team": "valencia"
+      },
+      {
+        "name": "Emilio Bernard",
+        "position": "Portero",
+        "number": 42,
+        "team": "valencia"
+      },
+      {
+        "name": "Gabriel Paulista",
+        "position": "Defensa",
+        "number": 5,
+        "team": "valencia"
+      },
+      {
+        "name": "Hugo Guillamón",
+        "position": "Defensa",
+        "number": 6,
+        "team": "valencia"
+      },
+      {
+        "name": "Mouctar Diakhaby",
+        "position": "Defensa",
+        "number": 12,
+        "team": "valencia"
+      },
+      {
+        "name": "Cenk Özkacar",
+        "position": "Defensa",
+        "number": 15,
+        "team": "valencia"
+      },
+      {
+        "name": "Vazquez Alcalde",
+        "position": "Defensa",
+        "number": 21,
+        "team": "valencia"
+      },
+      {
+        "name": "Eray Cömert",
+        "position": "Defensa",
+        "number": 24,
+        "team": "valencia"
+      },
+      {
+        "name": "Cristhian Ibarguen",
+        "position": "Defensa",
+        "number": 33,
+        "team": "valencia"
+      },
+      {
+        "name": "Thierry Correia",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "valencia"
+      },
+      {
+        "name": "Lato",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "valencia"
+      },
+      {
+        "name": "Yunus Musah",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "valencia"
+      },
+      {
+        "name": "Gayá",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "valencia"
+      },
+      {
+        "name": "Nico González",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "valencia"
+      },
+      {
+        "name": "Andre Almeida",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "valencia"
+      },
+      {
+        "name": "Foulquier",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "valencia"
+      },
+      {
+        "name": "Rubén Iranzo",
+        "position": "Centrocampista",
+        "number": 34,
+        "team": "valencia"
+      },
+      {
+        "name": "Cavani",
+        "position": "Delantero",
+        "number": 7,
+        "team": "valencia"
+      },
+      {
+        "name": "Justin Kluivert",
+        "position": "Delantero",
+        "number": 9,
+        "team": "valencia"
+      },
+      {
+        "name": "Samu Castillejo",
+        "position": "Delantero",
+        "number": 11,
+        "team": "valencia"
+      },
+      {
+        "name": "Samuel Lino",
+        "position": "Delantero",
+        "number": 16,
+        "team": "valencia"
+      },
+      {
+        "name": "Hugo Duro",
+        "position": "Delantero",
+        "number": 19,
+        "team": "valencia"
+      },
+      {
+        "name": "Marcos André",
+        "position": "Delantero",
+        "number": 22,
+        "team": "valencia"
+      },
+      {
+        "name": "Francisco Martinez",
+        "position": "Delantero",
+        "number": 29,
+        "team": "valencia"
+      },
+      {
+        "name": "Diego López",
+        "position": "Delantero",
+        "number": 40,
+        "team": "valencia"
+      }
+    ]
+  },
+  {
+    "id": "cádiz",
+    "name": "Cádiz",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
+    "urlWeb": "https://www.cadizcf.com/",
+    "socialNetworks": [
+      "https://www.instagram.com/cadizclubdefutbol/?hl=es",
+      "https://twitter.com/Cadiz_CF?s=20",
+      "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Jeremias Ledesma",
+        "position": "Portero",
+        "number": 1,
+        "team": "cádiz"
+      },
+      {
+        "name": "David Gil",
+        "position": "Portero",
+        "number": 13,
+        "team": "cádiz"
+      },
+      {
+        "name": "Fali",
+        "position": "Defensa",
+        "number": 3,
+        "team": "cádiz"
+      },
+      {
+        "name": "Mamadou Mbaye",
+        "position": "Defensa",
+        "number": 5,
+        "team": "cádiz"
+      },
+      {
+        "name": "Álex Fernández",
+        "position": "Defensa",
+        "number": 8,
+        "team": "cádiz"
+      },
+      {
+        "name": "Luis Hernández",
+        "position": "Defensa",
+        "number": 23,
+        "team": "cádiz"
+      },
+      {
+        "name": "Genar Fornés",
+        "position": "Defensa",
+        "number": 27,
+        "team": "cádiz"
+      },
+      {
+        "name": "Victor Chust",
+        "position": "Defensa",
+        "number": 32,
+        "team": "cádiz"
+      },
+      {
+        "name": "Cala",
+        "position": "Defensa",
+        "number": 0,
+        "team": "cádiz"
+      },
+      {
+        "name": "Rubén Alcaraz",
+        "position": "Centrocampista",
+        "number": 4,
+        "team": "cádiz"
+      },
+      {
+        "name": "José Mari",
+        "position": "Centrocampista",
+        "number": 6,
+        "team": "cádiz"
+      },
+      {
+        "name": "Rubén Sobrino",
+        "position": "Centrocampista",
+        "number": 7,
+        "team": "cádiz"
+      },
+      {
+        "name": "Iza",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "cádiz"
+      },
+      {
+        "name": "Santiago Arzamendia",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "cádiz"
+      },
+      {
+        "name": "Luis Espino",
+        "position": "Centrocampista",
+        "number": 22,
+        "team": "cádiz"
+      },
+      {
+        "name": "Fede",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "cádiz"
+      },
+      {
+        "name": "Álvaro Bastida",
+        "position": "Centrocampista",
+        "number": 38,
+        "team": "cádiz"
+      },
+      {
+        "name": "Zaldua",
+        "position": "Centrocampista",
+        "number": 0,
+        "team": "cádiz"
+      },
+      {
+        "name": "Lozano",
+        "position": "Delantero",
+        "number": 9,
+        "team": "cádiz"
+      },
+      {
+        "name": "T. Bongonda",
+        "position": "Delantero",
+        "number": 10,
+        "team": "cádiz"
+      },
+      {
+        "name": "Iván Alejo",
+        "position": "Delantero",
+        "number": 11,
+        "team": "cádiz"
+      },
+      {
+        "name": "Brian Ocampo",
+        "position": "Delantero",
+        "number": 14,
+        "team": "cádiz"
+      },
+      {
+        "name": "Negredo",
+        "position": "Delantero",
+        "number": 18,
+        "team": "cádiz"
+      }
+    ]
+  },
+  {
+    "id": "getafe",
+    "name": "Getafe",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-getafe.svg",
+    "urlWeb": "https://www.getafecf.com/",
+    "socialNetworks": [
+      "https://www.instagram.com/getafecf/?hl=es",
+      "https://twitter.com/GetafeCF?s=20",
+      "https://www.tiktok.com/@getafecf"
+    ],
+    "players": [
+      {
+        "name": "Casilla",
+        "position": "Portero",
+        "number": 1,
+        "team": "getafe"
+      },
+      {
+        "name": "David Soria",
+        "position": "Portero",
+        "number": 13,
+        "team": "getafe"
+      },
+      {
+        "name": "Diego Conde",
+        "position": "Portero",
+        "number": 27,
+        "team": "getafe"
+      },
+      {
+        "name": "Vicente Bellmunt Garcia",
+        "position": "Portero",
+        "number": 33,
+        "team": "getafe"
+      },
+      {
+        "name": "Gastón Álvarez",
+        "position": "Defensa",
+        "number": 4,
+        "team": "getafe"
+      },
+      {
+        "name": "Domingos Duarte",
+        "position": "Defensa",
+        "number": 6,
+        "team": "getafe"
+      },
+      {
+        "name": "Omar Alderete",
+        "position": "Defensa",
+        "number": 15,
+        "team": "getafe"
+      },
+      {
+        "name": "Mitrovic",
+        "position": "Defensa",
+        "number": 23,
+        "team": "getafe"
+      },
+      {
+        "name": "Djene",
+        "position": "Centrocampista",
+        "number": 2,
+        "team": "getafe"
+      },
+      {
+        "name": "Fabricio Angileri",
+        "position": "Centrocampista",
+        "number": 3,
+        "team": "getafe"
+      },
+      {
+        "name": "Luis Milla",
+        "position": "Centrocampista",
+        "number": 5,
+        "team": "getafe"
+      },
+      {
+        "name": "Jaime Seoane",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "getafe"
+      },
+      {
+        "name": "Portu",
+        "position": "Centrocampista",
+        "number": 9,
+        "team": "getafe"
+      },
+      {
+        "name": "Aleñá",
+        "position": "Centrocampista",
+        "number": 11,
+        "team": "getafe"
+      },
+      {
+        "name": "Jordan Amavi",
+        "position": "Centrocampista",
+        "number": 12,
+        "team": "getafe"
+      },
+      {
+        "name": "Ángel Algobia",
+        "position": "Centrocampista",
+        "number": 16,
+        "team": "getafe"
+      },
+      {
+        "name": "Munir",
+        "position": "Centrocampista",
+        "number": 17,
+        "team": "getafe"
+      },
+      {
+        "name": "Arambarri",
+        "position": "Centrocampista",
+        "number": 18,
+        "team": "getafe"
+      },
+      {
+        "name": "Maksimovic",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "getafe"
+      },
+      {
+        "name": "Juan Iglesias",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "getafe"
+      },
+      {
+        "name": "Damián Suárez",
+        "position": "Centrocampista",
+        "number": 22,
+        "team": "getafe"
+      },
+      {
+        "name": "Koffi",
+        "position": "Centrocampista",
+        "number": 26,
+        "team": "getafe"
+      },
+      {
+        "name": "Mata",
+        "position": "Delantero",
+        "number": 7,
+        "team": "getafe"
+      },
+      {
+        "name": "Enes Ünal",
+        "position": "Delantero",
+        "number": 10,
+        "team": "getafe"
+      },
+      {
+        "name": "Juan Latasa",
+        "position": "Delantero",
+        "number": 14,
+        "team": "getafe"
+      },
+      {
+        "name": "Mayoral",
+        "position": "Delantero",
+        "number": 19,
+        "team": "getafe"
+      }
+    ]
+  },
+  {
+    "id": "elche",
+    "name": "Elche",
+    "image": "https://proyecto-mancito-api.davidasensi.workers.dev/static/logos/logo-elche.svg",
+    "urlWeb": "https://www.elchecf.es/",
+    "socialNetworks": [
+      "https://www.instagram.com/elchecf/?hl=es",
+      "https://twitter.com/elchecf?s=20",
+      "https://www.tiktok.com/@elchecf?lang=es"
+    ],
+    "players": [
+      {
+        "name": "Axel Werner",
+        "position": "Portero",
+        "number": 1,
+        "team": "elche"
+      },
+      {
+        "name": "Edgar",
+        "position": "Portero",
+        "number": 13,
+        "team": "elche"
+      },
+      {
+        "name": "Enzo Roco",
+        "position": "Defensa",
+        "number": 3,
+        "team": "elche"
+      },
+      {
+        "name": "Diego González",
+        "position": "Defensa",
+        "number": 4,
+        "team": "elche"
+      },
+      {
+        "name": "Gonzalo Verdú",
+        "position": "Defensa",
+        "number": 5,
+        "team": "elche"
+      },
+      {
+        "name": "Bigas",
+        "position": "Defensa",
+        "number": 6,
+        "team": "elche"
+      },
+      {
+        "name": "Raúl Guti",
+        "position": "Centrocampista",
+        "number": 8,
+        "team": "elche"
+      },
+      {
+        "name": "Helibelton Palacios",
+        "position": "Centrocampista",
+        "number": 14,
+        "team": "elche"
+      },
+      {
+        "name": "Gumbau",
+        "position": "Centrocampista",
+        "number": 20,
+        "team": "elche"
+      },
+      {
+        "name": "Omar Mascarell",
+        "position": "Centrocampista",
+        "number": 21,
+        "team": "elche"
+      },
+      {
+        "name": "Nicolás Fernández",
+        "position": "Centrocampista",
+        "number": 22,
+        "team": "elche"
+      },
+      {
+        "name": "Clerc",
+        "position": "Centrocampista",
+        "number": 23,
+        "team": "elche"
+      },
+      {
+        "name": "Pol Lirola",
+        "position": "Centrocampista",
+        "number": 24,
+        "team": "elche"
+      },
+      {
+        "name": "John Donald",
+        "position": "Centrocampista",
+        "number": 26,
+        "team": "elche"
+      },
+      {
+        "name": "Marco Soler",
+        "position": "Centrocampista",
+        "number": 27,
+        "team": "elche"
+      },
+      {
+        "name": "Lucas Boyé",
+        "position": "Delantero",
+        "number": 9,
+        "team": "elche"
+      },
+      {
+        "name": "Pere Milla",
+        "position": "Delantero",
+        "number": 10,
+        "team": "elche"
+      },
+      {
+        "name": "Tete Morente",
+        "position": "Delantero",
+        "number": 11,
+        "team": "elche"
+      },
+      {
+        "name": "Roger",
+        "position": "Delantero",
+        "number": 15,
+        "team": "elche"
+      },
+      {
+        "name": "Alex Collado",
+        "position": "Delantero",
+        "number": 15,
+        "team": "elche"
+      },
+      {
+        "name": "Fidel",
+        "position": "Delantero",
+        "number": 16,
+        "team": "elche"
+      },
+      {
+        "name": "Josan",
+        "position": "Delantero",
+        "number": 17,
+        "team": "elche"
+      },
+      {
+        "name": "Ezequiel Ponce",
+        "position": "Delantero",
+        "number": 19,
+        "team": "elche"
+      },
+      {
+        "name": "Diego Bri",
+        "position": "Delantero",
+        "number": 26,
+        "team": "elche"
+      }
+    ]
+  }
 ]
