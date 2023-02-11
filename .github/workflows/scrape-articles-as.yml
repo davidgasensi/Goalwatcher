@@ -26,6 +26,7 @@ jobs:
           run_install: true
       - run: |
           node scraping/articlesAs.js
+          git config user.name davidgasensi
           git add -A
           git commit -m "Update articles"
           git push origin main
