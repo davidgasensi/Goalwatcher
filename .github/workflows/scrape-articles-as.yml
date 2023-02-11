@@ -20,14 +20,12 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm ci
-      - run: npm test
       - uses: pnpm/action-setup@v2
         with:
           version: 7.27.0
           run_install: true
       - run: |
-          node .\scraping\articlesAs.js
+          node scraping/articlesAs.js
           git config user.name project-bot
           git add -A
           git commit -m "[bot] Update articles"
