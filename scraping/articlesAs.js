@@ -75,7 +75,6 @@ URLS_ALL.forEach(async (u) => {
         });
       }
     });
-    console.log(articles);
     return articles;
   }
 
@@ -88,7 +87,6 @@ URLS_ALL.forEach(async (u) => {
     const creationDate = new Date(article.createDate);
     creationDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
-    console.log(creationDate >= currentDate)
     return creationDate >= currentDate;
   });
 
