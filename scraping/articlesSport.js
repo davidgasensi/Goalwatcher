@@ -5,6 +5,7 @@ import path from 'node:path';
 import _ from 'lodash';
 import iconv from 'iconv-lite';
 import ARTICLES from '../db/articles.json' assert { type: 'json' };
+import ALL_ARTICLES from '../db/articlesAll.json' assert { type: 'json' };
 
 const URLS_ALL = ['https://www.sport.es/es/'];
 
@@ -24,15 +25,6 @@ URLS_ALL.forEach(async (u) => {
       .replace(/.*:/g, ' ')
       .trim();
   };
-
-  const cleanTextTeam = (text) =>
-    text
-      .replace(/\t|\n|\s:/g, '')
-      .replace(/.*:/g, ' ')
-      .replace(/\s/g, '')
-      .split('.')
-      .join('')
-      .trim();
 
   async function getarticles() {
     const $ = await scrape(u);
@@ -80,15 +72,22 @@ URLS_ALL.forEach(async (u) => {
 
   const articles = await getarticles();
   ARTICLES.push(...articles);
-  const filePath = path.join(process.cwd(), './db/articles.json'); // current working directory
+  ALL_ARTICLES.push(...articles);
+
+  const filePathArticles = path.join(process.cwd(), './db/articles.json'); // current working directory
+  const filePathArticlesAll = path.join(process.cwd(), './db/articlesAll.json');
+
   const currentDate = new Date();
 
-  const filteredArticles = ARTICLES.filter((article) => { // filtramos para coger solo los que la fecha de creacón sea mayor a la actual
+  const filteredArticles = ARTICLES.filter((article) => {
     const creationDate = new Date(article.createDate);
     creationDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
     return creationDate >= currentDate;
   });
 
-  await writeFile(filePath, JSON.stringify(filteredArticles, null, 2), null);
+  const filteredAllArticles = ALL_ARTICLES.filter((v,i,a)=>a.findIndex(v2=>(v2.title===v.title))===i)
+
+  await writeFile(filePathArticles, JSON.stringify(filteredArticles, null, 2), null);
+  await writeFile(filePathArticlesAll, JSON.stringify(filteredAllArticles, null, 2), null);
 });

@@ -5,6 +5,7 @@ import path from 'node:path';
 import _ from 'lodash';
 import iconv from 'iconv-lite';
 import ARTICLES from '../db/articles.json' assert { type: 'json' };
+import ALL_ARTICLES from '../db/articlesAll.json' assert { type: 'json' };
 
 const URLS_ALL = ['https://as.com/futbol/primera/'];
 
@@ -12,7 +13,7 @@ URLS_ALL.forEach(async (u) => {
   async function scrape(url) {
     const res = await fetch(url);
     let html = await res.text();
-   //  html = iconv.decode(html, 'ISO-8859-1');
+    //  html = iconv.decode(html, 'ISO-8859-1');
     return cheerio.load(html);
   }
 
@@ -24,15 +25,6 @@ URLS_ALL.forEach(async (u) => {
       .replace(/.*:/g, ' ')
       .trim();
   };
-
-  const cleanTextTeam = (text) =>
-    text
-      .replace(/\t|\n|\s:/g, '')
-      .replace(/.*:/g, ' ')
-      .replace(/\s/g, '')
-      .split('.')
-      .join('')
-      .trim();
 
   async function getarticles() {
     const $ = await scrape(u);
@@ -48,7 +40,7 @@ URLS_ALL.forEach(async (u) => {
     $rows.each(async (index, el) => {
       let today = new Date();
       let date = today.getTime();
-      const domain = u.replace("https://", "").split(".")[0];
+      const domain = u.replace('https://', '').split('.')[0];
       const $el = $(el);
       if (index < 3) {
         const articleEntries = Object.entries(ARTICLE_SELECTORS).map(
@@ -59,7 +51,8 @@ URLS_ALL.forEach(async (u) => {
                 : typeOf === 'link'
                 ? $el.find(selector).attr('href')
                 : $el.find(selector).text();
-            const cleanedValue = typeOf === 'string' ? cleanText(rawValue) : rawValue;
+            const cleanedValue =
+              typeOf === 'string' ? cleanText(rawValue) : rawValue;
             const value =
               typeOf === 'number' ? Number(cleanedValue) : cleanedValue;
             return [key, value];
@@ -80,15 +73,23 @@ URLS_ALL.forEach(async (u) => {
 
   const articles = await getarticles();
   ARTICLES.push(...articles);
+  ALL_ARTICLES.push(...articles);
+
   const filePath = path.join(process.cwd(), './db/articles.json'); // current working directory
+  const filePathArticlesAll = path.join(process.cwd(), './db/articlesAll.json');
+  
   const currentDate = new Date();
 
-  const filteredArticles = ARTICLES.filter((article) => { // filtramos para coger solo los que la fecha de creacón sea mayor a la actual
+  const filteredArticles = ARTICLES.filter((article) => {
+    // filtramos para coger solo los que la fecha de creacón sea mayor a la actual
     const creationDate = new Date(article.createDate);
     creationDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
     return creationDate >= currentDate;
   });
 
+  const filteredAllArticles = ALL_ARTICLES.filter((v,i,a)=>a.findIndex(v2=>(v2.title===v.title))===i)
+
   await writeFile(filePath, JSON.stringify(filteredArticles, null, 2), null);
+  await writeFile(filePathArticlesAll, JSON.stringify(filteredAllArticles, null, 2), null);
 });
