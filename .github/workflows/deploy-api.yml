@@ -11,7 +11,7 @@ jobs:
     name: Deploy API to Cloudflare Workers
     steps:
       - uses: actions/checkout@v3
-      - uses: pnpm/setup-node@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: 16
       - uses: pnpm/action-setup@v2
