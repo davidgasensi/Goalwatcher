@@ -90,6 +90,8 @@ URLS_ALL.forEach(async (u) => {
 
   const filteredAllArticles = ALL_ARTICLES.filter((v,i,a)=>a.findIndex(v2=>(v2.title===v.title))===i)
 
-  await writeFile(filePath, JSON.stringify(filteredArticles, null, 2), null);
+  const filteredArticlesNoDuplicate = filteredArticles.filter((v,i,a)=>a.findIndex(v2=>(v2.title===v.title))===i)
+
+  await writeFile(filePath, JSON.stringify(filteredArticlesNoDuplicate, null, 2), null);
   await writeFile(filePathArticlesAll, JSON.stringify(filteredAllArticles, null, 2), null);
 });
