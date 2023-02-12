@@ -6,6 +6,7 @@ GoalWatcher es un sitio web dedicado a la actualidad del fútbol. Ofrece noticia
 
 ## API
 URL: https://goalwatcher.davidasensi.workers.dev/
+
 Endpoints disponibles:
 
 * GET `/leaderboard`: Devuelve la clasificacón de la Liga Española.
