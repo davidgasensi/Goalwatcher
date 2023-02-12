@@ -647,13 +647,13 @@
     }
   },
   {
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "wins": 10,
     "loses": 5,
-    "draws": 5,
+    "draws": 6,
     "goalsScored": 29,
     "goalsConceded": 17,
-    "points": 35,
+    "points": 36,
     "team": {
       "id": "atletico",
       "name": "Atlético",
@@ -1031,8 +1031,8 @@
     "wins": 9,
     "loses": 6,
     "draws": 6,
-    "goalsScored": 27,
-    "goalsConceded": 22,
+    "goalsScored": 28,
+    "goalsConceded": 23,
     "points": 33,
     "team": {
       "id": "rayo",
@@ -2371,13 +2371,13 @@
     }
   },
   {
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "wins": 6,
     "loses": 9,
-    "draws": 5,
+    "draws": 6,
     "goalsScored": 22,
     "goalsConceded": 32,
-    "points": 23,
+    "points": 24,
     "team": {
       "id": "celta",
       "name": "Celta",
@@ -3529,8 +3529,8 @@
     "wins": 4,
     "loses": 10,
     "draws": 7,
-    "goalsScored": 17,
-    "goalsConceded": 27,
+    "goalsScored": 18,
+    "goalsConceded": 28,
     "points": 19,
     "team": {
       "id": "getafe",
