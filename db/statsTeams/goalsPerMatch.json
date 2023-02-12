@@ -2,7 +2,7 @@
   {
     "type": "Goles por partido",
     "position": 1,
-    "value": 2,
+    "value": 2.05,
     "name": "FC Barcelona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -23,7 +23,7 @@
   {
     "type": "Goles por partido",
     "position": 4,
-    "value": 1.38,
+    "value": 1.43,
     "name": "Atlético",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
@@ -31,15 +31,15 @@
     "type": "Goles por partido",
     "position": 5,
     "value": 1.33,
-    "name": "R. Sociedad",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+    "name": "Rayo",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles por partido",
     "position": 6,
-    "value": 1.29,
-    "name": "Rayo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+    "value": 1.33,
+    "name": "R. Sociedad",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Goles por partido",
@@ -107,16 +107,16 @@
   {
     "type": "Goles por partido",
     "position": 16,
-    "value": 0.81,
-    "name": "Cádiz",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+    "value": 0.86,
+    "name": "Getafe",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Goles por partido",
     "position": 17,
     "value": 0.81,
-    "name": "Getafe",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "name": "Cádiz",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Goles por partido",
