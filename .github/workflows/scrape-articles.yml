@@ -30,7 +30,8 @@ jobs:
           node scraping/articlesSport.js
           git config --global user.name "davidgasensi"
           git config --global user.email "davidgasensi@gmail.com"
-          git add -A
+          git add "articles.json"
+          git add "articles all.json"
           git commit -m "Update articles"
           git push origin main
         
