@@ -41,7 +41,48 @@ app.get('/', (ctx) =>
     {
       endpoint: '/stats',
       description: 'Returns the stats',
-    }
+    },
+    {
+      endpoint: '/stats/players',
+      description: 'Returns the stats of players',
+    },
+    {
+      endpoint: '/stats/players/goalAgainst',
+      description: 'Returns the stats of goals against per player',
+    },
+    {
+      endpoint: '/stats/players/penalties',
+      description: 'Return the stats of penalties scored by player',
+    },
+    {
+      endpoint: '/stats/players/pichichi',
+      description: 'Returns the stats of pichichi',
+    },
+    {
+      endpoint: '/stats/players/redcards',
+      description: 'Returns the stats of red cards per player',
+    },
+    {
+      endpoint: '/stats/players/yellowcards',
+      description: 'Returns the stats of yellow cards per player',
+    },
+    {
+      endpoint: '/stats/players/zamora',
+      description: 'Returns the stats of zamora',
+    },
+    {
+      endpoint: '/stats/teams',
+      description: 'Returns the stats of teams',
+    },
+    {
+      endpoint: '/stats/teams/foulsPerMatch',
+      description: 'Returns the stats of fouls per match for teams',
+    },
+    {
+      endpoint: '/stats/teams/goalsPerMatch',
+      description: 'Returns the stats of goals scored per match for teams',
+    },
+    
   ])
 );
 
