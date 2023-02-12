@@ -28,6 +28,7 @@ jobs:
       - run: |
           node scraping/articlesAs.js
           node scraping/articlesSport.js
+          node scraping/leaderboard.js
           git config --global user.name "davidgasensi"
           git config --global user.email "davidgasensi@gmail.com"
           git add .
