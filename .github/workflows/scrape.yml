@@ -1,4 +1,4 @@
-name: Scrape Datos
+name: Scrape Data
 
 on:
   workflow_dispatch:
