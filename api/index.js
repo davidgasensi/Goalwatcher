@@ -3,6 +3,18 @@ import leaderboard from '../db/leaderboard.json';
 import teams from '../db/teams.json';
 import players from '../db/players.json'
 import articles from '../db/articles.json'
+
+import goalAgainst from '../db/statsPlayers/goalAgainst.json'
+import penalties from '../db/statsPlayers/penalties.json'
+import pichichi from '../db/statsPlayers/pichichi.json'
+import redcards from '../db/statsPlayers/redcards.json'
+import yellowcards from '../db/statsPlayers/yellowcards.json'
+import zamora from '../db/statsPlayers/zamora.json'
+import foulsPerMatch from '../db/statsTeams/foulsPerMatch.json'
+import goalsPerMatch from '../db/statsTeams/goalsPerMatch.json'
+
+
+
 import { serveStatic } from 'hono/serve-static.module';
 import _ from 'lodash';
 
@@ -25,6 +37,10 @@ app.get('/', (ctx) =>
     {
       endpoint: '/articles',
       description: 'Returns the articles',
+    },
+    {
+      endpoint: '/stats',
+      description: 'Returns the stats',
     }
   ])
 );
@@ -57,6 +73,75 @@ app.get('/players/:name', (ctx) => {
   const foundPlayer = _.find(_.flattenDeep(players), { name: id });
 
   return foundPlayer ? ctx.json(foundPlayer) : ctx.json({ message: 'Player not found '}, 404)
+});
+
+app.get('/stats', (ctx) => {
+  return ctx.json({
+    statsPlayers: {
+      endpoint: '/stats/players',
+      goalAgainst,
+      penalties,
+      pichichi,
+      redcards,
+      yellowcards,
+      zamora,
+    },
+    statsTeams: {
+      endpoint: '/stats/teams',
+      foulsPerMatch,
+      goalsPerMatch,
+    }
+  });
+});
+
+app.get('/stats/players', (ctx) => {
+  return ctx.json({
+  goalAgainst: {endpoint: '/stats/players/goalAgainst', goalAgainst},
+  penalties: {endpoint: '/stats/players/penalties', penalties},
+  pichichi: {endpoint: '/stats/players/pichichi', pichichi},
+  redcards: {endpoint: '/stats/players/redcards', redcards},
+  yellowcards: {endpoint: '/stats/players/yellowcards', yellowcards},
+  zamora: {endpoint: '/stats/players/zamora', zamora},
+  });
+});
+
+app.get('/stats/players/goalAgainst', (ctx) => {
+  return ctx.json(goalAgainst);
+});
+
+app.get('/stats/players/penalties', (ctx) => {
+  return ctx.json(penalties);
+});
+
+app.get('/stats/players/pichichi', (ctx) => {
+  return ctx.json(pichichi);
+});
+
+app.get('/stats/players/redcards', (ctx) => {
+  return ctx.json(redcards);
+});
+
+app.get('/stats/players/yellowcards', (ctx) => {
+  return ctx.json(yellowcards);
+});
+
+app.get('/stats/players/zamora', (ctx) => {
+  return ctx.json(zamora);
+});
+
+app.get('/stats/teams', (ctx) => {
+  return ctx.json({
+  foulsPerMatch: {endpoint: '/stats/teams/foulsPerMatch', foulsPerMatch},
+  goalsPerMatch: {endpoint: '/stats/teams/goalsPerMatch', goalsPerMatch},
+  });
+});
+
+app.get('/stats/teams/foulsPerMatch', (ctx) => {
+  return ctx.json(foulsPerMatch);
+});
+
+app.get('/stats/teams/goalsPerMatch', (ctx) => {
+  return ctx.json(goalsPerMatch);
 });
 
 
