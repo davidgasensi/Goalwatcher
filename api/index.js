@@ -2,7 +2,9 @@ import { Hono } from 'hono';
 import leaderboard from '../db/leaderboard.json';
 import teams from '../db/teams.json';
 import players from '../db/players.json'
+import articles from '../db/articles.json'
 import { serveStatic } from 'hono/serve-static.module';
+import _ from 'lodash';
 
 const app = new Hono();
 
@@ -19,6 +21,10 @@ app.get('/', (ctx) =>
     {
       endpoint: '/players',
       description: 'Returns the players',
+    },
+    {
+      endpoint: '/articles',
+      description: 'Returns the articles',
     }
   ])
 );
@@ -29,6 +35,10 @@ app.get('/leaderboard', (ctx) => {
 
 app.get('/teams', (ctx) => {
   return ctx.json(teams);
+});
+
+app.get('/articles', (ctx) => {
+  return ctx.json(articles);
 });
 
 app.get('/teams/:id', (ctx) => {
@@ -42,7 +52,14 @@ app.get('/players', (ctx) => {
   return ctx.json(players);
 });
 
+app.get('/players/:name', (ctx) => {
+  const id = ctx.req.param('name');
+  const foundPlayer = _.find(_.flattenDeep(players), { name: id });
 
-app.get('/static/*', serveStatic({ root: './'}))
+  return foundPlayer ? ctx.json(foundPlayer) : ctx.json({ message: 'Player not found '}, 404)
+});
+
+
+app.get('/static/*', serveStatic({ root: './'})) // imagenes etc
 
 export default app;
