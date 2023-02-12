@@ -1,4 +1,4 @@
-name = "proyecto-mancito-api"
+name = "goalwatcher"
 main = "api/index.js"
 compatibility_date = "2023-02-09"
 
