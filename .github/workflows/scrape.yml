@@ -1,4 +1,4 @@
-name: Scrape Datos
+name: Scrape Data
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
       - webhook
 
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   build:
@@ -33,6 +33,6 @@ jobs:
           git config --global user.name "davidgasensi"
           git config --global user.email "davidgasensi@gmail.com"
           git add .
-          git commit -m "Update articles"
+          git commit -m "Update Data"
           git push origin main
         

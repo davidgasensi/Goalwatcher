@@ -1,12 +1,12 @@
 [
   {
-    "gamesPlayed": 20,
-    "wins": 17,
+    "gamesPlayed": 21,
+    "wins": 18,
     "loses": 1,
     "draws": 2,
-    "goalsScored": 42,
+    "goalsScored": 43,
     "goalsConceded": 7,
-    "points": 53,
+    "points": 56,
     "team": {
       "id": "barcelona",
       "name": "FC Barcelona",
@@ -1428,12 +1428,12 @@
     }
   },
   {
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "wins": 9,
-    "loses": 7,
+    "loses": 8,
     "draws": 4,
     "goalsScored": 22,
-    "goalsConceded": 17,
+    "goalsConceded": 18,
     "points": 31,
     "team": {
       "id": "villarreal",
