@@ -1,0 +1,72 @@
+[
+  {
+    "type": "Penaltis",
+    "position": 1,
+    "value": 4,
+    "name": "Cristhian Stuani",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 2,
+    "value": 4,
+    "name": "Karim Benzema",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 3,
+    "value": 4,
+    "name": "Borja Iglesias",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 4,
+    "value": 3,
+    "name": "Ezequiel Ávila",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 5,
+    "value": 3,
+    "name": "Jose Luis Joselu",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 6,
+    "value": 3,
+    "name": "Vedat Muriqi",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 7,
+    "value": 3,
+    "name": "Pere Milla",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 8,
+    "value": 3,
+    "name": "Edinson Cavani",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 9,
+    "value": 2,
+    "name": "Iago Aspas",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 10,
+    "value": 2,
+    "name": "Gerard Moreno",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+  }
+]

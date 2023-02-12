@@ -1,0 +1,72 @@
+[
+  {
+    "type": "Pichichi",
+    "position": 1,
+    "value": 14,
+    "name": "Robert Lewandowski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 2,
+    "value": 11,
+    "name": "Jose Luis Joselu",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 3,
+    "value": 9,
+    "name": "Karim Benzema",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 4,
+    "value": 9,
+    "name": "Borja Iglesias",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 5,
+    "value": 9,
+    "name": "Iago Aspas",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 6,
+    "value": 8,
+    "name": "Alexander Sorloth",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 7,
+    "value": 8,
+    "name": "Vedat Muriqi",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 8,
+    "value": 8,
+    "name": "Oihan Sancet",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 9,
+    "value": 7,
+    "name": "Ezequiel Ávila",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 10,
+    "value": 7,
+    "name": "Brais Méndez",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+  }
+]

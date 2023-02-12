@@ -1,0 +1,142 @@
+[
+  {
+    "type": "Goles por partido",
+    "position": 1,
+    "value": 2,
+    "name": "FC Barcelona",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 2,
+    "value": 1.9,
+    "name": "Real Madrid",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 3,
+    "value": 1.48,
+    "name": "Athletic",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 4,
+    "value": 1.38,
+    "name": "Atlético",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 5,
+    "value": 1.33,
+    "name": "R. Sociedad",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 6,
+    "value": 1.29,
+    "name": "Rayo",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 7,
+    "value": 1.29,
+    "name": "Girona",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 8,
+    "value": 1.29,
+    "name": "Betis",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 9,
+    "value": 1.24,
+    "name": "Valencia",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 10,
+    "value": 1.19,
+    "name": "Almería",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 11,
+    "value": 1.14,
+    "name": "Espanyol",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 12,
+    "value": 1.1,
+    "name": "Sevilla",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 13,
+    "value": 1.05,
+    "name": "Celta",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 14,
+    "value": 1.05,
+    "name": "Villarreal",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 15,
+    "value": 0.9,
+    "name": "Osasuna",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 16,
+    "value": 0.81,
+    "name": "Cádiz",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 17,
+    "value": 0.81,
+    "name": "Getafe",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 18,
+    "value": 0.76,
+    "name": "Mallorca",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 19,
+    "value": 0.71,
+    "name": "Valladolid",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 20,
+    "value": 0.71,
+    "name": "Elche",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
+  }
+]
