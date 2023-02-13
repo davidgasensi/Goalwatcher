@@ -412,8 +412,8 @@
     "wins": 13,
     "loses": 5,
     "draws": 3,
-    "goalsScored": 29,
-    "goalsConceded": 19,
+    "goalsScored": 31,
+    "goalsConceded": 21,
     "points": 42,
     "team": {
       "id": "rsociedad",
@@ -3107,8 +3107,8 @@
     "wins": 4,
     "loses": 8,
     "draws": 9,
-    "goalsScored": 24,
-    "goalsConceded": 31,
+    "goalsScored": 26,
+    "goalsConceded": 33,
     "points": 21,
     "team": {
       "id": "espanyol",
