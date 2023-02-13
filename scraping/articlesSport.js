@@ -51,7 +51,8 @@ URLS_ALL.forEach(async (u) => {
                 : typeOf === 'link'
                 ? $el.find(selector).attr('href')
                 : $el.find(selector).text();
-            const cleanedValue = typeOf === 'string' ? cleanText(rawValue) : rawValue;
+            const cleanedValue =
+              typeOf === 'string' ? cleanText(rawValue) : rawValue;
             const value =
               typeOf === 'number' ? Number(cleanedValue) : cleanedValue;
             return [key, value];
@@ -86,10 +87,30 @@ URLS_ALL.forEach(async (u) => {
     return creationDate >= currentDate;
   });
 
-  const filteredAllArticles = ALL_ARTICLES.filter((v,i,a)=>a.findIndex(v2=>(v2.title===v.title))===i)
+  const filteredAllArticlesNoDuplicate = ALL_ARTICLES.filter(
+    (v, i, a) => a.findIndex((v2) => v2.title === v.title) === i
+  ); // elimina duplicados
 
-  const filteredArticlesNoDuplicate = filteredArticles.filter((v,i,a)=>a.findIndex(v2=>(v2.title===v.title))===i)
+  const filteredArticlesNoDuplicate = filteredArticles.filter(
+    (v, i, a) => a.findIndex((v2) => v2.title === v.title) === i
+  ); // elimina duplicados
 
-  await writeFile(filePathArticles, JSON.stringify(filteredArticlesNoDuplicate, null, 2), null);
-  await writeFile(filePathArticlesAll, JSON.stringify(filteredAllArticles, null, 2), null);
+  const filteredAllArticlesRemoveOld = filteredAllArticlesNoDuplicate.filter((article) => { // Eliminamos los que lleven más de 1 mes
+    const creationDate = new Date(article.createDate);
+    const currentDate = new Date();
+    const differenceInMs = currentDate.getTime() - creationDate.getTime();
+    const differenceInDays = differenceInMs / 1000 / 60 / 60 / 24;
+    return differenceInDays <= 30;
+  });
+
+  await writeFile(
+    filePathArticles,
+    JSON.stringify(filteredArticlesNoDuplicate, null, 2),
+    null
+  );
+  await writeFile(
+    filePathArticlesAll,
+    JSON.stringify(filteredAllArticlesRemoveOld, null, 2),
+    null
+  );
 });
