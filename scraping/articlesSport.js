@@ -7,7 +7,7 @@ import iconv from 'iconv-lite';
 import ARTICLES from '../db/articles.json' assert { type: 'json' };
 import ALL_ARTICLES from '../db/articlesAll.json' assert { type: 'json' };
 
-const URLS_ALL = ['https://www.sport.es/es/'];
+const URLS_ALL = ['https://www.sport.es/es/laliga/'];
 
 URLS_ALL.forEach(async (u) => {
   async function scrape(url) {
