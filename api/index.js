@@ -86,15 +86,15 @@ app.get('/', (ctx) =>
   ])
 );
 
-app.get('/leaderboard', (ctx) => {
+app.get('/leaderboard\\/?', (ctx) => {
   return ctx.json(leaderboard);
 });
 
-app.get('/teams', (ctx) => {
+app.get('/teams\\/?', (ctx) => {
   return ctx.json(teams);
 });
 
-app.get('/articles', (ctx) => {
+app.get('/articles\\/?', (ctx) => {
   return ctx.json(articles);
 });
 
@@ -105,7 +105,7 @@ app.get('/teams/:id', (ctx) => {
   return foundTeam ? ctx.json(foundTeam) : ctx.json({ message: 'Team not found '}, 404)
 });
 
-app.get('/players', (ctx) => {
+app.get('/players\\/?', (ctx) => {
   return ctx.json(players);
 });
 
@@ -135,7 +135,7 @@ app.get('/stats', (ctx) => {
   });
 });
 
-app.get('/stats/players', (ctx) => {
+app.get('/stats/players\\/?', (ctx) => {
   return ctx.json({
   goalAgainst: {endpoint: '/stats/players/goalAgainst', goalAgainst},
   penalties: {endpoint: '/stats/players/penalties', penalties},
@@ -146,27 +146,27 @@ app.get('/stats/players', (ctx) => {
   });
 });
 
-app.get('/stats/players/goalAgainst', (ctx) => {
+app.get('/stats/players/goalAgainst\\/?', (ctx) => {
   return ctx.json(goalAgainst);
 });
 
-app.get('/stats/players/penalties', (ctx) => {
+app.get('/stats/players/penalties\\/?', (ctx) => {
   return ctx.json(penalties);
 });
 
-app.get('/stats/players/pichichi', (ctx) => {
+app.get('/stats/players/pichichi\\/?', (ctx) => {
   return ctx.json(pichichi);
 });
 
-app.get('/stats/players/redcards', (ctx) => {
+app.get('/stats/players/redcards\\/?', (ctx) => {
   return ctx.json(redcards);
 });
 
-app.get('/stats/players/yellowcards', (ctx) => {
+app.get('/stats/players/yellowcards\\/?', (ctx) => {
   return ctx.json(yellowcards);
 });
 
-app.get('/stats/players/zamora', (ctx) => {
+app.get('/stats/players/zamora\\/?', (ctx) => {
   return ctx.json(zamora);
 });
 
@@ -177,11 +177,11 @@ app.get('/stats/teams', (ctx) => {
   });
 });
 
-app.get('/stats/teams/foulsPerMatch', (ctx) => {
+app.get('/stats/teams/foulsPerMatch\\/?', (ctx) => {
   return ctx.json(foulsPerMatch);
 });
 
-app.get('/stats/teams/goalsPerMatch', (ctx) => {
+app.get('/stats/teams/goalsPerMatch\\/?', (ctx) => {
   return ctx.json(goalsPerMatch);
 });
 
