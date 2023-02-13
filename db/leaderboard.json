@@ -408,13 +408,13 @@
     }
   },
   {
-    "gamesPlayed": 20,
-    "wins": 12,
+    "gamesPlayed": 21,
+    "wins": 13,
     "loses": 5,
     "draws": 3,
-    "goalsScored": 28,
+    "goalsScored": 29,
     "goalsConceded": 19,
-    "points": 39,
+    "points": 42,
     "team": {
       "id": "rsociedad",
       "name": "R. Sociedad",
@@ -3103,12 +3103,12 @@
     }
   },
   {
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "wins": 4,
-    "loses": 7,
+    "loses": 8,
     "draws": 9,
     "goalsScored": 24,
-    "goalsConceded": 30,
+    "goalsConceded": 31,
     "points": 21,
     "team": {
       "id": "espanyol",
