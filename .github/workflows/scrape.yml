@@ -1,4 +1,4 @@
-name: Scrape Data - ${{ github.event.repository.updated_at}}
+name: Scrape Data
 
 on:
   workflow_dispatch:
@@ -25,7 +25,8 @@ jobs:
         with:
           version: 7.27.0
           run_install: true
-      - run: |
+      - name: Scrape and Push Data
+        run: |
           node scraping/articlesAs.js
           node scraping/articlesSport.js
           node scraping/leaderboard.js
