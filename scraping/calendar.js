@@ -84,8 +84,6 @@ async function getCalendar() {
 (async () => {
   const calendarArray = await getCalendar();
 
-  console.log(calendarArray);
-
   const filePathPlayers = path.join(process.cwd(), './db/calendar.json');
 
   await writeFile(filePathPlayers, JSON.stringify(calendarArray, null, 2), null);
