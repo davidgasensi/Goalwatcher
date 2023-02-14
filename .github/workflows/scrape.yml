@@ -30,9 +30,15 @@ jobs:
           node scraping/articlesSport.js
           node scraping/leaderboard.js
           node scraping/stats.js
-          git config --global user.name "davidgasensi"
-          git config --global user.email "davidgasensi@gmail.com"
-          git add .
-          git commit -m "Update Data"
-          git push origin main
-        
+          node scraping/calendar.js
+      - run: |
+          git remote update
+          if [ $(git rev-parse HEAD) = $(git rev-parse @{u}) ]; then
+            echo "Branch main está actualizada, no se harán cambios."
+          else
+            git config --global user.name "davidgasensi"
+            git config --global user.email "davidgasensi@gmail.com"
+            git add .
+            git commit -m "Update Data"
+            git push origin main
+          fi
