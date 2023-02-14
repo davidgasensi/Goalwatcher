@@ -63,6 +63,8 @@ async function getLeaderBoard() {
 }
 
 const leaderboard = await getLeaderBoard();
+const leaderBoardSort = leaderboard.sort((a, b) => b.points - a.points)
+
 const filePath = path.join(process.cwd(), './db/leaderboard.json'); // current working directory
 
-await writeFile(filePath, JSON.stringify(leaderboard, null, 2), 'utf-8');
+await writeFile(filePath, JSON.stringify(leaderBoardSort, null, 2), 'utf-8');
