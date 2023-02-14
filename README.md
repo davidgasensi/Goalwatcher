@@ -14,6 +14,7 @@ Endpoints disponibles:
 * GET `/teams:id`: Devuelve un equipo de la primera división española.
 * GET `/players`: Devuelve todos los jugadores de la primera división española.
 * GET `/players:id`: Devuelve un jugador de la primera división española.
+* GET `/calendar`: Devuelve el calendario en curso.
 * GET `/articles`: Devuelve noticias del día de diferentes páginas web (https://www.sport.es/es/ y https://as.com/).
 * GET `/stats`: Devuelve las estadísticas por jugadores y equipos.
 * GET `/stats/players`: Devuelve las estadísticas por jugador.
