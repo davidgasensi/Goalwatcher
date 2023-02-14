@@ -1345,57 +1345,57 @@
   },
   {
     "numJornada": "Jornada 25",
-    "date": "12 de marzo",
+    "date": "10, 11, 12 y 13 de marzo",
     "matches": [
       {
-        "team1": "Athletic",
-        "result": "Por definir",
-        "team2": "FC Barcelona"
-      },
-      {
-        "team1": "Real Madrid",
-        "result": "Por definir",
-        "team2": "Espanyol"
-      },
-      {
-        "team1": "Sevilla",
-        "result": "Por definir",
-        "team2": "Almería"
-      },
-      {
-        "team1": "Girona",
-        "result": "Por definir",
-        "team2": "Atlético"
-      },
-      {
-        "team1": "Villarreal",
-        "result": "Por definir",
-        "team2": "Betis"
-      },
-      {
-        "team1": "Valencia",
-        "result": "Por definir",
-        "team2": "Osasuna"
-      },
-      {
         "team1": "Cádiz",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Getafe"
       },
       {
-        "team1": "Mallorca",
-        "result": "Por definir",
-        "team2": "R. Sociedad"
-      },
-      {
-        "team1": "Celta",
-        "result": "Por definir",
-        "team2": "Rayo"
+        "team1": "Real Madrid",
+        "result": "00h",
+        "team2": "Espanyol"
       },
       {
         "team1": "Elche",
-        "result": "Por definir",
+        "result": "15h",
         "team2": "Valladolid"
+      },
+      {
+        "team1": "Celta",
+        "result": "30h",
+        "team2": "Rayo"
+      },
+      {
+        "team1": "Valencia",
+        "result": "00h",
+        "team2": "Osasuna"
+      },
+      {
+        "team1": "Mallorca",
+        "result": "00h",
+        "team2": "R. Sociedad"
+      },
+      {
+        "team1": "Sevilla",
+        "result": "15h",
+        "team2": "Almería"
+      },
+      {
+        "team1": "Villarreal",
+        "result": "30h",
+        "team2": "Betis"
+      },
+      {
+        "team1": "Athletic",
+        "result": "00h",
+        "team2": "FC Barcelona"
+      },
+      {
+        "team1": "Girona",
+        "result": "00h",
+        "team2": "Atlético"
       }
     ]
   },
