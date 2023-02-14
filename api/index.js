@@ -12,7 +12,7 @@ import yellowcards from '../db/statsPlayers/yellowcards.json'
 import zamora from '../db/statsPlayers/zamora.json'
 import foulsPerMatch from '../db/statsTeams/foulsPerMatch.json'
 import goalsPerMatch from '../db/statsTeams/goalsPerMatch.json'
-
+import calendar from '../db/calendar.json'
 
 
 import { serveStatic } from 'hono/serve-static.module';
@@ -33,6 +33,10 @@ app.get('/', (ctx) =>
     {
       endpoint: '/players',
       description: 'Returns the players',
+    },
+    {
+      endpoint: '/calendar',
+      description: 'Returns the calendar',
     },
     {
       endpoint: '/articles',
@@ -92,6 +96,10 @@ app.get('/leaderboard\\/?', (ctx) => {
 
 app.get('/teams\\/?', (ctx) => {
   return ctx.json(teams);
+});
+
+app.get('/calendar\\/?', (ctx) => {
+  return ctx.json(calendar);
 });
 
 app.get('/articles\\/?', (ctx) => {
