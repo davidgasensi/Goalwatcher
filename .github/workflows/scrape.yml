@@ -1,4 +1,4 @@
-name: Scrape Data - $(date +"%Y-%m-%d %T")
+name: Scrape Data on $(date '+%Y-%m-%d %H:%M:%S')
 
 on:
   workflow_dispatch:
@@ -14,6 +14,9 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
+      - name: Set date env variable
+        run: echo ::set-env name=CURRENT_DATE::$(date '+%Y-%m-%d %H:%M:%S')
+        
       - uses: actions/checkout@v3
         with:
           token: ${{secrets.PAT}}
@@ -34,5 +37,5 @@ jobs:
           git config --global user.name "davidgasensi"
           git config --global user.email "davidgasensi@gmail.com"
           git add .
-          git commit -m "Update Data"
+          git commit -m "Update Data - $(echo $CURRENT_DATE)"
           git push origin main
