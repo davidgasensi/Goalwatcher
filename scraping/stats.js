@@ -33,72 +33,85 @@ async function getStats() {
   let stats = [];
   $rows.each(async (index, el) => {
     const $el = $(el);
-      const type = $el.find('.title').text();
-      const $rowsInner = $el.find('tbody tr');
+    const type = $el.find('.title').text();
+    const $rowsInner = $el.find('tbody tr');
 
-      $rowsInner.each((indexInner, elInner) => {
-        const $elInner = $(elInner);
-        const statsEntries = Object.entries(STATS_SELECTOR).map(
-          ([key, { selector, typeOf }]) => {
-            const rawValue =
-              typeOf === 'image'
-                ? $elInner.find(selector).find('img').attr('src')
-                : typeOf === 'link'
-                ? $elInner.find(selector).attr('href')
-                : $elInner.find(selector).text();
-            const cleanedValue =
-              typeOf === 'string' ? cleanText(rawValue) : rawValue;
-            const value =
-              typeOf === 'number' ? Number(cleanedValue) : cleanedValue;
-            return [key, value];
-          }
-        );
+    $rowsInner.each((indexInner, elInner) => {
+      const $elInner = $(elInner);
+      const statsEntries = Object.entries(STATS_SELECTOR).map(
+        ([key, { selector, typeOf }]) => {
+          const rawValue =
+            typeOf === 'image'
+              ? $elInner.find(selector).find('img').attr('src')
+              : typeOf === 'link'
+              ? $elInner.find(selector).attr('href')
+              : $elInner.find(selector).text();
+          const cleanedValue =
+            typeOf === 'string' ? cleanText(rawValue) : rawValue;
+          const value =
+            typeOf === 'number' ? Number(cleanedValue) : cleanedValue;
+          return [key, value];
+        }
+      );
 
-        const { position, value, name, team } =
-          Object.fromEntries(statsEntries);
+      const { position, value, name, team } = Object.fromEntries(statsEntries);
 
-        stats.push({
-          type,
-          position,
-          value,
-          name,
-          team,
-        });
+      stats.push({
+        type,
+        position,
+        value,
+        name,
+        team,
       });
-    
+    });
   });
 
   return stats;
 }
 
 (async () => {
-   const statsArray = await getStats();
- 
-   const filteredArrays = [
-     { type: 'Pichichi', filePath: './db/statsPlayers/pichichi.json' },
-     { type: 'Zamora', filePath: './db/statsPlayers/zamora.json' },
-     { type: 'Tarjetas rojas', filePath: './db/statsPlayers/redcards.json' },
-     { type: 'Tarjetas amarillas', filePath: './db/statsPlayers/yellowcards.json' },
-     { type: 'Penaltis', filePath: './db/statsPlayers/penalties.json' },
-     { type: 'Goles en contra', filePath: './db/statsPlayers/goalAgainst.json' },
-     { type: 'Faltas por partido', filePath: './db/statsTeams/foulsPerMatch.json' },
-     { type: 'Goles por partido', filePath: './db/statsTeams/goalsPerMatch.json' },
-   ];
- 
-   const fileWritingTasks = filteredArrays.map(({ type, filePath }) => {
-     const filteredArray = statsArray
-       .filter(e => e.type === type)
-       .sort((a, b) => a.position - b.position);
- 
-     const fullFilePath = path.join(process.cwd(), filePath);
- 
-     return writeFile(
-       fullFilePath,
-       JSON.stringify(filteredArray, null, 2),
-       'utf-8'
-     );
-   });
- 
-   await Promise.all(fileWritingTasks);
- })();
- 
+  const currentDate = new Date();
+  const stopDate = new Date(2023, 5, 6); // 6 de junio de 2023
+
+  if (currentDate >= stopDate) {
+    console.log('Temporada finalizada');
+    return;
+  }
+  const statsArray = await getStats();
+
+  const filteredArrays = [
+    { type: 'Pichichi', filePath: './db/statsPlayers/pichichi.json' },
+    { type: 'Zamora', filePath: './db/statsPlayers/zamora.json' },
+    { type: 'Tarjetas rojas', filePath: './db/statsPlayers/redcards.json' },
+    {
+      type: 'Tarjetas amarillas',
+      filePath: './db/statsPlayers/yellowcards.json',
+    },
+    { type: 'Penaltis', filePath: './db/statsPlayers/penalties.json' },
+    { type: 'Goles en contra', filePath: './db/statsPlayers/goalAgainst.json' },
+    {
+      type: 'Faltas por partido',
+      filePath: './db/statsTeams/foulsPerMatch.json',
+    },
+    {
+      type: 'Goles por partido',
+      filePath: './db/statsTeams/goalsPerMatch.json',
+    },
+  ];
+
+  const fileWritingTasks = filteredArrays.map(({ type, filePath }) => {
+    const filteredArray = statsArray
+      .filter((e) => e.type === type)
+      .sort((a, b) => a.position - b.position);
+
+    const fullFilePath = path.join(process.cwd(), filePath);
+
+    return writeFile(
+      fullFilePath,
+      JSON.stringify(filteredArray, null, 2),
+      'utf-8'
+    );
+  });
+
+  await Promise.all(fileWritingTasks);
+})();

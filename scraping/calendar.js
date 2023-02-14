@@ -82,6 +82,13 @@ async function getCalendar() {
 }
 
 (async () => {
+  const currentDate = new Date();
+  const stopDate = new Date(2023, 5, 6); // 6 de junio de 2023
+
+  if (currentDate >= stopDate) {
+    console.log('Temporada finalizada');
+    return;
+  }
   const calendarArray = await getCalendar();
 
   const filePathPlayers = path.join(process.cwd(), './db/calendar.json');

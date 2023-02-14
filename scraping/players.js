@@ -107,7 +107,13 @@ URLS_ALL.forEach(async (u) => {
     );
     return found;
   }
+  const currentDate = new Date();
+  const stopDate = new Date(2023, 5, 6); // 6 de junio de 2023
 
+  if (currentDate >= stopDate) {
+    console.log('Temporada finalizada');
+    return;
+  }
   const players = await getPlayers();
 
   const teamFiltered = await getTeam(); // tenemos el equipo que estamos scrapeando
