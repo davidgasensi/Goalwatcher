@@ -61,6 +61,7 @@ async function getLeaderBoard() {
   });
   return leaderboard;
 }
+(async () => {
 const currentDate = new Date();
 const stopDate = new Date(2023, 5, 6); // 6 de junio de 2023
 
@@ -68,9 +69,11 @@ if (currentDate >= stopDate) {
   console.log('Temporada finalizada');
   return;
 }
+
 const leaderboard = await getLeaderBoard();
 const leaderBoardSort = leaderboard.sort((a, b) => b.points - a.points);
 
 const filePath = path.join(process.cwd(), './db/leaderboard.json'); // current working directory
 
 await writeFile(filePath, JSON.stringify(leaderBoardSort, null, 2), 'utf-8');
+})();
