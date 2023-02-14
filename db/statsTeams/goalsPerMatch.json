@@ -17,29 +17,29 @@
     "type": "Goles por partido",
     "position": 3,
     "value": 1.48,
+    "name": "R. Sociedad",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 4,
+    "value": 1.48,
     "name": "Athletic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Goles por partido",
-    "position": 4,
+    "position": 5,
     "value": 1.43,
     "name": "Atlético",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Goles por partido",
-    "position": 5,
+    "position": 6,
     "value": 1.33,
     "name": "Rayo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
-  },
-  {
-    "type": "Goles por partido",
-    "position": 6,
-    "value": 1.33,
-    "name": "R. Sociedad",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Goles por partido",
@@ -59,22 +59,22 @@
     "type": "Goles por partido",
     "position": 9,
     "value": 1.24,
+    "name": "Espanyol",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 10,
+    "value": 1.24,
     "name": "Valencia",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
   {
     "type": "Goles por partido",
-    "position": 10,
+    "position": 11,
     "value": 1.19,
     "name": "Almería",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
-  },
-  {
-    "type": "Goles por partido",
-    "position": 11,
-    "value": 1.14,
-    "name": "Espanyol",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Goles por partido",
