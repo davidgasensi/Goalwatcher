@@ -1,4 +1,4 @@
-name: Scrape Data
+name: Scrape Data - $(date +"%Y-%m-%d %T")
 
 on:
   workflow_dispatch:
@@ -31,14 +31,8 @@ jobs:
           node scraping/leaderboard.js
           node scraping/stats.js
           node scraping/calendar.js
-      - run: |
-          git remote update
-          if [ $(git rev-parse HEAD) = $(git rev-parse @{u}) ]; then
-            echo "Branch main está actualizada, no se harán cambios."
-          else
-            git config --global user.name "davidgasensi"
-            git config --global user.email "davidgasensi@gmail.com"
-            git add .
-            git commit -m "Update Data"
-            git push origin main
-          fi
+          git config --global user.name "davidgasensi"
+          git config --global user.email "davidgasensi@gmail.com"
+          git add .
+          git commit -m "Update Data"
+          git push origin main
