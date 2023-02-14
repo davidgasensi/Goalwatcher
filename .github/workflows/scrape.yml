@@ -1,4 +1,4 @@
-name: Scrape Data
+name: Scrape Data - ${{ github.event.repository.updated_at}}
 
 on:
   workflow_dispatch:
