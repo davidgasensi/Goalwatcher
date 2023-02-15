@@ -190,13 +190,13 @@
     }
   },
   {
-    "gamesPlayed": 20,
-    "wins": 14,
+    "gamesPlayed": 21,
+    "wins": 15,
     "loses": 3,
     "draws": 3,
-    "goalsScored": 40,
+    "goalsScored": 43,
     "goalsConceded": 17,
-    "points": 45,
+    "points": 48,
     "team": {
       "id": "realmadrid",
       "name": "Real Madrid",
@@ -3729,12 +3729,12 @@
     }
   },
   {
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "wins": 1,
-    "loses": 13,
+    "loses": 14,
     "draws": 6,
     "goalsScored": 15,
-    "goalsConceded": 40,
+    "goalsConceded": 43,
     "points": 9,
     "team": {
       "id": "elche",
