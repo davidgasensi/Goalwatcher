@@ -2,16 +2,16 @@
   {
     "type": "Penaltis",
     "position": 1,
-    "value": 4,
-    "name": "Cristhian Stuani",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "value": 6,
+    "name": "Karim Benzema",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Penaltis",
     "position": 2,
     "value": 4,
-    "name": "Karim Benzema",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
+    "name": "Cristhian Stuani",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Penaltis",

@@ -44,16 +44,16 @@
   {
     "type": "Faltas por partido",
     "position": 7,
-    "value": 14.19,
-    "name": "Cádiz",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+    "value": 14.38,
+    "name": "Elche",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   },
   {
     "type": "Faltas por partido",
     "position": 8,
-    "value": 13.76,
-    "name": "Elche",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
+    "value": 14.19,
+    "name": "Cádiz",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Faltas por partido",
@@ -135,7 +135,7 @@
   {
     "type": "Faltas por partido",
     "position": 20,
-    "value": 9.38,
+    "value": 9.62,
     "name": "Real Madrid",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   }

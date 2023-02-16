@@ -194,7 +194,7 @@
     "wins": 15,
     "loses": 3,
     "draws": 3,
-    "goalsScored": 43,
+    "goalsScored": 44,
     "goalsConceded": 17,
     "points": 48,
     "team": {
@@ -3734,7 +3734,7 @@
     "loses": 14,
     "draws": 6,
     "goalsScored": 15,
-    "goalsConceded": 43,
+    "goalsConceded": 44,
     "points": 9,
     "team": {
       "id": "elche",

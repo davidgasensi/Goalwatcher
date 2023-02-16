@@ -2,16 +2,16 @@
   {
     "type": "Goles por partido",
     "position": 1,
-    "value": 2.05,
-    "name": "FC Barcelona",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
+    "value": 2.1,
+    "name": "Real Madrid",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Goles por partido",
     "position": 2,
-    "value": 1.9,
-    "name": "Real Madrid",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
+    "value": 2.05,
+    "name": "FC Barcelona",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
   {
     "type": "Goles por partido",
