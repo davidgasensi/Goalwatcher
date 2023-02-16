@@ -1,92 +1,18 @@
 ---
 import Container from '@components/Container.astro';
+import LeaderboardTable from '@components/LeaderboardTable.astro';
+import StatsIndex from '../components/StatsIndex.jsx';
 import Layout from '@layouts/Layout.astro';
 
-import { getLeaderboard } from '@services/leaderboard.js';
-const leaderboard = await getLeaderboard();
 
-const tableRowClasses = {
-  0: 'border-l-4 border-gw-yellow-winner',
-  1: 'border-l-4 border-gw-blue-champions',
-  2: 'border-l-4 border-gw-blue-champions',
-  3: 'border-l-4 border-gw-blue-champions',
-  4: 'border-l-4 border-gw-orange-uefa',
-  5: 'border-l-4 border-gw-green-conference',
-  17: 'border-l-4 border-gw-red-descenso',
-  18: 'border-l-4 border-gw-red-descenso',
-  19: 'border-l-4 border-gw-red-descenso',
-};
 ---
 
 <Layout title="GoalWatcher">
   <main>
     <Container>
-      <div class="flex">
-        <div class="overflow-x-auto">
-          <table class="table table-compact w-full table-zebra">
-            <thead>
-              <tr class="text-center ">
-                <th class="bg-gw-red text-gw-white text-center">Pos</th>
-                <th class="bg-gw-red text-gw-white text-center">Equipos</th>
-                <th class="bg-gw-red text-gw-white text-center">PJ</th>
-                <th class="bg-gw-red text-gw-white text-center">PG</th>
-                <th class="bg-gw-red text-gw-white text-center">PE</th>
-                <th class="bg-gw-red text-gw-white text-center">PP</th>
-                <th class="bg-gw-red text-gw-white text-center">GF</th>
-                <th class="bg-gw-red text-gw-white text-center">GC</th>
-                <th class="bg-gw-red text-gw-white text-center">PTOS</th>
-              </tr>
-            </thead>
-            <tbody>
-              {
-                leaderboard.map(
-                  (
-                    {
-                      gamesPlayed,
-                      wins,
-                      loses,
-                      draws,
-                      goalsScored,
-                      goalsConceded,
-                      points,
-                      team,
-                    },
-                    index
-                  ) => (
-                    <tr>
-                      <th
-                        class={`text-center font-bold px-4 py-2 ${
-                          tableRowClasses[index] || ''
-                        }`}
-                      >
-                        {index + 1}
-                      </th>
-
-                      <td class="font-semibold px-6 py-2">
-                        <a href={`/equipo/${team.id}`} class="flex items-center gap-2 ">
-                          <img
-                            class="w-8 h-8"
-                            src={team.image}
-                            alt={team.name}
-                          />{' '}
-                          {team.name}
-                        </a>
-                      </td>
-
-                      <td class="text-center px-4 py-2">{gamesPlayed}</td>
-                      <td class="text-center px-4 py-2">{wins}</td>
-                      <td class="text-center px-4 py-2">{draws}</td>
-                      <td class="text-center px-4 py-2">{loses}</td>
-                      <td class="text-center px-4 py-2">{goalsScored}</td>
-                      <td class="text-center px-4 py-2">{goalsConceded}</td>
-                      <td class="text-center font-bold px-4 py-2">{points}</td>
-                    </tr>
-                  )
-                )
-              }
-            </tbody>
-          </table>
-        </div>
+      <div class="flex gap-6 flex-wrap py-6">
+        <LeaderboardTable />
+        <StatsIndex client:load/>
       </div>
     </Container>
   </main>
