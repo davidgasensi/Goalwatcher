@@ -2,6 +2,7 @@
 import Container from '@components/Container.astro';
 import LeaderboardTable from '@components/LeaderboardTable.astro';
 import StatsIndex from '../components/StatsIndex.jsx';
+import StatsIndex2 from '../components/StatsIndex2.svelte';
 import Layout from '@layouts/Layout.astro';
 
 
@@ -12,7 +13,7 @@ import Layout from '@layouts/Layout.astro';
     <Container>
       <div class="flex gap-6 flex-wrap py-6">
         <LeaderboardTable />
-        <StatsIndex client:load/>
+        <StatsIndex2 client:load/>
       </div>
     </Container>
   </main>
