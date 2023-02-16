@@ -1,36 +1,97 @@
 ---
-import Layout from '../layouts/Layout.astro';
-const response = await fetch('https://goalwatcher.davidasensi.workers.dev/teams')
-const teams = await response.json()
+import Container from '@components/Container.astro';
+import Layout from '@layouts/Layout.astro';
+
+import { getLeaderboard } from '@services/leaderboard.js';
+const leaderboard = await getLeaderboard();
+
+const tableRowClasses = {
+  0: 'border-l-4 border-gw-yellow-winner',
+  1: 'border-l-4 border-gw-blue-champions',
+  2: 'border-l-4 border-gw-blue-champions',
+  3: 'border-l-4 border-gw-blue-champions',
+  4: 'border-l-4 border-gw-orange-uefa',
+  5: 'border-l-4 border-gw-green-conference',
+  17: 'border-l-4 border-gw-red-descenso',
+  18: 'border-l-4 border-gw-red-descenso',
+  19: 'border-l-4 border-gw-red-descenso',
+};
 ---
 
-
 <Layout title="GoalWatcher">
-	<div class="container m-auto">
-		<header class="flex">
-			{teams.map(({ id, image, name }) => (
-				<a href={`/team/${id}`}>
-					<img class="aspect-square w-16" src={image} alt={`Escudo del equipo ${name}`} />
-				</a>
-			))}
-			<nav>
-				<ul>
-					<li>
-						<a href="/equipos">Equipos</a>
-					</li>
-					<li>
-						<a href="/jugadores">Jugadores</a>
-					</li>
-					<li>
-						<a href="/estadisticas">Estadísticas</a>
-					</li>
-					<li>
-						<a href="/contacto">Contacto</a>
-					</li>
-				</ul>
-			</nav>
-		</header>
-		<main>
-		</main>
-	</div>
+  <main>
+    <Container>
+      <div class="flex">
+        <div class="overflow-x-auto">
+          <table class="table table-compact w-full table-zebra">
+            <thead>
+              <tr class="text-center ">
+                <th class="bg-gw-red text-gw-white text-center">Pos</th>
+                <th class="bg-gw-red text-gw-white text-center">Equipos</th>
+                <th class="bg-gw-red text-gw-white text-center">PJ</th>
+                <th class="bg-gw-red text-gw-white text-center">PG</th>
+                <th class="bg-gw-red text-gw-white text-center">PE</th>
+                <th class="bg-gw-red text-gw-white text-center">PP</th>
+                <th class="bg-gw-red text-gw-white text-center">GF</th>
+                <th class="bg-gw-red text-gw-white text-center">GC</th>
+                <th class="bg-gw-red text-gw-white text-center">PTOS</th>
+              </tr>
+            </thead>
+            <tbody>
+              {
+                leaderboard.map(
+                  (
+                    {
+                      gamesPlayed,
+                      wins,
+                      loses,
+                      draws,
+                      goalsScored,
+                      goalsConceded,
+                      points,
+                      team,
+                    },
+                    index
+                  ) => (
+                    <tr>
+                      <th
+                        class={`text-center font-bold px-4 py-2 ${
+                          tableRowClasses[index] || ''
+                        }`}
+                      >
+                        {index + 1}
+                      </th>
+
+                      <td class="font-semibold px-6 py-2">
+                        <a href={`/equipo/${team.id}`} class="flex items-center gap-2 ">
+                          <img
+                            class="w-8 h-8"
+                            src={team.image}
+                            alt={team.name}
+                          />{' '}
+                          {team.name}
+                        </a>
+                      </td>
+
+                      <td class="text-center px-4 py-2">{gamesPlayed}</td>
+                      <td class="text-center px-4 py-2">{wins}</td>
+                      <td class="text-center px-4 py-2">{draws}</td>
+                      <td class="text-center px-4 py-2">{loses}</td>
+                      <td class="text-center px-4 py-2">{goalsScored}</td>
+                      <td class="text-center px-4 py-2">{goalsConceded}</td>
+                      <td class="text-center font-bold px-4 py-2">{points}</td>
+                    </tr>
+                  )
+                )
+              }
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </Container>
+  </main>
 </Layout>
+<style>
+
+</style>
+
