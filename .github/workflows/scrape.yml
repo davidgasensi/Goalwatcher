@@ -35,5 +35,5 @@ jobs:
           git config --global user.name "davidgasensi"
           git config --global user.email "davidgasensi@gmail.com"
           git add .
-          git commit -m "Update Data - ${{ github.event.repository.updated_at}}"
+          git commit -m "Update Data Scraped"
           git push origin main
