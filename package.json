@@ -20,6 +20,7 @@
   "dependencies": {
     "@astrojs/image": "^0.15.0",
     "@astrojs/react": "^2.0.2",
+    "@astrojs/svelte": "^2.0.2",
     "@astrojs/tailwind": "3.0.1",
     "@emotion/styled": "^11.10.5",
     "@types/react": "^18.0.28",
@@ -39,6 +40,7 @@
     "react-dom": "^18.2.0",
     "remove-accents": "0.4.4",
     "request": "^2.88.2",
+    "svelte": "^3.55.1",
     "tailwindcss": "^3.2.6"
   },
   "devDependencies": {

@@ -10,6 +10,9 @@ import react from "@astrojs/react";
 import image from "@astrojs/image";
 
 // https://astro.build/config
+import svelte from "@astrojs/svelte";
+
+// https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), react(), image()]
+  integrations: [tailwind(), react(), image(), svelte()]
 });
