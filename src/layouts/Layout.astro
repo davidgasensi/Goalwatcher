@@ -1,37 +1,37 @@
 ---
 export interface Props {
-	title: string;
+  title: string;
 }
+import Footer from '@components/Footer.astro';
+import Header from '../components/Header.astro';
+const { title = 'GoalWatcher', description = 'GoalWatcher índice' } =
+  Astro.props;
 
-const { title } = Astro.props;
+const seoTitle = title ? `${title} | GoalWatcher` : `GoalWatcher`;
 ---
 
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
-		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
-	</head>
-	<body>
-		<slot />
-	</body>
+<html lang="es" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{seoTitle}</title>
+    <meta name="description" content={description} />
+  </head>
+  <body class="min-h-screen">
+    <Header />
+    <div class="flex-grow">
+      <slot />
+    </div>
+    <Footer />
+  </body>
 </html>
 
-
-<style is:global>
-	:root {
-		--accent: 124, 58, 237;
-		--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, white 60%);
-	}
-	html {
-		font-family: system-ui, sans-serif;
-		background-color: #F6F6F6;
-	}
-	code {
-		font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-			Bitstream Vera Sans Mono, Courier New, monospace;
-	}
+<style>
+  .responsive {
+    width: 100%;
+  }
 </style>
+

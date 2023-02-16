@@ -1,0 +1,119 @@
+---
+import Logo from './Logo.astro';
+import { getAllTeams } from '@services/teams.js';
+const teams = await getAllTeams();
+Astro.url.pathname;
+const menu = [
+{
+    nombre: 'Calendario',
+    href: '/calendario',
+  },
+  {
+    nombre: 'Jugadores',
+    href: '/jugadores',
+  },
+  {
+    nombre: 'Estadísticas',
+    href: '/estadisticas',
+  },
+  {
+    nombre: 'Artículos',
+    href: '/articulos',
+  },
+  {
+    nombre: 'Información',
+    href: '/informacion',
+  },
+];
+---
+
+<header class="mb-5 py-3 bg-[#353b48]">
+  <nav>
+    <div class="flex place-content-center">
+      <Logo />
+      <a href="/" class="self-center"
+        ><h1
+          class="text-gw-white font-bold text-4xl self-center pl-1 transition duration-300 transform hover:-translate-y-2 hover:text-gw-red cursor-pointer"
+        >
+          GoalWatcher
+        </h1></a
+      >
+    </div>
+    <div class="py-3">
+      <ul
+        class="rounded-xl flex gap-x-2 gap-y-2 [&>li>a:hover]:scale-150 flex-wrap place-content-center"
+      >
+        {
+          teams.map(({ id, image, name }) => (
+            <li>
+              <a class="group transition block" href={`/equipo/${id}`}>
+                <img
+                  class="group-hover:drop-shadow-[0px_0px_6px_#fff] aspect-square w-10 w-max-[100%]"
+                  src={image}
+                  alt={`Escudo del equipo ${name}`}
+                />
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+    <div>
+      <div class="dropdown lg:hidden place-content-center flex">
+        <label tabindex="0" class="btn btn-ghost btn-circle text-[#EDF2F4]">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            ><path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M4 6h16M4 12h16M4 18h7"></path></svg
+          >
+        </label>
+        <ul
+          tabindex="0"
+          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 text-[#353b48]"
+        >
+          {
+            menu.map(({ nombre, href }) => (
+              <li>
+                <a
+                  class={`transition text-base font-medium ${
+                    Astro.url.pathname === href ? 'text-gw-red' : ''
+                  }`}
+                  href={href}
+                >
+                  {nombre}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+      <ul class="hidden lg:flex text-[#F1FAEE] place-content-center gap-7 py-2">
+        {
+          menu.map(({ nombre, href }) => (
+            <li>
+              <a
+                class={`transition text-lg font-medium duration-300 hover:text-gw-red ${
+                  Astro.url.pathname === href ? 'text-gw-red' : ''
+                }`}
+                href={href}
+              >
+                {nombre}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<style>
+
+</style>
