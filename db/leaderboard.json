@@ -1970,13 +1970,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
-    "wins": 6,
+    "gamesPlayed": 22,
+    "wins": 7,
     "loses": 9,
     "draws": 6,
-    "goalsScored": 27,
+    "goalsScored": 31,
     "goalsConceded": 31,
-    "points": 24,
+    "points": 27,
     "team": {
       "id": "girona",
       "name": "Girona",
@@ -2723,12 +2723,12 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 6,
-    "loses": 11,
+    "loses": 12,
     "draws": 4,
     "goalsScored": 25,
-    "goalsConceded": 34,
+    "goalsConceded": 38,
     "points": 22,
     "team": {
       "id": "almeria",
