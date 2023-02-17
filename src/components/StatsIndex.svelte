@@ -254,7 +254,7 @@
       </svg>
     </div>
     {:else}
-      <div class="overflow-x-auto pt-6">
+      <div class="overflow-x-auto pt-8">
         <table class="table table-compact w-full table-zebra">
           <thead>
             <tr>
