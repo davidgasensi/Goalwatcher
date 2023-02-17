@@ -1,6 +1,7 @@
 ---
 export interface Props {
   title: string;
+  description: string;
 }
 import Footer from '@components/Footer.astro';
 import Header from '../components/Header.astro';
@@ -23,7 +24,7 @@ const seoTitle = title ? `${title} | GoalWatcher` : `GoalWatcher`;
   <body class="min-h-screen">
     <Header />
     <div class="flex-grow">
-      <slot />
+       <slot /> <!-- Here are the components that we call using <Layout />. -->
     </div>
     <Footer />
   </body>

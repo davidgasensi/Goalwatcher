@@ -3,16 +3,18 @@ import Container from '@components/Container.astro';
 import LeaderboardTable from '@components/LeaderboardTable.astro';
 import StatsIndex from '../components/StatsIndex.svelte';
 import Layout from '@layouts/Layout.astro';
+import ArticlesIndex from '@components/ArticlesIndex.astro';
 
 
 ---
 
-<Layout title="GoalWatcher">
+<Layout title="GoalWatcher" description='Esta página web te permite ver la clasificación, calendarios, equipos, artículos recopilados de la Liga Santander'>
   <main>
     <Container>
-      <div class="flex gap-10 flex-wrap py-6">
+      <div class="flex gap-12 flex-wrap py-6">
         <LeaderboardTable />
         <StatsIndex client:load/>
+        <ArticlesIndex />
       </div>
     </Container>
   </main>
