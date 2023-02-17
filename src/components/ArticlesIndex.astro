@@ -1,0 +1,53 @@
+---
+import { getArticlesDaily } from '@services/articles.js';
+const articles = await getArticlesDaily();
+---
+
+<div>
+  {
+    articles.slice(0, 4).map(({ title, link, image, domain, createDate }) => {
+      const date = new Date(createDate);
+
+      return (
+        <div class="card w-96 card-compact bg-base-100 shadow-xl h-72 mb-6">
+          <figure>
+            <a href={link} ><img class="w-96" src={image} alt={title} /></a>
+          </figure>
+          <div class="card-body">
+            <a href={link} class="text-center self-center">
+              <h2 class="card-title text-center self-center">{title}</h2>
+            </a>
+            <div class="flex mt-2 items-center self-center gap-32">
+              {domain === 'sport' && (
+                <a
+                  href="https://www.sport.es/es/laliga/"
+                  class="flex-1 text-base font-semibold hover:text-gw-red"
+                >
+                  Diario {domain.charAt(0).toUpperCase() + domain.slice(1)}
+                </a>
+              )}
+              {domain === 'as' && (
+                <a
+                  href="https://as.com/futbol/primera/"
+                  class="flex-1 text-base font-semibold hover:text-gw-red"
+                >
+                  Diario {domain.charAt(0).toUpperCase() + domain.slice(1)}
+                </a>
+              )}
+
+              
+              <a
+                href={link}
+                class="flex place-items-center gap-2 text-base text-gray-600 transition-all duration-500 hover:text-gw-red hover:translate-x-2"
+              >
+                <p class="text-right text-base font-semibold">Ir al artículo</p>
+                <i class="fa-solid fa-arrow-right fa mt-1" />
+              </a>
+            </div>
+            
+          </div>
+        </div>
+      );
+    })
+  }
+</div>
