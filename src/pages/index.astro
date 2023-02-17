@@ -1,8 +1,7 @@
 ---
 import Container from '@components/Container.astro';
 import LeaderboardTable from '@components/LeaderboardTable.astro';
-import StatsIndex from '../components/StatsIndex.jsx';
-import StatsIndex2 from '../components/StatsIndex2.svelte';
+import StatsIndex from '../components/StatsIndex.svelte';
 import Layout from '@layouts/Layout.astro';
 
 
@@ -11,9 +10,9 @@ import Layout from '@layouts/Layout.astro';
 <Layout title="GoalWatcher">
   <main>
     <Container>
-      <div class="flex gap-6 flex-wrap py-6">
+      <div class="flex gap-10 flex-wrap py-6">
         <LeaderboardTable />
-        <StatsIndex2 client:load/>
+        <StatsIndex client:load/>
       </div>
     </Container>
   </main>
