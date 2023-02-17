@@ -95,6 +95,8 @@ URLS_ALL.forEach(async (u) => {
     (v, i, a) => a.findIndex((v2) => v2.title === v.title) === i
   ); // elimina duplicados
 
+  const filteredArticlesNoDuplicateSorted = filteredArticlesNoDuplicate.sort((a, b) => a.creationDate - b.creationDate).reverse();
+
   const filteredAllArticlesRemoveOld = filteredAllArticlesNoDuplicate.filter((article) => { // Eliminamos los que lleven más de 1 mes
     const creationDate = new Date(article.createDate);
     const currentDate = new Date();
@@ -105,7 +107,7 @@ URLS_ALL.forEach(async (u) => {
 
   await writeFile(
     filePathArticles,
-    JSON.stringify(filteredArticlesNoDuplicate, null, 2),
+    JSON.stringify(filteredArticlesNoDuplicateSorted, null, 2),
     null
   );
   await writeFile(
