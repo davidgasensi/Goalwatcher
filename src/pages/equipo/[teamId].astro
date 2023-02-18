@@ -1,47 +1,94 @@
 ---
-import Layout from '../../layouts/Layout.astro'
+import Layout from '../../layouts/Layout.astro';
+
 export async function getStaticPaths() {
-  const response = await fetch('https://goalwatcher.davidasensi.workers.dev/teams')
-	const teams = await response.json()
-  return teams.map(team => ({
-    params: { teamId: team.id },
-    props: { ...team }
-  }))
+  try {
+    const response = await fetch(
+      'https://goalwatcher.davidasensi.workers.dev/teams'
+    );
+    const teams = await response.json();
+    return teams.map((team) => ({
+      params: { teamId: team.id },
+      props: { ...team },
+    }));
+  } catch (error) {
+    console.error(error);
+    return {
+      paths: [],
+      fallback: 'blocking',
+    };
+  }
 }
 
-const {
-	name, 
-	image, 
-	id, 
-	urlWeb, 
-	socialNetworks, 
-	players
-} = Astro.props
+const { name, image, id, urlWeb, socialNetworks, players } = Astro.props;
 ---
 
 <Layout title={name} description={`Página del equipo ${name}`}>
-	<div class="container m-auto my-8">
+  <div class="container m-auto my-8 overflow-x-auto">
+    <section class="flex items-center justify-between flex-wrap">
+      <div class="flex items-center gap-x-6">
+        <img
+          src={image}
+          alt={`Escudo del equipo ${name}`}
+          width="130"
+          height="130"
+          class="mb-5 mt-5"
+        />
+        <h1 class="font-bold text-gw-grey text-5xl">{name}</h1>
+      </div>
+      <div class="flex items-center gap-x-4 mt-3 mr-36">
+        {
+          socialNetworks.map((social, index) => (
+            <a href={social} target="_blank" rel="noopener noreferrer">
+              {index === 0 && (
+                <i class="fa-brands fa-instagram fa-2xl transition font-medium duration-300 hover:text-gw-red-pink cursor-pointer" />
+              )}
+              {index === 1 && (
+                <i class="fa-brands fa-twitter fa-2xl transition font-medium duration-300 hover:text-gw-blue-champions cursor-pointer" />
+              )}
+              {index === 2 && (
+                <i class="fa-brands fa-tiktok fa-2xl transition font-medium duration-300 hover:text-gw-red cursor-pointer" />
+              )}
+            </a>
+          ))
+        }
+      </div>
+    </section>
 
-		<section class="flex items-center justify-between">
-			<div class="flex items-center gap-x-12">
-				<img src={image} alt={`Escudo del equipo ${name}`} width="130"  height="130" />
-				<h1 class="font-bold text-5xl">{name}</h1>
-			</div>
-				Twitch
-
-		</section>
-
-		<section class="my-2">
-			<ul>
-				
-				<li><b>Jugadores:</b> {players.length}</li>
-			</ul>			
-		</section>
-
-		<section class="my-2">
-			Estadísticas
-		</section>
-
-		<a class="text-blue-500 underline" href="/">Volver</a>
-	</div>
+    <section class="my-1">
+      <ul class="text-center text-lg">
+        <li><b>Nº Jugadores:</b> {players.length}</li>
+      </ul>
+      <div class="flex flex-wrap gap-4 mt-4">
+        {
+          players.map((player) => (
+            <div class="card w-44 bg-[#FFFF] shadow-md">
+              <figure class="px-10 pt-10">
+                {player.image && player.image.endsWith('.gif') ? (
+                  <img
+                    src="https://goalwatcher.davidasensi.workers.dev/static/logos/silueta-generica.png"
+                    alt={player.name}
+                    class="bg-transparent w-24 h-24"
+                  />
+                ) : (
+                  <img
+                    src={player.image}
+                    alt={player.name}
+                    class="bg-transparent w-24 h-24"
+                  />
+                )}
+              </figure>
+              <div class="card-body items-center">
+                <h2 class="card-title">
+                  {player.name} <span class="text-gw-red">#{player.number}</span>
+                </h2>
+                
+              </div>
+              <p class="text-center mb-6 font-semibold">{player.position}</p>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+  </div>
 </Layout>
