@@ -9,30 +9,30 @@
   {
     "type": "Zamora",
     "position": 2,
-    "value": 10,
-    "name": "Gerónimo Rulli",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
-  },
-  {
-    "type": "Zamora",
-    "position": 3,
     "value": 15,
     "name": "Jan Oblak",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Zamora",
-    "position": 4,
+    "position": 3,
     "value": 14,
     "name": "Thibaut Courtois",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Zamora",
-    "position": 5,
-    "value": 20,
+    "position": 4,
+    "value": 22,
     "name": "Predrag Rajkovic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+  },
+  {
+    "type": "Zamora",
+    "position": 5,
+    "value": 20,
+    "name": "Stole Dimitrievski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Zamora",
@@ -44,29 +44,29 @@
   {
     "type": "Zamora",
     "position": 7,
-    "value": 20,
-    "name": "Stole Dimitrievski",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
-  },
-  {
-    "type": "Zamora",
-    "position": 8,
     "value": 22,
     "name": "Unai Simón",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Zamora",
-    "position": 9,
+    "position": 8,
     "value": 20,
     "name": "Rui Silva",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Zamora",
-    "position": 10,
+    "position": 9,
     "value": 26,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+  },
+  {
+    "type": "Zamora",
+    "position": 10,
+    "value": 28,
+    "name": "David Soria",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   }
 ]

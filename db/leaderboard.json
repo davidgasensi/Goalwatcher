@@ -190,13 +190,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 15,
     "loses": 3,
-    "draws": 3,
+    "draws": 4,
     "goalsScored": 44,
     "goalsConceded": 17,
-    "points": 48,
+    "points": 49,
     "team": {
       "id": "realmadrid",
       "name": "Real Madrid",
@@ -1430,11 +1430,11 @@
   {
     "gamesPlayed": 22,
     "wins": 9,
-    "loses": 8,
-    "draws": 5,
-    "goalsScored": 22,
-    "goalsConceded": 18,
-    "points": 32,
+    "loses": 9,
+    "draws": 4,
+    "goalsScored": 24,
+    "goalsConceded": 22,
+    "points": 31,
     "team": {
       "id": "villarreal",
       "name": "Villarreal",
@@ -1590,13 +1590,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 8,
     "loses": 7,
-    "draws": 6,
+    "draws": 7,
     "goalsScored": 19,
     "goalsConceded": 19,
-    "points": 30,
+    "points": 31,
     "team": {
       "id": "osasuna",
       "name": "Osasuna",
@@ -1774,12 +1774,12 @@
   },
   {
     "gamesPlayed": 22,
-    "wins": 8,
+    "wins": 9,
     "loses": 9,
-    "draws": 5,
-    "goalsScored": 16,
-    "goalsConceded": 20,
-    "points": 29,
+    "draws": 4,
+    "goalsScored": 20,
+    "goalsConceded": 22,
+    "points": 31,
     "team": {
       "id": "mallorca",
       "name": "Mallorca",
