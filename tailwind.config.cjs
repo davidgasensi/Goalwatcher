@@ -13,8 +13,15 @@ module.exports = {
 			"gw-blue-champions": "#3867d6",
 			"gw-orange-uefa": "#ff793f",
 			"gw-green-conference": "#10ac84",
-			"gw-red-descenso": "#ee5253"
+			"gw-red-descenso": "#ee5253",
+			"gw-red-pink": "#f368e0",
 
+		 },
+		 screens: {
+			'xsm': '490px',
+			'sm': '576px',
+			'md': '960px',
+			'lg': '1440px',
 		 },
 	},
 	plugins: [require("daisyui")],
