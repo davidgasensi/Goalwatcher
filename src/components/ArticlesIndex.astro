@@ -3,7 +3,7 @@ import { getArticlesDaily } from '@services/articles.js';
 const articles = await getArticlesDaily();
 ---
 
-<div>
+<div class="overflow-x-auto">
   {
     articles.slice(0, 4).map(({ title, link, image, domain, createDate }) => {
       const date = new Date(createDate);
