@@ -10,60 +10,65 @@
   let isLoadingZamora = true;
 
   onMount(async () => {
-    const response = await fetch(
-      'https://goalwatcher.davidasensi.workers.dev/players'
-    );
-    const players = await response.json();
-    playersArray = players;
+    try {
+      const response = await fetch(
+        'https://goalwatcher.davidasensi.workers.dev/players'
+      );
+      const players = await response.json();
+      playersArray = players;
 
-    const responsePichichi = await fetch(
-      'https://goalwatcher.davidasensi.workers.dev/stats/players/pichichi'
-    );
-    const statsPichichi = await responsePichichi.json();
-    statsArray = statsPichichi;
+      const responsePichichi = await fetch(
+        'https://goalwatcher.davidasensi.workers.dev/stats/players/pichichi'
+      );
+      const statsPichichi = await responsePichichi.json();
+      statsArray = statsPichichi;
 
-    const responseZamora = await fetch(
-      'https://goalwatcher.davidasensi.workers.dev/stats/players/zamora'
-    );
-    const statsZamora = await responseZamora.json();
-    statsArrayZamora = statsZamora;
+      const responseZamora = await fetch(
+        'https://goalwatcher.davidasensi.workers.dev/stats/players/zamora'
+      );
+      const statsZamora = await responseZamora.json();
+      statsArrayZamora = statsZamora;
 
-    statsWithImages = statsPichichi.map((stat) => {
-      let image = null;
-      for (const playerArray of playersArray) {
-        const player = playerArray.find((p) => stat.name.includes(p.name));
-        image =
-          !player || player.image.endsWith('.gif')
-            ? 'https://goalwatcher.davidasensi.workers.dev/static/logos/no-photo-footballer.jpg'
-            : player.image;
-      }
-      isLoading = false;
-      if (statsWithImages === [] || statsWithImages === undefined) {
-        isLoading = true;
-      }
-      return { ...stat, image };
-    });
+      statsWithImages = statsPichichi.map((stat) => {
+        let image = null;
+        for (const playerArray of playersArray) {
+          const player = playerArray.find((p) => stat.name.includes(p.name));
+          image =
+            !player || player.image.endsWith('.gif')
+              ? 'https://goalwatcher.davidasensi.workers.dev/static/logos/no-photo-footballer.jpg'
+              : player.image;
+        }
+        isLoading = false;
+        if (statsWithImages === [] || statsWithImages === undefined) {
+          isLoading = true;
+        }
+        return { ...stat, image };
+      });
 
-    statsZamoraWithImages = statsZamora.map((stat) => {
-      let image = null;
-      for (const playerArray of playersArray) {
-        const player = playerArray.find((p) => stat.name.includes(p.name));
-        image =
-          !player || player.image.endsWith('.gif')
-            ? 'https://goalwatcher.davidasensi.workers.dev/static/logos/no-photo-footballer.jpg'
-            : player.image;
-      }
-      isLoadingZamora = false;
-      if (statsZamoraWithImages === [] || statsZamoraWithImages === undefined) {
-        isLoadingZamora = true;
-      }
-      return { ...stat, image };
-    });
+      statsZamoraWithImages = statsZamora.map((stat) => {
+        let image = null;
+        for (const playerArray of playersArray) {
+          const player = playerArray.find((p) => stat.name.includes(p.name));
+          image =
+            !player || player.image.endsWith('.gif')
+              ? 'https://goalwatcher.davidasensi.workers.dev/static/logos/no-photo-footballer.jpg'
+              : player.image;
+        }
+        isLoadingZamora = false;
+        if (statsZamoraWithImages === [] || statsZamoraWithImages === undefined) {
+          isLoadingZamora = true;
+        }
+        return { ...stat, image };
+      });
+    } catch (error) {
+      console.error(error);
+    }
   });
 </script>
 
-<main>
-  <div>
+
+<main class="overflow-x-auto">
+  <div >
     {#if isLoading}
     <div>
       <svg
