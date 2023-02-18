@@ -663,5 +663,19 @@
     "image": "https://estaticos-cdn.sport.es/clip/7290f470-4d7a-402b-b617-7abb942ca9b8_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1676681164640,
     "domain": "sport"
+  },
+  {
+    "title": "El Barça tuvo ‘atado’ a João Félix",
+    "link": "https://as.com/futbol/primera/el-dia-que-el-barca-ato-a-joao-felix-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/PNZ1V-kgHSzCPE8LIZfc06QUrgk=/360x203/filters:focal(1272x337:1282x347)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N3COOGOMWQXFQWRSZ4PTIJCBTE.jpg",
+    "createDate": 1676700658047,
+    "domain": "as"
+  },
+  {
+    "title": "Vinicius vuelve a las brasas",
+    "link": "https://as.com/futbol/primera/vinicius-vuelve-a-las-brasas-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/Vc2DeF-YObZov8ZmlhO_0g3-XdI=/240x135/filters:focal(2125x798:2135x808)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/XGJV4PIX4N5CHT6RZTR4TRGHHQ.jpg",
+    "createDate": 1676700658049,
+    "domain": "as"
   }
 ]
