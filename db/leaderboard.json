@@ -844,13 +844,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
-    "wins": 10,
+    "gamesPlayed": 22,
+    "wins": 11,
     "loses": 7,
     "draws": 4,
-    "goalsScored": 27,
-    "goalsConceded": 22,
-    "points": 34,
+    "goalsScored": 29,
+    "goalsConceded": 23,
+    "points": 37,
     "team": {
       "id": "betis",
       "name": "Betis",
@@ -1428,13 +1428,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 9,
     "loses": 8,
-    "draws": 4,
+    "draws": 5,
     "goalsScored": 22,
     "goalsConceded": 18,
-    "points": 31,
+    "points": 32,
     "team": {
       "id": "villarreal",
       "name": "Villarreal",
@@ -1773,13 +1773,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 8,
     "loses": 9,
-    "draws": 4,
+    "draws": 5,
     "goalsScored": 16,
     "goalsConceded": 20,
-    "points": 28,
+    "points": 29,
     "team": {
       "id": "mallorca",
       "name": "Mallorca",
@@ -2561,12 +2561,12 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 7,
-    "loses": 11,
+    "loses": 12,
     "draws": 3,
-    "goalsScored": 15,
-    "goalsConceded": 28,
+    "goalsScored": 16,
+    "goalsConceded": 30,
     "points": 24,
     "team": {
       "id": "realvalladolid",
