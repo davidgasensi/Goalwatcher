@@ -1974,8 +1974,8 @@
     "wins": 7,
     "loses": 9,
     "draws": 6,
-    "goalsScored": 31,
-    "goalsConceded": 31,
+    "goalsScored": 33,
+    "goalsConceded": 33,
     "points": 27,
     "team": {
       "id": "girona",
@@ -2727,8 +2727,8 @@
     "wins": 6,
     "loses": 12,
     "draws": 4,
-    "goalsScored": 25,
-    "goalsConceded": 38,
+    "goalsScored": 27,
+    "goalsConceded": 40,
     "points": 22,
     "team": {
       "id": "almeria",
