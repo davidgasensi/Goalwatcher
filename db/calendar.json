@@ -1206,7 +1206,7 @@
       },
       {
         "team1": "Elche",
-        "result": "00h",
+        "result": "0-1",
         "team2": "Espanyol"
       },
       {
@@ -1401,57 +1401,57 @@
   },
   {
     "numJornada": "Jornada 26",
-    "date": "19 de marzo",
+    "date": "17, 18 y 19 de marzo",
     "matches": [
       {
         "team1": "Valladolid",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Athletic"
       },
       {
-        "team1": "Betis",
-        "result": "Por definir",
-        "team2": "Mallorca"
-      },
-      {
         "team1": "Almería",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Cádiz"
       },
       {
+        "team1": "Rayo",
+        "result": "15h",
+        "team2": "Girona"
+      },
+      {
+        "team1": "Espanyol",
+        "result": "30h",
+        "team2": "Celta"
+      },
+      {
+        "team1": "Atlético",
+        "result": "00h",
+        "team2": "Valencia"
+      },
+      {
+        "team1": "Betis",
+        "result": "00h",
+        "team2": "Mallorca"
+      },
+      {
         "team1": "R. Sociedad",
-        "result": "Por definir",
+        "result": "15h",
         "team2": "Elche"
       },
       {
         "team1": "Osasuna",
-        "result": "Por definir",
+        "result": "15h",
         "team2": "Villarreal"
       },
       {
-        "team1": "Rayo",
-        "result": "Por definir",
-        "team2": "Girona"
-      },
-      {
-        "team1": "Atlético",
-        "result": "Por definir",
-        "team2": "Valencia"
+        "team1": "Getafe",
+        "result": "30h",
+        "team2": "Sevilla"
       },
       {
         "team1": "FC Barcelona",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Real Madrid"
-      },
-      {
-        "team1": "Espanyol",
-        "result": "Por definir",
-        "team2": "Celta"
-      },
-      {
-        "team1": "Getafe",
-        "result": "Por definir",
-        "team2": "Sevilla"
       }
     ]
   },
