@@ -2,37 +2,37 @@
   {
     "type": "Faltas por partido",
     "position": 1,
-    "value": 15.77,
+    "value": 16.41,
     "name": "R. Sociedad",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Faltas por partido",
     "position": 2,
-    "value": 15.45,
+    "value": 16.32,
     "name": "Mallorca",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Faltas por partido",
     "position": 3,
+    "value": 14.77,
+    "name": "Osasuna",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
+  },
+  {
+    "type": "Faltas por partido",
+    "position": 4,
     "value": 14.32,
     "name": "Getafe",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 4,
+    "position": 5,
     "value": 14.27,
     "name": "Rayo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
-  },
-  {
-    "type": "Faltas por partido",
-    "position": 5,
-    "value": 14,
-    "name": "Osasuna",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   },
   {
     "type": "Faltas por partido",
@@ -58,16 +58,16 @@
   {
     "type": "Faltas por partido",
     "position": 9,
-    "value": 12.77,
-    "name": "Athletic",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+    "value": 13.14,
+    "name": "Celta",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
   },
   {
     "type": "Faltas por partido",
     "position": 10,
-    "value": 12.59,
-    "name": "Celta",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
+    "value": 12.77,
+    "name": "Athletic",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Faltas por partido",
@@ -79,63 +79,63 @@
   {
     "type": "Faltas por partido",
     "position": 12,
+    "value": 12.32,
+    "name": "Villarreal",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+  },
+  {
+    "type": "Faltas por partido",
+    "position": 13,
     "value": 12.27,
     "name": "Atlético",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 13,
+    "position": 14,
+    "value": 12,
+    "name": "Valladolid",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
+  },
+  {
+    "type": "Faltas por partido",
+    "position": 15,
     "value": 12,
     "name": "Girona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 14,
-    "value": 11.95,
-    "name": "Villarreal",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
-  },
-  {
-    "type": "Faltas por partido",
-    "position": 15,
+    "position": 16,
     "value": 11.77,
     "name": "Sevilla",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 16,
+    "position": 17,
     "value": 11.59,
     "name": "Espanyol",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 17,
+    "position": 18,
     "value": 11.55,
     "name": "FC Barcelona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 18,
-    "value": 11.32,
-    "name": "Valladolid",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
-  },
-  {
-    "type": "Faltas por partido",
     "position": 19,
-    "value": 10.05,
+    "value": 10.86,
     "name": "Betis",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Faltas por partido",
     "position": 20,
-    "value": 9.18,
+    "value": 9.5,
     "name": "Real Madrid",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   }

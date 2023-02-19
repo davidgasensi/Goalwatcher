@@ -51,22 +51,22 @@
   {
     "type": "Goles en contra",
     "position": 8,
-    "value": 22,
-    "name": "Unai Simón",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+    "value": 23,
+    "name": "Jordi Masip",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   },
   {
     "type": "Goles en contra",
     "position": 9,
-    "value": 21,
+    "value": 22,
     "name": "Álex Remiro",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Goles en contra",
     "position": 10,
-    "value": 21,
-    "name": "Jordi Masip",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
+    "value": 22,
+    "name": "Unai Simón",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   }
 ]

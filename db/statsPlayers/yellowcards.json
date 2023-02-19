@@ -38,35 +38,35 @@
     "type": "Tarjetas amarillas",
     "position": 6,
     "value": 8,
-    "name": "Jose Angel Carmona",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
+    "name": "Javier Sánchez",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 7,
-    "value": 7,
-    "name": "Erik Lamela",
+    "value": 8,
+    "name": "Jose Angel Carmona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 8,
     "value": 7,
-    "name": "Vinicius Souza",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+    "name": "Erik Lamela",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 9,
     "value": 7,
-    "name": "Oscar Valentin",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+    "name": "Lucas Torró",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 10,
     "value": 7,
-    "name": "Yunus Musah",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+    "name": "Vinicius Souza",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   }
 ]
