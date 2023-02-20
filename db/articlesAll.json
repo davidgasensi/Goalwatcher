@@ -1048,5 +1048,19 @@
     "image": "https://estaticos-cdn.sport.es/clip/7bc9e611-8751-46c1-98bf-d19732c8e8d6_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1676884245310,
     "domain": "sport"
+  },
+  {
+    "title": "Vlahovic, a tiro del Madrid",
+    "link": "https://as.com/futbol/primera/vlahovic-a-tiro-del-madrid-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/FaH9r7kSV-W3DP__EYMFBpi1xrA=/360x203/filters:focal(1517x668:1527x678)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/PIAUNCTYGG6LOWTFT5JFQ7SCWQ.jpg",
+    "createDate": 1676895447727,
+    "domain": "as"
+  },
+  {
+    "title": "\"En el Madrid hay gente de arriba que tiene dudas con Álvaro\"",
+    "link": "https://as.com/futbol/primera/alvaro-rodriguez-puede-ser-el-9-del-real-madrid-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/JCrax6k4NRDn06IzRhwa0T06d0U=/240x135/filters:focal(830x582:840x592)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/OYU473LZK373CITT4MOJ65IJUA.jpg",
+    "createDate": 1676895447729,
+    "domain": "as"
   }
 ]
