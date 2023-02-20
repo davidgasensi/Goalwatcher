@@ -1,9 +1,93 @@
 ---
-import Layout from "@layouts/Layout.astro";
+import Container from '@components/Container.astro';
+import Layout from '@layouts/Layout.astro';
+import { getCalendar } from '@services/calendar.js';
+const calendar = await getCalendar();
 ---
 
+<script>
+  function highlightTeam(event) {
+    const teamElement = event.target;
+    const teamName = teamElement.getAttribute('id');
+    const allTeamElements = document.querySelectorAll(`[id='${teamName}']`);
+    const alreadyHighlighted = document.querySelectorAll('.highlight');
 
+    alreadyHighlighted.forEach((element) => {
+      element.classList.remove('highlight');
+    });
 
-<Layout title='Calendario' description='Calendario de todos los partidos de la Liga Santander'>
+    allTeamElements.forEach((element) => {
+      element.classList.add('highlight');
+    });
+  }
 
+  window.addEventListener('DOMContentLoaded', () => {
+    const teamElements = document.querySelectorAll('.teams');
+    teamElements.forEach((teamElement) => {
+      teamElement.addEventListener('click', highlightTeam);
+    });
+  });
+</script>
+
+<Layout
+  title="Calendario"
+  description="Calendario de todos los partidos de la Liga Santander"
+>
+  <Container>
+    <div class="flex flex-wrap gap-8 justify-center py-6">
+      {
+        calendar.map(({ numJornada, date, matches }) => (
+          <table id={`matchday-${numJornada}`} class="table table-compact table-zebra w-80">
+            <thead>
+              <tr>
+                <td
+                  class="text-center bg-gw-grey text-gw-white text-xl"
+                  colspan="3"
+                >
+                  {numJornada}
+                </td>
+              </tr>
+              <td
+                class="text-center bg-gw-grey text-gw-white text-xs"
+                colspan="3"
+              >
+                {date}
+              </td>
+            </thead>
+
+            <tbody>
+              {matches.map(({ team1, result, team2 }) => (
+                <tr>
+                  <td
+                    id={team1}
+                    class="teams text-left p-2 text-base cursor-pointer w-32"
+                  >
+                    {team1}
+                  </td>
+                  <td class="text-center p-2 font-semibold text-base">
+                    {result}
+                  </td>
+                  <td
+                    id={team2}
+                    class="teams text-right p-2 text-base cursor-pointer w-32"
+                  >
+                    {team2}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        ))
+      }
+    </div>
+  </Container>
 </Layout>
+
+<style>
+  .highlight {
+    background-color: #ef233c !important;
+    color: #fff !important;
+    transition: background-color 0.3s ease-in-out !important;
+    font-weight: 500;
+  }
+</style>
