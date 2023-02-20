@@ -3307,13 +3307,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 5,
     "loses": 11,
-    "draws": 5,
+    "draws": 6,
     "goalsScored": 26,
     "goalsConceded": 26,
-    "points": 20,
+    "points": 21,
     "team": {
       "id": "valencia",
       "name": "Valencia",
@@ -3525,13 +3525,13 @@
     }
   },
   {
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "wins": 4,
     "loses": 10,
-    "draws": 7,
+    "draws": 8,
     "goalsScored": 18,
     "goalsConceded": 28,
-    "points": 19,
+    "points": 20,
     "team": {
       "id": "getafe",
       "name": "Getafe",
