@@ -16,37 +16,37 @@
   {
     "type": "Tarjetas amarillas",
     "position": 3,
+    "value": 10,
+    "name": "Jose Angel Carmona",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 4,
     "value": 9,
     "name": "Iván Alejo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 4,
+    "position": 5,
     "value": 8,
     "name": "Pau Torres",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 5,
+    "position": 6,
     "value": 8,
     "name": "Óscar Trejo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 6,
+    "position": 7,
     "value": 8,
     "name": "Javier Sánchez",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 7,
-    "value": 8,
-    "name": "Jose Angel Carmona",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Tarjetas amarillas",
@@ -66,7 +66,7 @@
     "type": "Tarjetas amarillas",
     "position": 10,
     "value": 7,
-    "name": "Vinicius Souza",
+    "name": "Oscar Gil",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   }
 ]

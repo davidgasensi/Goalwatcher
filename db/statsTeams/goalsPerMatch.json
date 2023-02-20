@@ -9,7 +9,7 @@
   {
     "type": "Goles por partido",
     "position": 2,
-    "value": 1.95,
+    "value": 2.05,
     "name": "FC Barcelona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -37,7 +37,7 @@
   {
     "type": "Goles por partido",
     "position": 6,
-    "value": 1.36,
+    "value": 1.41,
     "name": "Atlético",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
@@ -45,29 +45,29 @@
     "type": "Goles por partido",
     "position": 7,
     "value": 1.32,
-    "name": "Betis",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
-  },
-  {
-    "type": "Goles por partido",
-    "position": 8,
-    "value": 1.27,
     "name": "Rayo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles por partido",
+    "position": 8,
+    "value": 1.32,
+    "name": "Betis",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+  },
+  {
+    "type": "Goles por partido",
     "position": 9,
     "value": 1.23,
-    "name": "Almería",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
+    "name": "Espanyol",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Goles por partido",
     "position": 10,
-    "value": 1.18,
-    "name": "Espanyol",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+    "value": 1.23,
+    "name": "Almería",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
   },
   {
     "type": "Goles por partido",
@@ -80,15 +80,15 @@
     "type": "Goles por partido",
     "position": 12,
     "value": 1.09,
-    "name": "Villarreal",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+    "name": "Sevilla",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Goles por partido",
     "position": 13,
-    "value": 1.05,
-    "name": "Sevilla",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
+    "value": 1.09,
+    "name": "Villarreal",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Goles por partido",
