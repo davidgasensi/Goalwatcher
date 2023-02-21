@@ -23,23 +23,23 @@
   {
     "type": "Faltas por partido",
     "position": 4,
+    "value": 14.82,
+    "name": "Getafe",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+  },
+  {
+    "type": "Faltas por partido",
+    "position": 5,
     "value": 14.77,
     "name": "Osasuna",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 5,
+    "position": 6,
     "value": 14.36,
     "name": "Cádiz",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
-  },
-  {
-    "type": "Faltas por partido",
-    "position": 6,
-    "value": 14.32,
-    "name": "Getafe",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Faltas por partido",
@@ -51,7 +51,7 @@
   {
     "type": "Faltas por partido",
     "position": 8,
-    "value": 13.82,
+    "value": 14.18,
     "name": "Valencia",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
