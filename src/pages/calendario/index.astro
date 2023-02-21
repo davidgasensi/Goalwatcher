@@ -6,6 +6,11 @@ const calendar = await getCalendar();
 ---
 
 <script>
+  function scrollToMatchday(event) {
+    const matchday = event.target.value;
+    const matchdayElement = document.getElementById(`${matchday}`);
+    matchdayElement.scrollIntoView({ behavior: 'smooth' });
+  }
   function highlightTeam(event) {
     const teamElement = event.target;
     const teamName = teamElement.getAttribute('id');
@@ -21,10 +26,31 @@ const calendar = await getCalendar();
     });
   }
 
+
   window.addEventListener('DOMContentLoaded', () => {
     const teamElements = document.querySelectorAll('.teams');
     teamElements.forEach((teamElement) => {
       teamElement.addEventListener('click', highlightTeam);
+    });
+
+    const selectElement = document.querySelector('#matchday-select');
+    selectElement.addEventListener('change', scrollToMatchday);
+
+    const scrollToTopButton = document.querySelector('.scroll-to-top') as HTMLElement;
+    scrollToTopButton.style.display = 'none'
+    scrollToTopButton.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth',
+      });
+    });
+
+    window.addEventListener('scroll', () => {
+      if (window.pageYOffset > 0) {
+        scrollToTopButton.style.display = 'block'
+      } else {
+        scrollToTopButton.style.display = 'none'
+      }
     });
   });
 </script>
@@ -34,10 +60,24 @@ const calendar = await getCalendar();
   description="Calendario de todos los partidos de la Liga Santander"
 >
   <Container>
+    <div class="flex justify-center">
+      <select
+        class="border border-gray-300 text-sm rounded-lg block w-full max-w-xs p-2.5 bg-gw-white items-center"
+        id="matchday-select"
+      >
+        <option disabled selected>Escoge una jornada</option>
+        {
+          calendar.map(({ numJornada }) => (
+            <option value={numJornada}>{numJornada}</option>
+          ))
+        }
+      </select>
+    </div>
+
     <div class="flex flex-wrap gap-8 justify-center py-6">
       {
         calendar.map(({ numJornada, date, matches }) => (
-          <table id={`matchday-${numJornada}`} class="table table-compact table-zebra w-80">
+          <table id={numJornada} class="table table-compact table-zebra w-80">
             <thead>
               <tr>
                 <td
@@ -79,6 +119,11 @@ const calendar = await getCalendar();
           </table>
         ))
       }
+    </div>
+    <div
+      class="scroll-to-top fixed bottom-0 right-0 p-5 bg-gw-red m-6 rounded-lg text-gw-white cursor-pointer"
+    >
+      <i class="fa-solid fa-angle-up rounded-full fa-lg"></i>
     </div>
   </Container>
 </Layout>
