@@ -34,7 +34,7 @@ const { stat, type, total } =
       </thead>
       <tbody>
         {
-          stat.map(({ position, value, name }) => (
+          stat && stat.map(({ position, value, name }) => (
               <tr>
                 <th class="text-center font-bold px-4 py-2">{position}</th>
                 <td class="font-semibold text-center">
