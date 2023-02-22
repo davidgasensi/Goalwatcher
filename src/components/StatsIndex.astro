@@ -1,0 +1,87 @@
+---
+import { getStats } from '@services/statsindex.js';
+const statsWithImages = await getStats('pichichi');
+const statsZamoraWithImages = await getStats('zamora');
+
+---
+
+<main class="overflow-x-auto">
+  <div>
+    <div class="overflow-x-auto">
+      <table class="table table-compact w-full table-zebra">
+        <thead>
+          <tr>
+            <th
+              class="text-center bg-gw-grey text-gw-white text-2xl"
+              colspan="3"
+            >
+              Pichichi
+            </th>
+          </tr>
+          <tr class="text-center">
+            <th class="bg-gw-red text-gw-white text-center">Pos</th>
+            <td class="bg-gw-red text-gw-white text-center">Nombre</td>
+            <td class="bg-gw-red text-gw-white text-center">Goles</td>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            statsWithImages &&
+              statsWithImages.map(({ position, value, name, image }) => (
+                <tr>
+                  <th class="text-center font-bold px-4 py-2">{position}</th>
+                  <td class="font-semibold flex gap-2 items-center ">
+                    <img
+                      class="w-8 h-8 rounded-lg overflow-hidden"
+                      src={image}
+                      alt={name}
+                    />
+                    {name}
+                  </td>
+                  <td class="text-center font-bold">{value}</td>
+                </tr>
+              ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </div>
+    <div class="overflow-x-auto pt-8">
+      <table class="table table-compact w-full table-zebra">
+        <thead>
+          <tr>
+            <th
+              class="text-center bg-gw-grey text-gw-white text-2xl"
+              colspan="3"
+            >
+              Zamora
+            </th>
+          </tr>
+          <tr class="text-center">
+            <th class="bg-gw-red text-gw-white text-center">Pos</th>
+            <td class="bg-gw-red text-gw-white text-center">Nombre</td>
+            <td class="bg-gw-red text-gw-white text-center">Coeficiente</td>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            statsZamoraWithImages &&
+              statsZamoraWithImages.map(({ position, value, name, image }) => (
+                <tr>
+                  <th class="text-center font-bold px-4 py-2">{position}</th>
+                  <td class="font-semibold flex gap-2 items-center ">
+                    <img
+                      class="w-8 h-8 rounded-lg overflow-hidden"
+                      src={image}
+                      alt={name}
+                    />
+                    {name}
+                  </td>
+                  <td class="text-center font-bold">{value}</td>
+                </tr>
+              ))
+          }
+        </tbody>
+      </table>
+    </div>
+</main>
