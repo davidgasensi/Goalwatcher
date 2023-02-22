@@ -27,7 +27,7 @@ const menu = [
 ];
 ---
 
-<header class="mb-5 py-3 bg-[#353b48] overflow-x-auto">
+<header class="mb-5 py-3 bg-[#353b48]">
   <nav>
     <div class="flex place-content-center">
       <Logo />
@@ -74,10 +74,7 @@ const menu = [
               d="M4 6h16M4 12h16M4 18h7"></path></svg
           >
         </label>
-        <ul
-          tabindex="0"
-          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 text-[#353b48]"
-        >
+        <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 text-[#353b48]">
           {
             menu.map(({ nombre, href }) => (
               <li>
