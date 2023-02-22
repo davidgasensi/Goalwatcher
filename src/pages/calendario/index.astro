@@ -7,10 +7,17 @@ const calendar = await getCalendar();
 
 <script>
   function scrollToMatchday(event) {
-    const matchday = event.target.value;
-    const matchdayElement = document.getElementById(`${matchday}`);
-    matchdayElement.scrollIntoView({ behavior: 'smooth' });
+  const matchday = event.target.value;
+  const matchdayElement = document.getElementById(`${matchday}`);
+  matchdayElement.scrollIntoView({ behavior: 'smooth' });
+
+  const selectedMatchdayElement = document.querySelector('.selected');
+  if (selectedMatchdayElement) {
+    selectedMatchdayElement.classList.remove('selected');
   }
+  matchdayElement.classList.add('selected');
+
+}
   function highlightTeam(event) {
     const teamElement = event.target;
     const teamName = teamElement.getAttribute('id');
@@ -26,7 +33,6 @@ const calendar = await getCalendar();
     });
   }
 
-
   window.addEventListener('DOMContentLoaded', () => {
     const teamElements = document.querySelectorAll('.teams');
     teamElements.forEach((teamElement) => {
@@ -36,8 +42,10 @@ const calendar = await getCalendar();
     const selectElement = document.querySelector('#matchday-select');
     selectElement.addEventListener('change', scrollToMatchday);
 
-    const scrollToTopButton = document.querySelector('.scroll-to-top') as HTMLElement;
-    scrollToTopButton.style.display = 'none'
+    const scrollToTopButton = document.querySelector(
+      '.scroll-to-top'
+    ) as HTMLElement;
+    scrollToTopButton.style.display = 'none';
     scrollToTopButton.addEventListener('click', () => {
       window.scrollTo({
         top: 0,
@@ -47,9 +55,9 @@ const calendar = await getCalendar();
 
     window.addEventListener('scroll', () => {
       if (window.pageYOffset > 0) {
-        scrollToTopButton.style.display = 'block'
+        scrollToTopButton.style.display = 'block';
       } else {
-        scrollToTopButton.style.display = 'none'
+        scrollToTopButton.style.display = 'none';
       }
     });
   });
@@ -77,10 +85,11 @@ const calendar = await getCalendar();
     <div class="flex flex-wrap gap-8 justify-center py-6">
       {
         calendar.map(({ numJornada, date, matches }) => (
-          <table id={numJornada} class="table table-compact table-zebra w-80">
+          <table class="table table-compact table-zebra w-80">
             <thead>
               <tr>
                 <td
+                  id={numJornada}
                   class="text-center bg-gw-grey text-gw-white text-xl"
                   colspan="3"
                 >
@@ -135,4 +144,11 @@ const calendar = await getCalendar();
     transition: background-color 0.3s ease-in-out !important;
     font-weight: 500;
   }
+
+  .selected {
+    background-color: #ef233c !important;
+    transition: background-color 0.5s ease-out;
+  }
+
+  
 </style>
