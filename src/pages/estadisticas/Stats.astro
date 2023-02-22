@@ -1,0 +1,49 @@
+---
+export interface Props {
+  stat: [{
+    type: string;
+    position: number;
+    value: number;
+    name: string
+  }];
+  type: string;
+  total: string;
+}
+
+const { stat, type, total } =
+  Astro.props;
+---
+
+
+  <div class="overflow-x-auto">
+    <table class="table table-compact table-zebra w-[22rem]">
+      <thead>
+        <tr>
+          <th
+            class="text-center bg-gw-grey text-gw-white text-2xl p-2"
+            colspan="3"
+          >
+            {type}
+          </th>
+        </tr>
+        <tr class="text-center">
+          <th class="bg-gw-red text-gw-white text-center">Pos</th>
+          <td class="bg-gw-red text-gw-white text-center">Nombre</td>
+          <td class="bg-gw-red text-gw-white text-center">{total}</td>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          stat.map(({ position, value, name }) => (
+              <tr>
+                <th class="text-center font-bold px-4 py-2">{position}</th>
+                <td class="font-semibold text-center">
+                  {name}
+                </td>
+                <td class="text-center font-bold">{value}</td>
+              </tr>
+            ))
+        }
+      </tbody>
+    </table>
+  </div>

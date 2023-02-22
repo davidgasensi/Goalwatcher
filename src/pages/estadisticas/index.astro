@@ -1,10 +1,35 @@
 ---
-import Layout from "@layouts/Layout.astro";
+import Container from '@components/Container.astro';
+import Layout from '@layouts/Layout.astro';
+import { getStatsPlayers, getStatsTeams } from '@services/statsAll.js';
+import Stats from './Stats.astro';
+
+const pichichi = await getStatsPlayers('pichichi');
+const zamora = await getStatsPlayers('zamora');
+const penalties = await getStatsPlayers('penalties');
+const goalAgainst = await getStatsPlayers('goalAgainst');
+const yellowcards = await getStatsPlayers('yellowcards');
+const redcards = await getStatsPlayers('redcards');
+
+const foulsPerMatch = await getStatsTeams('foulsPerMatch');
+const goalsPerMatch = await getStatsTeams('goalsPerMatch');
 ---
 
+<Layout
+  title="Estadísticas"
+  description="Todas las estadísticas de los equipos y jugadores"
+>
+  <Container>
+    <div class="flex flex-wrap gap-6 w-full py-6 justify-center">
+        <Stats stat={pichichi} type="Pichichi" total="Goles"/>
+        <Stats stat={zamora} type="Zamora" total="Coef."/>
+        <Stats stat={penalties} type="Penaltis marcados" total="Total"/>
+        <Stats stat={goalAgainst} type="Goles en contra" total="Total"/>
+        <Stats stat={yellowcards} type="Tarjetas amarillas" total="Total"/>
+        <Stats stat={redcards} type="Tarjetas rojas" total="Total"/>
 
-
-
-<Layout title='Estadísticas' description='Estadísticas de los equipos'>
-
+        <Stats stat={foulsPerMatch} type="Faltas por partido" total="Prom."/>
+        <Stats stat={goalsPerMatch} type="Goles por partido" total="Prom."/>
+    </div>
+  </Container>
 </Layout>
