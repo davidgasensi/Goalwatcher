@@ -11,17 +11,17 @@ const articles = await getArticlesDaily();
       return (
         <div class="card w-96 card-compact bg-base-100 shadow-xl h-72 mb-6">
           <figure>
-            <a href={link} ><img class="w-96 h-auto" width="96" height="auto" src={image} alt={title} /></a>
+            <a href={link} title="Ir al artículo" target="_blank" ><img class="w-96 h-auto" src={image} alt={title} /></a>
           </figure>
           <div class="card-body">
-            <a href={link} class="text-center self-center">
+            <a href={link} title="Ir al artículo" target="_blank" class="text-center self-center">
               <h2 class="card-title text-center self-center">{title}</h2>
             </a>
             <div class="flex mt-2 items-center self-center gap-32">
               {domain === 'sport' && (
                 <a
                   href="https://www.sport.es/es/laliga/"
-                  class="flex-1 text-base font-semibold hover:text-gw-red"
+                  class="flex-1 text-base font-semibold hover:text-gw-red" title="Sport" target="_blank"
                 >
                   Diario {domain.charAt(0).toUpperCase() + domain.slice(1)}
                 </a>
@@ -29,7 +29,7 @@ const articles = await getArticlesDaily();
               {domain === 'as' && (
                 <a
                   href="https://as.com/futbol/primera/"
-                  class="flex-1 text-base font-semibold hover:text-gw-red"
+                  class="flex-1 text-base font-semibold hover:text-gw-red" title="As" target="_blank"
                 >
                   Diario {domain.charAt(0).toUpperCase() + domain.slice(1)}
                 </a>
@@ -38,7 +38,7 @@ const articles = await getArticlesDaily();
               
               <a
                 href={link}
-                class="flex place-items-center gap-2 text-base text-gray-600 transition-all duration-500 hover:text-gw-red hover:translate-x-2"
+                class="flex place-items-center gap-2 text-base text-gray-600 transition-all duration-500 hover:text-gw-red hover:translate-x-2" title="Ir al artículo" target="_blank"
               >
                 <p class="text-right text-base font-semibold">Ir al artículo</p>
                 <i class="fa-solid fa-arrow-right fa mt-1" />
