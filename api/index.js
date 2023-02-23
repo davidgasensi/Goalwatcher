@@ -111,8 +111,8 @@ app.get('/articles', (ctx) => {
   return ctx.json(articles);
 });
 
-app.get('/articles', (ctx) => {
-  return ctx.json(articles);
+app.get('/articlesAll', (ctx) => {
+  return ctx.json(articlesAll);
 });
 
 app.get('/teams/:id', (ctx) => {
