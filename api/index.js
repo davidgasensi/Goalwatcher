@@ -3,7 +3,7 @@ import leaderboard from '../db/leaderboard.json';
 import teams from '../db/teams.json';
 import players from '../db/players.json'
 import articles from '../db/articles.json'
-
+import articlesAll from '../db/articlesAll.json'
 import goalAgainst from '../db/statsPlayers/goalAgainst.json'
 import penalties from '../db/statsPlayers/penalties.json'
 import pichichi from '../db/statsPlayers/pichichi.json'
@@ -13,6 +13,7 @@ import zamora from '../db/statsPlayers/zamora.json'
 import foulsPerMatch from '../db/statsTeams/foulsPerMatch.json'
 import goalsPerMatch from '../db/statsTeams/goalsPerMatch.json'
 import calendar from '../db/calendar.json'
+
 
 
 import { serveStatic } from 'hono/serve-static.module';
@@ -40,7 +41,11 @@ app.get('/', (ctx) =>
     },
     {
       endpoint: '/articles',
-      description: 'Returns the articles',
+      description: 'Returns the daily articles',
+    },
+    {
+      endpoint: '/articlesAll',
+      description: 'Returns all articles',
     },
     {
       endpoint: '/stats',
@@ -100,6 +105,10 @@ app.get('/teams', (ctx) => {
 
 app.get('/calendar', (ctx) => {
   return ctx.json(calendar);
+});
+
+app.get('/articles', (ctx) => {
+  return ctx.json(articles);
 });
 
 app.get('/articles', (ctx) => {
