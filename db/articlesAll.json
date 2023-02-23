@@ -1475,5 +1475,33 @@
     "image": "https://img.asmedia.epimg.net/resizer/vcQ5IesPh417D7pjuSsy6Eqbht0=/240x135/filters:focal(2990x651:3000x661)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/AJYYWLX7HCSXHG5T6DIH5XB35A.JPG",
     "createDate": 1677143372940,
     "domain": "as"
+  },
+  {
+    "title": "El Barça tantea a Kubo",
+    "link": "https://as.com/futbol/primera/el-barca-tantea-a-kubo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/j-njIhNlh7b6NpFHuONyEwobB1o=/360x203/filters:focal(1688x360:1698x370)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/3YAPDYGZNVIEIYOWLZYJW5NNVA.jpg",
+    "createDate": 1677154695900,
+    "domain": "as"
+  },
+  {
+    "title": "Kubo, ¿al Barça?",
+    "link": "https://as.com/futbol/mercado-de-fichajes-en-directo-altas-bajas-y-ultima-hora-hoy-n-18/?noti=mercado_mod_port",
+    "image": "https://img.asmedia.epimg.net/resizer/aQX-edk29SgNWz7ldA6yM4B0R7A=/240x135/filters:focal(2486x1044:2496x1054)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/65WWWYKEBJHSYOFMLZIFFHP5GA.jpg",
+    "createDate": 1677154695902,
+    "domain": "as"
+  },
+  {
+    "title": "Barça y Sevilla buscan el pase al sorteo de los octavos de final de la Europa League",
+    "link": "https://www.sport.es/es/noticias/barca/barca-sevilla-buscan-pase-sorteo-83508685",
+    "image": "https://estaticos-cdn.sport.es/clip/95001a3b-4978-416a-af1a-b143681d60cf_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1677154696918,
+    "domain": "sport"
+  },
+  {
+    "title": "Ortiz Arias arbitrará el Almería - Barça y Gil Manzano el derbi madrileño",
+    "link": "https://www.sport.es/es/noticias/laliga/ortiz-arias-arbitrara-almeria-barca-83507702",
+    "image": "https://estaticos-cdn.sport.es/clip/800c8d3e-9260-4718-bc76-bcb82a70708c_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1677154696920,
+    "domain": "sport"
   }
 ]
