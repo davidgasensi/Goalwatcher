@@ -8,3 +8,14 @@ export const getArticlesDaily = async () => {
       return []
    }
 }
+
+export const getArticlesAll = async () => {
+   try {
+      const response = await fetch('https://goalwatcher.davidasensi.workers.dev/articlesAll')
+      const articlesAll = await response.json();
+      return articlesAll
+   } catch (e) {
+      // enviar el error en una notificacion
+      return []
+   }
+}
