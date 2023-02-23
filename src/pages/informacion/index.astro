@@ -1,9 +1,87 @@
 ---
-import Layout from "@layouts/Layout.astro";
+import Container from '@components/Container.astro';
+import Layout from '@layouts/Layout.astro';
 ---
 
-
-
-<Layout title='Información' description='Información relacionada con la web, cómo se ha hecho y con qué tecnologías'>
-
+<Layout
+  title="Información"
+  description="Información relacionada con la web, cómo se ha hecho y con qué tecnologías"
+>
+  <Container>
+    <div class="overflow-x-auto text-xl py-4 mx-56">
+      <h3 class="font-semibold text-4xl text-center">
+        Información sobre la web
+      </h3>
+      <p class="text-justify py-4 text-xl">
+        <strong class="text-gw-red font-semibold">Goalwatcher</strong> es una página
+        web dedicada al fútbol, que proporciona contenido relacionado con este deporte.
+        La página incluye información sobre los equipos, jugadores, noticias, clasificación,
+        calendario y estadísticas de la primera división de la liga española.
+      </p>
+      <p class="text-justify py-4 text-xl">
+        Este proyecto tiene como objetivo crear una <strong
+          class="font-semibold">API</strong
+        > y <strong class="font-semibold">página web</strong> de la Liga Santander
+        con fines didácticos. La API proporciona acceso a datos de equipos, jugadores,
+        clasificación, artículos, estadísticas, calendario actualizado.
+      </p>
+      <p class="text-justify py-4 text-xl">
+        Los datos se actualizan cada 2 horas haciendo <strong
+          class="font-semibold">scraping</strong
+        > a periódicos online. Mediante <strong class="font-semibold"
+          >GitHub Actions</strong
+        >, los scripts de scraping se ejecutan todos los días, una vez recogidos
+        los datos, hace push a la rama main. La API también se despliega
+        automáticamente cuando se ha realizado un push en la rama main.
+      </p>
+      <h3 class="font-semibold text-4xl text-center pt-4">Tecnologías usadas</h3>
+      <ul class="text-justify py-3">
+        <li class="py-2 font-normal">
+          <strong class="font-semibold">Scraping y automatización:</strong> Para
+          realizar Web Scraping y obtener datos de otras páginas se ha utilizado
+          la librería <a
+            href="https://cheerio.js.org/"
+            target="_blank"
+            title="Cheerio"
+            class="underline text-[#e15f41]">Cheerio.</a
+          > Para la automatización del despliegue y scraping, <a
+            href="https://github.com/features/actions"
+            target="_blank"
+            title="GitHub Actions"
+            class="underline text-[#485460]">GitHub Actions.</a
+          >
+        </li>
+        <li class="py-2 font-normal">
+          <strong class="font-semibold">API:</strong> Para la construcción
+          <a
+            href="https://hono.dev/"
+            target="_blank"
+            title="Hono"
+            class="underline text-[#cf6a87]">Hono</a
+          > y el servicio de hosting de APIs <a
+            href="https://workers.cloudflare.com/"
+            target="_blank"
+            title="Cloudflare Workers"
+            class="underline text-[#fa8231]">Cloudflare Workers</a
+          > para el despliegue.
+        </li>
+        <li class="py-2">
+          <strong class="font-semibold">Web:</strong> La página está desarrollada
+          con el framework <a
+            href="https://astro.build/"
+            target="_blank"
+            title="Astro"
+            class="underline text-[#8854d0]">Astro</a
+          > y para los estilos el framework <strong class="font-semibold"
+            >Web:</strong
+          > La página está desarrollada con el framework <a
+            href="https://tailwindcss.com/"
+            target="_blank"
+            title="CSS Tailwind"
+            class="underline text-[#4b7bec]">CSS Tailwind</a
+          >.
+        </li>
+      </ul>
+    </div>
+  </Container>
 </Layout>
