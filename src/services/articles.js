@@ -4,7 +4,6 @@ export const getArticlesDaily = async () => {
       const articles = await response.json();
       return articles
    } catch (e) {
-      // enviar el error en una notificacion
       return []
    }
 }
@@ -15,7 +14,6 @@ export const getArticlesAll = async () => {
       const articlesAll = await response.json();
       return articlesAll
    } catch (e) {
-      // enviar el error en una notificacion
       return []
    }
 }

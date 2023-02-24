@@ -4,7 +4,6 @@ export const getLeaderboard = async () => {
       const leaderboard = await response.json();
       return leaderboard
    } catch (e) {
-      // enviar el error en una notificacion
       return []
    }
 }

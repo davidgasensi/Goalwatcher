@@ -4,7 +4,6 @@ export const getAllTeams = async () => {
       const teams = await response.json();
       return teams
    } catch (e) {
-      // enviar el error en una notificacion
       return []
    }
 }

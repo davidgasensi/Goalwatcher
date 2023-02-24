@@ -4,7 +4,6 @@ export const getCalendar = async () => {
       const calendar = await response.json();
       return calendar
    } catch (e) {
-      // enviar el error en una notificacion
       return []
    }
 }

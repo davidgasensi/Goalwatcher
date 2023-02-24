@@ -4,7 +4,6 @@ export const getPlayers = async () => {
       const players = await response.json();
       return players
    } catch (e) {
-      // enviar el error en una notificacion
       return []
    }
 }

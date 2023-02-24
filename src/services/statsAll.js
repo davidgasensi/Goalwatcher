@@ -6,7 +6,6 @@ export const getStatsPlayers = async (stat) => {
     const stats = await response.json();
     return stats;
   } catch (e) {
-    // enviar el error en una notificacion
     return [];
   }
 };
@@ -19,7 +18,6 @@ export const getStatsTeams = async (stat) => {
     const stats = await response.json();
     return stats;
   } catch (e) {
-    // enviar el error en una notificacion
     return [];
   }
 };

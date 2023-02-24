@@ -52,7 +52,6 @@ export const getStats = async (petition) => {
        return statsZamoraWithImages;
      }
    } catch (e) {
-     // enviar el error en una notificacion
      return [];
    }
  };
