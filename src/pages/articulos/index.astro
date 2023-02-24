@@ -17,7 +17,7 @@ const articlesAll = await getArticlesAll();
       {
         articlesAll
           .sort((a, b) => b.createDate - a.createDate)
-          .slice(0, 20)
+          .slice(0, 50)
           .map(({ title, link, image, domain, createDate }) => {
             const date = new Date(createDate);
             const dateES = date.toLocaleDateString('es-ES');
