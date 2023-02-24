@@ -1,4 +1,4 @@
-﻿# GoalWatcher
+﻿# GoalWatcher ⚽
 
 Proyecto creado por motivos didácticos sin ánimo de lucro. Los datos de la API han sido recogidos mediante scraping a páginas web.
 
