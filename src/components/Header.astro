@@ -23,6 +23,7 @@ const menu = [
 ];
 ---
 
+
 <header class="mb-5 py-3 bg-[#353b48]">
   <nav>
     <div class="flex place-content-center">
@@ -34,6 +35,7 @@ const menu = [
           GoalWatcher
         </h1></a
       >
+      
     </div>
     <div class="py-3">
       <ul
@@ -81,6 +83,7 @@ const menu = [
                   href={href}
                 >
                   {nombre}
+
                 </a>
               </li>
             ))
@@ -93,7 +96,7 @@ const menu = [
             <li>
               <a
                 class={`transition text-lg font-medium duration-300 hover:text-gw-red ${
-                  Astro.url.pathname === href ? 'text-gw-red' : ''
+                  Astro.url.pathname === href+"/" ? 'text-gw-red' : ''
                 }`}
                 href={href}
               >
