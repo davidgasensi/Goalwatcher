@@ -844,12 +844,12 @@
     }
   },
   {
-    "gamesPlayed": 22,
+    "gamesPlayed": 23,
     "wins": 11,
-    "loses": 7,
+    "loses": 8,
     "draws": 4,
     "goalsScored": 29,
-    "goalsConceded": 23,
+    "goalsConceded": 25,
     "points": 37,
     "team": {
       "id": "betis",
@@ -3729,13 +3729,13 @@
     }
   },
   {
-    "gamesPlayed": 22,
-    "wins": 1,
+    "gamesPlayed": 23,
+    "wins": 2,
     "loses": 15,
     "draws": 6,
-    "goalsScored": 15,
+    "goalsScored": 17,
     "goalsConceded": 45,
-    "points": 9,
+    "points": 12,
     "team": {
       "id": "elche",
       "name": "Elche",
