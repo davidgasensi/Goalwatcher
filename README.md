@@ -4,6 +4,13 @@ Proyecto creado por motivos didácticos sin ánimo de lucro. Los datos de la API
 
 GoalWatcher es un sitio web dedicado a la actualidad del fútbol. Ofrece noticias actualizadas sobre los equipos y jugadores más destacados, así como estadísticas y resultados. Con GoalWatcher, los aficionados al fútbol pueden mantenerse al día sobre sus equipos y jugadores favoritos.
 
+## Web
+
+URL: https://goalwatcher.vercel.app/
+
+![image](https://user-images.githubusercontent.com/20258310/221303496-71e3c25a-62c4-4e0f-a162-0d28620537e1.png)
+
+
 ## API
 URL: https://goalwatcher.davidasensi.workers.dev/
 
@@ -28,4 +35,4 @@ Endpoints disponibles:
 * GET `/stats/teams/goalsPerMatch`: Devuelve las estadísticas de los goles por partido por los equipos.
 * GET `/stats/teams/foulsPerMatch`: Devuelve las estadísticas de las faltas cometidas por partido por los equipos.
 
-## Web
+
