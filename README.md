@@ -8,7 +8,7 @@ GoalWatcher es un sitio web dedicado a la actualidad del fútbol. Ofrece noticia
 
 URL: https://goalwatcher.vercel.app/
 
-![image](https://user-images.githubusercontent.com/20258310/221303496-71e3c25a-62c4-4e0f-a162-0d28620537e1.png)
+![image](https://user-images.githubusercontent.com/20258310/221303579-6331120b-8bf5-4a81-a373-7c603d55dfc1.png)
 
 
 ## API
