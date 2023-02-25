@@ -30,16 +30,16 @@
   {
     "type": "Pichichi",
     "position": 5,
-    "value": 9,
-    "name": "Alexander Sorloth",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+    "value": 10,
+    "name": "Vedat Muriqi",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Pichichi",
     "position": 6,
     "value": 9,
-    "name": "Vedat Muriqi",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+    "name": "Alexander Sorloth",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Pichichi",
@@ -59,14 +59,14 @@
     "type": "Pichichi",
     "position": 9,
     "value": 7,
-    "name": "Ezequiel Ávila",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
+    "name": "Martin Braithwaite",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Pichichi",
     "position": 10,
     "value": 7,
-    "name": "Vinicius Junior",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
+    "name": "Ezequiel Ávila",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   }
 ]
