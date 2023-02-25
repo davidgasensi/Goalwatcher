@@ -1428,12 +1428,12 @@
     }
   },
   {
-    "gamesPlayed": 22,
+    "gamesPlayed": 23,
     "wins": 9,
-    "loses": 9,
+    "loses": 10,
     "draws": 4,
-    "goalsScored": 20,
-    "goalsConceded": 22,
+    "goalsScored": 21,
+    "goalsConceded": 24,
     "points": 31,
     "team": {
       "id": "mallorca",
@@ -2160,6 +2160,210 @@
     }
   },
   {
+    "gamesPlayed": 23,
+    "wins": 6,
+    "loses": 8,
+    "draws": 9,
+    "goalsScored": 29,
+    "goalsConceded": 34,
+    "points": 27,
+    "team": {
+      "id": "espanyol",
+      "name": "Espanyol",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-espanyol.svg",
+      "urlWeb": "https://www.rcdespanyol.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/rcdespanyol/?hl=es",
+        "https://twitter.com/RCDEspanyol?s=20",
+        "https://www.tiktok.com/@rcdespanyol?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Joan Garcia",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/joa/100/47928.jpg",
+          "team": "espanyol"
+        },
+        {
+          "name": "Álvaro Fernández",
+          "position": "Portero",
+          "number": 25,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/alv/100/36057.jpg",
+          "team": "espanyol"
+        },
+        {
+          "name": "Ángel",
+          "position": "Portero",
+          "number": 34,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ang/100/47929.jpg",
+          "team": "espanyol"
+        },
+        {
+          "name": "Cabrera",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cab/100/18153.jpg",
+          "team": "espanyol"
+        },
+        {
+          "name": "Calero",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cal/100/39919.jpg",
+          "team": "espanyol"
+        },
+        {
+          "name": "Aleix Vidal",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/19446.jpg",
+          "team": "espanyol"
+        },
+        {
+          "name": "Sergi Gómez",
+          "position": "Defensa",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Luca Koleosho",
+          "position": "Defensa",
+          "number": 30,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Óscar Gil",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Adrià Pedrosa",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Keidi",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Darder",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Vinicius",
+          "position": "Centrocampista",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Brian",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Edu Expósito",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Melamed",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Omar",
+          "position": "Centrocampista",
+          "number": 26,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Dani",
+          "position": "Centrocampista",
+          "number": 31,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Roger Santamaria",
+          "position": "Centrocampista",
+          "number": 35,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Javi Puado",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Joselu",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "José Carlos",
+          "position": "Delantero",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Braithwaite",
+          "position": "Delantero",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Dani Gómez",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "De Tomás",
+          "position": "Delantero",
+          "number": 25,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        },
+        {
+          "name": "Nabili Zoubdi Touaizi",
+          "position": "Delantero",
+          "number": 32,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "espanyol"
+        }
+      ]
+    }
+  },
+  {
     "gamesPlayed": 22,
     "wins": 6,
     "loses": 9,
@@ -2366,210 +2570,6 @@
           "number": 41,
           "image": "//as01.epimg.net/t.gif",
           "team": "sevilla"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 22,
-    "wins": 5,
-    "loses": 8,
-    "draws": 9,
-    "goalsScored": 27,
-    "goalsConceded": 33,
-    "points": 24,
-    "team": {
-      "id": "espanyol",
-      "name": "Espanyol",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-espanyol.svg",
-      "urlWeb": "https://www.rcdespanyol.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/rcdespanyol/?hl=es",
-        "https://twitter.com/RCDEspanyol?s=20",
-        "https://www.tiktok.com/@rcdespanyol?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Joan Garcia",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/joa/100/47928.jpg",
-          "team": "espanyol"
-        },
-        {
-          "name": "Álvaro Fernández",
-          "position": "Portero",
-          "number": 25,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/alv/100/36057.jpg",
-          "team": "espanyol"
-        },
-        {
-          "name": "Ángel",
-          "position": "Portero",
-          "number": 34,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ang/100/47929.jpg",
-          "team": "espanyol"
-        },
-        {
-          "name": "Cabrera",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cab/100/18153.jpg",
-          "team": "espanyol"
-        },
-        {
-          "name": "Calero",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cal/100/39919.jpg",
-          "team": "espanyol"
-        },
-        {
-          "name": "Aleix Vidal",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/19446.jpg",
-          "team": "espanyol"
-        },
-        {
-          "name": "Sergi Gómez",
-          "position": "Defensa",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Luca Koleosho",
-          "position": "Defensa",
-          "number": 30,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Óscar Gil",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Adrià Pedrosa",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Keidi",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Darder",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Vinicius",
-          "position": "Centrocampista",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Brian",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Edu Expósito",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Melamed",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Omar",
-          "position": "Centrocampista",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Dani",
-          "position": "Centrocampista",
-          "number": 31,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Roger Santamaria",
-          "position": "Centrocampista",
-          "number": 35,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Javi Puado",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Joselu",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "José Carlos",
-          "position": "Delantero",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Braithwaite",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Dani Gómez",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "De Tomás",
-          "position": "Delantero",
-          "number": 25,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
-        },
-        {
-          "name": "Nabili Zoubdi Touaizi",
-          "position": "Delantero",
-          "number": 32,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "espanyol"
         }
       ]
     }
