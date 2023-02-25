@@ -45,28 +45,28 @@
     "type": "Tarjetas amarillas",
     "position": 7,
     "value": 8,
+    "name": "Gumbau",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 8,
+    "value": 8,
     "name": "Javier Sánchez",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 8,
+    "position": 9,
     "value": 7,
     "name": "Erik Lamela",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 9,
+    "position": 10,
     "value": 7,
     "name": "Lucas Torró",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 10,
-    "value": 7,
-    "name": "Oscar Gil",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   }
 ]
