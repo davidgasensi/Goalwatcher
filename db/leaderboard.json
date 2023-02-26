@@ -1228,8 +1228,8 @@
     "wins": 9,
     "loses": 8,
     "draws": 6,
-    "goalsScored": 20,
-    "goalsConceded": 21,
+    "goalsScored": 22,
+    "goalsConceded": 23,
     "points": 33,
     "team": {
       "id": "osasuna",
@@ -2558,8 +2558,8 @@
     "wins": 6,
     "loses": 10,
     "draws": 7,
-    "goalsScored": 24,
-    "goalsConceded": 31,
+    "goalsScored": 26,
+    "goalsConceded": 33,
     "points": 25,
     "team": {
       "id": "sevilla",
