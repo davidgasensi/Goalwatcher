@@ -14,7 +14,7 @@ URL: https://goalwatcher.vercel.app/
 ## API
 URL: https://goalwatcher.davidasensi.workers.dev/
 
-La API se actualiza automáticamente cada 2 horas que es cuando el script de scraping se ejecuta mediante GitHub Actions y recoge los datos, la API también se despliega automáticamente por lo mismo.
+La API se actualiza automáticamente cada hora que es cuando el script de scraping se ejecuta mediante GitHub Actions y recoge los datos, la API también se despliega automáticamente por lo mismo.
 
 Endpoints disponibles:
 
