@@ -1613,6 +1613,168 @@
   {
     "gamesPlayed": 23,
     "wins": 9,
+    "loses": 9,
+    "draws": 5,
+    "goalsScored": 25,
+    "goalsConceded": 23,
+    "points": 32,
+    "team": {
+      "id": "villarreal",
+      "name": "Villarreal",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-villarreal.svg",
+      "urlWeb": "https://villarrealcf.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/villarrealcf/?hl=es",
+        "https://twitter.com/VillarrealCF?s=20",
+        "https://www.tiktok.com/@villarrealcf?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Reina",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rei/100/1986.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Kiko Femenía",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/k/kik/100/17648.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Albiol",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/alb/100/15121.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Jorge Cuenca",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/37076.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Mandi",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/man/100/20098.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Pau Torres",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pau/100/37004.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Capoue",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Juan Foyth",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Parejo",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Manu Morlanes",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Mojica",
+          "position": "Centrocampista",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Trigueros",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Giovani Lo Celso",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Alberto Moreno",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Coquelin",
+          "position": "Centrocampista",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Yeremy Pino",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Alfonso Pedraza",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Gerard Moreno",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Chukwueze",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Morales",
+          "position": "Delantero",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 23,
+    "wins": 9,
     "loses": 10,
     "draws": 4,
     "goalsScored": 21,
@@ -1803,168 +1965,6 @@
           "number": 23,
           "image": "//as01.epimg.net/t.gif",
           "team": "mallorca"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 23,
-    "wins": 9,
-    "loses": 10,
-    "draws": 4,
-    "goalsScored": 24,
-    "goalsConceded": 23,
-    "points": 31,
-    "team": {
-      "id": "villarreal",
-      "name": "Villarreal",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-villarreal.svg",
-      "urlWeb": "https://villarrealcf.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/villarrealcf/?hl=es",
-        "https://twitter.com/VillarrealCF?s=20",
-        "https://www.tiktok.com/@villarrealcf?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Reina",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rei/100/1986.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Kiko Femenía",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/k/kik/100/17648.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Albiol",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/alb/100/15121.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Jorge Cuenca",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/37076.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Mandi",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/man/100/20098.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Pau Torres",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pau/100/37004.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Capoue",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Juan Foyth",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Parejo",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Manu Morlanes",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Mojica",
-          "position": "Centrocampista",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Trigueros",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Giovani Lo Celso",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Alberto Moreno",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Coquelin",
-          "position": "Centrocampista",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Yeremy Pino",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Alfonso Pedraza",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Gerard Moreno",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Chukwueze",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Morales",
-          "position": "Delantero",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
         }
       ]
     }
@@ -2766,210 +2766,6 @@
   },
   {
     "gamesPlayed": 23,
-    "wins": 6,
-    "loses": 10,
-    "draws": 7,
-    "goalsScored": 20,
-    "goalsConceded": 28,
-    "points": 25,
-    "team": {
-      "id": "getafe",
-      "name": "Getafe",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-getafe.svg",
-      "urlWeb": "https://www.getafecf.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/getafecf/?hl=es",
-        "https://twitter.com/GetafeCF?s=20",
-        "https://www.tiktok.com/@getafecf"
-      ],
-      "players": [
-        {
-          "name": "Casilla",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cas/100/15860.jpg",
-          "team": "getafe"
-        },
-        {
-          "name": "David Soria",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/26932.jpg",
-          "team": "getafe"
-        },
-        {
-          "name": "Diego Conde",
-          "position": "Portero",
-          "number": 27,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/die/100/44447.jpg",
-          "team": "getafe"
-        },
-        {
-          "name": "Vicente Bellmunt Garcia",
-          "position": "Portero",
-          "number": 33,
-          "image": "//as01.epimg.net/img/silueta-generica.png",
-          "team": "getafe"
-        },
-        {
-          "name": "Gastón Álvarez",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gas/100/50038.jpg",
-          "team": "getafe"
-        },
-        {
-          "name": "Domingos Duarte",
-          "position": "Defensa",
-          "number": 6,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dom/100/35411.jpg",
-          "team": "getafe"
-        },
-        {
-          "name": "Omar Alderete",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Mitrovic",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Djene",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Fabricio Angileri",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Luis Milla",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Jaime Seoane",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Portu",
-          "position": "Centrocampista",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Aleñá",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Jordan Amavi",
-          "position": "Centrocampista",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Ángel Algobia",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Munir",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Arambarri",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Maksimovic",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Juan Iglesias",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Damián Suárez",
-          "position": "Centrocampista",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Koffi",
-          "position": "Centrocampista",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Mata",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Enes Ünal",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Juan Latasa",
-          "position": "Delantero",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        },
-        {
-          "name": "Mayoral",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "getafe"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 23,
     "wins": 7,
     "loses": 12,
     "draws": 4,
@@ -3724,6 +3520,210 @@
           "number": 40,
           "image": "//as01.epimg.net/t.gif",
           "team": "valencia"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 23,
+    "wins": 5,
+    "loses": 10,
+    "draws": 8,
+    "goalsScored": 20,
+    "goalsConceded": 29,
+    "points": 23,
+    "team": {
+      "id": "getafe",
+      "name": "Getafe",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-getafe.svg",
+      "urlWeb": "https://www.getafecf.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/getafecf/?hl=es",
+        "https://twitter.com/GetafeCF?s=20",
+        "https://www.tiktok.com/@getafecf"
+      ],
+      "players": [
+        {
+          "name": "Casilla",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cas/100/15860.jpg",
+          "team": "getafe"
+        },
+        {
+          "name": "David Soria",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/26932.jpg",
+          "team": "getafe"
+        },
+        {
+          "name": "Diego Conde",
+          "position": "Portero",
+          "number": 27,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/die/100/44447.jpg",
+          "team": "getafe"
+        },
+        {
+          "name": "Vicente Bellmunt Garcia",
+          "position": "Portero",
+          "number": 33,
+          "image": "//as01.epimg.net/img/silueta-generica.png",
+          "team": "getafe"
+        },
+        {
+          "name": "Gastón Álvarez",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gas/100/50038.jpg",
+          "team": "getafe"
+        },
+        {
+          "name": "Domingos Duarte",
+          "position": "Defensa",
+          "number": 6,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dom/100/35411.jpg",
+          "team": "getafe"
+        },
+        {
+          "name": "Omar Alderete",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Mitrovic",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Djene",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Fabricio Angileri",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Luis Milla",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Jaime Seoane",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Portu",
+          "position": "Centrocampista",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Aleñá",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Jordan Amavi",
+          "position": "Centrocampista",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Ángel Algobia",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Munir",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Arambarri",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Maksimovic",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Juan Iglesias",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Damián Suárez",
+          "position": "Centrocampista",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Koffi",
+          "position": "Centrocampista",
+          "number": 26,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Mata",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Enes Ünal",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Juan Latasa",
+          "position": "Delantero",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
+        },
+        {
+          "name": "Mayoral",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "getafe"
         }
       ]
     }
