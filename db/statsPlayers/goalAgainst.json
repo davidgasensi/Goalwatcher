@@ -23,23 +23,23 @@
   {
     "type": "Goles en contra",
     "position": 4,
-    "value": 29,
-    "name": "Agustín Marchesín",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
+    "value": 30,
+    "name": "Yassine Bounou",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Goles en contra",
     "position": 5,
-    "value": 28,
+    "value": 30,
     "name": "David Soria",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Goles en contra",
     "position": 6,
-    "value": 27,
-    "name": "Yassine Bounou",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
+    "value": 29,
+    "name": "Agustín Marchesín",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
   },
   {
     "type": "Goles en contra",
@@ -51,22 +51,22 @@
   {
     "type": "Goles en contra",
     "position": 8,
+    "value": 25,
+    "name": "Unai Simón",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+  },
+  {
+    "type": "Goles en contra",
+    "position": 9,
     "value": 24,
     "name": "Predrag Rajkovic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Goles en contra",
-    "position": 9,
+    "position": 10,
     "value": 23,
     "name": "Álex Remiro",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
-  },
-  {
-    "type": "Goles en contra",
-    "position": 10,
-    "value": 23,
-    "name": "Jordi Masip",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   }
 ]

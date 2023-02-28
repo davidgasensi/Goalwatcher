@@ -2,7 +2,7 @@
   {
     "type": "Zamora",
     "position": 1,
-    "value": 7,
+    "value": 8,
     "name": "Marc-André ter Stegen",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -44,16 +44,16 @@
   {
     "type": "Zamora",
     "position": 7,
-    "value": 22,
-    "name": "Unai Simón",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+    "value": 20,
+    "name": "Rui Silva",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Zamora",
     "position": 8,
-    "value": 20,
-    "name": "Rui Silva",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+    "value": 25,
+    "name": "Unai Simón",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Zamora",
@@ -65,7 +65,7 @@
   {
     "type": "Zamora",
     "position": 10,
-    "value": 28,
+    "value": 30,
     "name": "David Soria",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   }
