@@ -114,7 +114,7 @@ const calendar = await getCalendar();
                     {team1}
                   </td>
                   <td class="text-center p-2 font-semibold text-base">
-                    {result}
+                    {result === '00h' || result === '15h' || result === '30h' ? 'Por definir' : result}
                   </td>
                   <td
                     id={team2}
