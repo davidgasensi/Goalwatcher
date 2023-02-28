@@ -1457,57 +1457,57 @@
   },
   {
     "numJornada": "Jornada 27",
-    "date": "2 de abril",
+    "date": "31 de mar. 1, 2 y 3 de abr.",
     "matches": [
       {
-        "team1": "Elche",
-        "result": "Por definir",
-        "team2": "FC Barcelona"
-      },
-      {
-        "team1": "Atlético",
-        "result": "Por definir",
-        "team2": "Betis"
-      },
-      {
-        "team1": "Real Madrid",
-        "result": "Por definir",
-        "team2": "Valladolid"
-      },
-      {
-        "team1": "Villarreal",
-        "result": "Por definir",
-        "team2": "R. Sociedad"
-      },
-      {
-        "team1": "Cádiz",
-        "result": "Por definir",
-        "team2": "Sevilla"
-      },
-      {
-        "team1": "Valencia",
-        "result": "Por definir",
-        "team2": "Rayo"
-      },
-      {
-        "team1": "Athletic",
-        "result": "Por definir",
-        "team2": "Getafe"
-      },
-      {
         "team1": "Mallorca",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Osasuna"
       },
       {
         "team1": "Girona",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Espanyol"
       },
       {
+        "team1": "Athletic",
+        "result": "15h",
+        "team2": "Getafe"
+      },
+      {
+        "team1": "Cádiz",
+        "result": "30h",
+        "team2": "Sevilla"
+      },
+      {
+        "team1": "Elche",
+        "result": "00h",
+        "team2": "FC Barcelona"
+      },
+      {
         "team1": "Celta",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Almería"
+      },
+      {
+        "team1": "Real Madrid",
+        "result": "15h",
+        "team2": "Valladolid"
+      },
+      {
+        "team1": "Villarreal",
+        "result": "30h",
+        "team2": "R. Sociedad"
+      },
+      {
+        "team1": "Atlético",
+        "result": "00h",
+        "team2": "Betis"
+      },
+      {
+        "team1": "Valencia",
+        "result": "00h",
+        "team2": "Rayo"
       }
     ]
   },
