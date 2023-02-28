@@ -93,7 +93,7 @@
   {
     "type": "Goles por partido",
     "position": 14,
-    "value": 1.04,
+    "value": 1.13,
     "name": "Villarreal",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
@@ -114,7 +114,7 @@
   {
     "type": "Goles por partido",
     "position": 17,
-    "value": 0.83,
+    "value": 0.87,
     "name": "Getafe",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
