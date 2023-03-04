@@ -410,6 +410,203 @@
   {
     "gamesPlayed": 24,
     "wins": 13,
+    "loses": 5,
+    "draws": 6,
+    "goalsScored": 34,
+    "goalsConceded": 19,
+    "points": 45,
+    "team": {
+      "id": "atletico",
+      "name": "Atlético",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-atletico.svg",
+      "urlWeb": "https://www.atleticodemadrid.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/atleticodemadrid/?hl=es",
+        "https://twitter.com/Atleti?s=20",
+        "https://www.tiktok.com/@atleticodemadrid?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Ivo Grbic",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/ivo/100/47670.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Oblak",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/obl/100/23109.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Antonio Gomis",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ant/100/50631.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Alejandro Iturbe",
+          "position": "Portero",
+          "number": 33,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/49962.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Giménez",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/22239.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Savic",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Mario Hermoso",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Marco Moreno",
+          "position": "Defensa",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Reguilón",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Kondogbia",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "De Paul",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Koke",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Griezmann",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Correa",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Lemar",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Marcos Llorente",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Nahuel Molina",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Saúl",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Witsel",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Reinildo Mandava",
+          "position": "Centrocampista",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Pablo Barrios Rivas",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Adrian Corral",
+          "position": "Centrocampista",
+          "number": 48,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Depay",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Morata",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Carrasco",
+          "position": "Delantero",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 24,
+    "wins": 13,
     "loses": 6,
     "draws": 5,
     "goalsScored": 32,
@@ -642,203 +839,6 @@
           "number": 0,
           "image": "//as01.epimg.net/t.gif",
           "team": "rsociedad"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 23,
-    "wins": 12,
-    "loses": 5,
-    "draws": 6,
-    "goalsScored": 32,
-    "goalsConceded": 18,
-    "points": 42,
-    "team": {
-      "id": "atletico",
-      "name": "Atlético",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-atletico.svg",
-      "urlWeb": "https://www.atleticodemadrid.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/atleticodemadrid/?hl=es",
-        "https://twitter.com/Atleti?s=20",
-        "https://www.tiktok.com/@atleticodemadrid?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Ivo Grbic",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/ivo/100/47670.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Oblak",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/obl/100/23109.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Antonio Gomis",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ant/100/50631.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Alejandro Iturbe",
-          "position": "Portero",
-          "number": 33,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/49962.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Giménez",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/22239.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Savic",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Mario Hermoso",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Marco Moreno",
-          "position": "Defensa",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Reguilón",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Kondogbia",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "De Paul",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Koke",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Griezmann",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Correa",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Lemar",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Marcos Llorente",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Nahuel Molina",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Saúl",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Witsel",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Reinildo Mandava",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Pablo Barrios Rivas",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Adrian Corral",
-          "position": "Centrocampista",
-          "number": 48,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Depay",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Morata",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Carrasco",
-          "position": "Delantero",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
         }
       ]
     }
@@ -2737,12 +2737,12 @@
     }
   },
   {
-    "gamesPlayed": 23,
+    "gamesPlayed": 24,
     "wins": 6,
-    "loses": 10,
+    "loses": 11,
     "draws": 7,
-    "goalsScored": 26,
-    "goalsConceded": 33,
+    "goalsScored": 27,
+    "goalsConceded": 35,
     "points": 25,
     "team": {
       "id": "sevilla",
