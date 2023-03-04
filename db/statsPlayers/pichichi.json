@@ -37,30 +37,30 @@
   {
     "type": "Pichichi",
     "position": 6,
+    "value": 10,
+    "name": "Enes Ünal",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 7,
     "value": 9,
     "name": "Alexander Sorloth",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Pichichi",
-    "position": 7,
+    "position": 8,
     "value": 9,
     "name": "Iago Aspas",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
   },
   {
     "type": "Pichichi",
-    "position": 8,
+    "position": 9,
     "value": 8,
     "name": "Gabri Veiga",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
-  },
-  {
-    "type": "Pichichi",
-    "position": 9,
-    "value": 8,
-    "name": "Enes Ünal",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Pichichi",
