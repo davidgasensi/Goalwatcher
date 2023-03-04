@@ -1974,7 +1974,7 @@
     "wins": 8,
     "loses": 10,
     "draws": 6,
-    "goalsScored": 36,
+    "goalsScored": 38,
     "goalsConceded": 38,
     "points": 30,
     "team": {
@@ -2953,7 +2953,7 @@
     "loses": 11,
     "draws": 7,
     "goalsScored": 23,
-    "goalsConceded": 30,
+    "goalsConceded": 32,
     "points": 25,
     "team": {
       "id": "getafe",
