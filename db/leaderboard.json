@@ -1031,7 +1031,7 @@
     "wins": 11,
     "loses": 9,
     "draws": 4,
-    "goalsScored": 27,
+    "goalsScored": 28,
     "goalsConceded": 23,
     "points": 37,
     "team": {
@@ -1773,13 +1773,13 @@
     }
   },
   {
-    "gamesPlayed": 23,
+    "gamesPlayed": 24,
     "wins": 9,
     "loses": 10,
-    "draws": 4,
+    "draws": 5,
     "goalsScored": 21,
     "goalsConceded": 24,
-    "points": 31,
+    "points": 32,
     "team": {
       "id": "mallorca",
       "name": "Mallorca",
@@ -3157,7 +3157,7 @@
     "loses": 13,
     "draws": 4,
     "goalsScored": 28,
-    "goalsConceded": 41,
+    "goalsConceded": 42,
     "points": 25,
     "team": {
       "id": "almeria",
@@ -3729,13 +3729,13 @@
     }
   },
   {
-    "gamesPlayed": 23,
+    "gamesPlayed": 24,
     "wins": 1,
     "loses": 16,
-    "draws": 6,
+    "draws": 7,
     "goalsScored": 17,
     "goalsConceded": 48,
-    "points": 9,
+    "points": 10,
     "team": {
       "id": "elche",
       "name": "Elche",
