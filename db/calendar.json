@@ -1293,47 +1293,47 @@
     "matches": [
       {
         "team1": "R. Sociedad",
-        "result": "00h",
+        "result": "0-0",
         "team2": "Cádiz"
       },
       {
         "team1": "Getafe",
-        "result": "00h",
+        "result": "3-2",
         "team2": "Girona"
       },
       {
         "team1": "Almería",
-        "result": "15h",
+        "result": "0-2",
         "team2": "Villarreal"
       },
       {
         "team1": "Mallorca",
-        "result": "30h",
+        "result": "0-1",
         "team2": "Elche"
       },
       {
         "team1": "Atlético",
-        "result": "00h",
+        "result": "6-1",
         "team2": "Sevilla"
       },
       {
         "team1": "Valladolid",
-        "result": "00h",
+        "result": "2-1",
         "team2": "Espanyol"
       },
       {
         "team1": "FC Barcelona",
-        "result": "15h",
+        "result": "1-0",
         "team2": "Valencia"
       },
       {
         "team1": "Rayo",
-        "result": "30h",
+        "result": "0-0",
         "team2": "Athletic"
       },
       {
         "team1": "Betis",
-        "result": "00h",
+        "result": "0-0",
         "team2": "Real Madrid"
       },
       {
@@ -1457,57 +1457,57 @@
   },
   {
     "numJornada": "Jornada 27",
-    "date": "2 de abril",
+    "date": "31 de mar. 1, 2 y 3 de abr.",
     "matches": [
       {
-        "team1": "Elche",
-        "result": "Por definir",
-        "team2": "FC Barcelona"
-      },
-      {
-        "team1": "Atlético",
-        "result": "Por definir",
-        "team2": "Betis"
-      },
-      {
-        "team1": "Real Madrid",
-        "result": "Por definir",
-        "team2": "Valladolid"
-      },
-      {
-        "team1": "Villarreal",
-        "result": "Por definir",
-        "team2": "R. Sociedad"
-      },
-      {
-        "team1": "Cádiz",
-        "result": "Por definir",
-        "team2": "Sevilla"
-      },
-      {
-        "team1": "Valencia",
-        "result": "Por definir",
-        "team2": "Rayo"
-      },
-      {
-        "team1": "Athletic",
-        "result": "Por definir",
-        "team2": "Getafe"
-      },
-      {
         "team1": "Mallorca",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Osasuna"
       },
       {
         "team1": "Girona",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Espanyol"
       },
       {
+        "team1": "Athletic",
+        "result": "15h",
+        "team2": "Getafe"
+      },
+      {
+        "team1": "Cádiz",
+        "result": "30h",
+        "team2": "Sevilla"
+      },
+      {
+        "team1": "Elche",
+        "result": "00h",
+        "team2": "FC Barcelona"
+      },
+      {
         "team1": "Celta",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Almería"
+      },
+      {
+        "team1": "Real Madrid",
+        "result": "15h",
+        "team2": "Valladolid"
+      },
+      {
+        "team1": "Villarreal",
+        "result": "30h",
+        "team2": "R. Sociedad"
+      },
+      {
+        "team1": "Atlético",
+        "result": "00h",
+        "team2": "Betis"
+      },
+      {
+        "team1": "Valencia",
+        "result": "00h",
+        "team2": "Rayo"
       }
     ]
   },
