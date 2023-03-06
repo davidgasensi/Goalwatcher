@@ -9,7 +9,7 @@
   {
     "type": "Goles por partido",
     "position": 2,
-    "value": 1.88,
+    "value": 1.92,
     "name": "FC Barcelona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -51,7 +51,7 @@
   {
     "type": "Goles por partido",
     "position": 8,
-    "value": 1.21,
+    "value": 1.25,
     "name": "Espanyol",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
@@ -122,21 +122,21 @@
     "type": "Goles por partido",
     "position": 18,
     "value": 0.75,
-    "name": "Cádiz",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+    "name": "Valladolid",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   },
   {
     "type": "Goles por partido",
     "position": 19,
     "value": 0.75,
-    "name": "Elche",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
+    "name": "Cádiz",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Goles por partido",
     "position": 20,
-    "value": 0.67,
-    "name": "Valladolid",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
+    "value": 0.75,
+    "name": "Elche",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   }
 ]

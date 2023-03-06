@@ -45,28 +45,28 @@
     "type": "Tarjetas amarillas",
     "position": 7,
     "value": 8,
+    "name": "Oscar Gil",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 8,
+    "value": 8,
     "name": "Pau Torres",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 8,
+    "position": 9,
     "value": 8,
     "name": "Óscar Trejo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 9,
+    "position": 10,
     "value": 8,
     "name": "Martin Zubimendi",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 10,
-    "value": 8,
-    "name": "Yunus Musah",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   }
 ]
