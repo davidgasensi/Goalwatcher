@@ -1388,6 +1388,189 @@
   {
     "gamesPlayed": 24,
     "wins": 9,
+    "loses": 8,
+    "draws": 7,
+    "goalsScored": 22,
+    "goalsConceded": 23,
+    "points": 34,
+    "team": {
+      "id": "osasuna",
+      "name": "Osasuna",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
+      "urlWeb": "https://www.osasuna.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/caosasuna/?hl=es",
+        "https://twitter.com/Osasuna?s=20",
+        "https://www.tiktok.com/@caosasuna?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Herrera",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/h/her/100/22077.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aitor",
+          "position": "Portero",
+          "number": 25,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ait/100/19122.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Dario",
+          "position": "Portero",
+          "number": 39,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dar/100/44274.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Unai García",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/22841.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "David García",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/25984.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Rubén Peña",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rub/100/25535.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aridane",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Jorge Herrando",
+          "position": "Defensa",
+          "number": 31,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Nacho Vidal",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Juan Cruz",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Lucas Torró",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Jon Moncayola",
+          "position": "Centrocampista",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Brasanac",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Chimy Ávila",
+          "position": "Centrocampista",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Rubén García",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Manu Sánchez",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aimar Oroz",
+          "position": "Centrocampista",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Kike Barja",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Abde",
+          "position": "Delantero",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Moi Gómez",
+          "position": "Delantero",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Ante Budimir",
+          "position": "Delantero",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Kike García",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Iker Benito",
+          "position": "Delantero",
+          "number": 33,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 24,
+    "wins": 9,
     "loses": 9,
     "draws": 6,
     "goalsScored": 33,
@@ -1585,189 +1768,6 @@
           "number": 12,
           "image": "//as01.epimg.net/t.gif",
           "team": "athletic"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 23,
-    "wins": 9,
-    "loses": 8,
-    "draws": 6,
-    "goalsScored": 22,
-    "goalsConceded": 23,
-    "points": 33,
-    "team": {
-      "id": "osasuna",
-      "name": "Osasuna",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
-      "urlWeb": "https://www.osasuna.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/caosasuna/?hl=es",
-        "https://twitter.com/Osasuna?s=20",
-        "https://www.tiktok.com/@caosasuna?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Herrera",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/h/her/100/22077.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aitor",
-          "position": "Portero",
-          "number": 25,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ait/100/19122.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Dario",
-          "position": "Portero",
-          "number": 39,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dar/100/44274.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Unai García",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/22841.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "David García",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/25984.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Rubén Peña",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rub/100/25535.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aridane",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Jorge Herrando",
-          "position": "Defensa",
-          "number": 31,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Nacho Vidal",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Juan Cruz",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Lucas Torró",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Jon Moncayola",
-          "position": "Centrocampista",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Brasanac",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Chimy Ávila",
-          "position": "Centrocampista",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Rubén García",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Manu Sánchez",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aimar Oroz",
-          "position": "Centrocampista",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Kike Barja",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Abde",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Moi Gómez",
-          "position": "Delantero",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Ante Budimir",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Kike García",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Iker Benito",
-          "position": "Delantero",
-          "number": 33,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
         }
       ]
     }
@@ -2161,6 +2161,196 @@
   },
   {
     "gamesPlayed": 24,
+    "wins": 7,
+    "loses": 10,
+    "draws": 7,
+    "goalsScored": 26,
+    "goalsConceded": 34,
+    "points": 28,
+    "team": {
+      "id": "celta",
+      "name": "Celta",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-celta.svg",
+      "urlWeb": "https://rccelta.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/rccelta/?hl=es",
+        "https://twitter.com/RCCelta?s=20",
+        "https://www.tiktok.com/@rccelta?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Marchesín",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mar/100/30641.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Iván Villar",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/iva/100/35894.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Coke Carrillo",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/49965.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Óscar Mingueza",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/osc/100/42885.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Unai Núñez",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/39365.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Joseph Aidoo",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/43563.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Carlos Domínguez",
+          "position": "Defensa",
+          "number": 26,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Hugo Mallo",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Óscar Rodríguez",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Denis Suárez",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Fran Beltrán",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Renato Tapia",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Javi Galán",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Kevin",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Gabriel Veiga",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Fernando",
+          "position": "Centrocampista",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Carles Perez",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Paciencia",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Aspas",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Franco Cervi",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Jorgen Strand Larsen",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Augusto Solari",
+          "position": "Delantero",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Luca De La Torre",
+          "position": "Delantero",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Miguel Rodriguez",
+          "position": "Delantero",
+          "number": 29,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 24,
     "wins": 6,
     "loses": 9,
     "draws": 9,
@@ -2359,196 +2549,6 @@
           "number": 32,
           "image": "//as01.epimg.net/t.gif",
           "team": "espanyol"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 23,
-    "wins": 7,
-    "loses": 10,
-    "draws": 6,
-    "goalsScored": 26,
-    "goalsConceded": 34,
-    "points": 27,
-    "team": {
-      "id": "celta",
-      "name": "Celta",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-celta.svg",
-      "urlWeb": "https://rccelta.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/rccelta/?hl=es",
-        "https://twitter.com/RCCelta?s=20",
-        "https://www.tiktok.com/@rccelta?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Marchesín",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mar/100/30641.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Iván Villar",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/iva/100/35894.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Coke Carrillo",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/49965.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Óscar Mingueza",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/osc/100/42885.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Unai Núñez",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/39365.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Joseph Aidoo",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/43563.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Carlos Domínguez",
-          "position": "Defensa",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Hugo Mallo",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Óscar Rodríguez",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Denis Suárez",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Fran Beltrán",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Renato Tapia",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Javi Galán",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Kevin",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Gabriel Veiga",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Fernando",
-          "position": "Centrocampista",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Carles Perez",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Paciencia",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Aspas",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Franco Cervi",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Jorgen Strand Larsen",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Augusto Solari",
-          "position": "Delantero",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Luca De La Torre",
-          "position": "Delantero",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Miguel Rodriguez",
-          "position": "Delantero",
-          "number": 29,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
         }
       ]
     }
