@@ -1513,57 +1513,57 @@
   },
   {
     "numJornada": "Jornada 28",
-    "date": "9 de abril",
+    "date": "7, 8, 9 y 10 de abril",
     "matches": [
       {
-        "team1": "Betis",
-        "result": "Por definir",
-        "team2": "Cádiz"
+        "team1": "Sevilla",
+        "result": "00h",
+        "team2": "Celta"
+      },
+      {
+        "team1": "Osasuna",
+        "result": "00h",
+        "team2": "Elche"
       },
       {
         "team1": "Espanyol",
-        "result": "Por definir",
+        "result": "15h",
         "team2": "Athletic"
       },
       {
+        "team1": "R. Sociedad",
+        "result": "30h",
+        "team2": "Getafe"
+      },
+      {
+        "team1": "Real Madrid",
+        "result": "00h",
+        "team2": "Villarreal"
+      },
+      {
+        "team1": "Valladolid",
+        "result": "00h",
+        "team2": "Mallorca"
+      },
+      {
+        "team1": "Betis",
+        "result": "15h",
+        "team2": "Cádiz"
+      },
+      {
+        "team1": "Almería",
+        "result": "30h",
+        "team2": "Valencia"
+      },
+      {
         "team1": "Rayo",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Atlético"
       },
       {
         "team1": "FC Barcelona",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Girona"
-      },
-      {
-        "team1": "Real Madrid",
-        "result": "Por definir",
-        "team2": "Villarreal"
-      },
-      {
-        "team1": "Almería",
-        "result": "Por definir",
-        "team2": "Valencia"
-      },
-      {
-        "team1": "Valladolid",
-        "result": "Por definir",
-        "team2": "Mallorca"
-      },
-      {
-        "team1": "Sevilla",
-        "result": "Por definir",
-        "team2": "Celta"
-      },
-      {
-        "team1": "R. Sociedad",
-        "result": "Por definir",
-        "team2": "Getafe"
-      },
-      {
-        "team1": "Osasuna",
-        "result": "Por definir",
-        "team2": "Elche"
       }
     ]
   },
