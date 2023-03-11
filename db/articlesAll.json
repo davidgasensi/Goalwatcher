@@ -5360,5 +5360,26 @@
     "image": "https://estaticos-cdn.sport.es/clip/511ac64c-4591-43ba-ad94-2909227a895c_baja-aspect-ratio_default_0.jpg",
     "createDate": 1678558705638,
     "domain": "sport"
+  },
+  {
+    "title": "Imagen muy sólida del Celta",
+    "link": "https://as.com/futbol/primera/celta-rayo-en-directo-laliga-santander-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/IgXDBI3lUBnVJhChv9nN2RJifL4=/240x135/filters:focal(3215x595:3225x605)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/XSZAW5LDV5DJUA34AFZQQQLCI4.jpg",
+    "createDate": 1678561937456,
+    "domain": "as"
+  },
+  {
+    "title": "Gayà y Kluivert como novedades; Osasuna, con Kike García y sin Oroz",
+    "link": "https://as.com/futbol/primera/valencia-osasuna-en-directo-laliga-santander-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/KHttWn9WD0TSXrTJy2MjFBMXuFg=/240x135/filters:focal(1616x23:1626x33)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/LKWZUDWI4GU7MIWTSBBL7CGQWI.jpg",
+    "createDate": 1678561937457,
+    "domain": "as"
+  },
+  {
+    "title": "El Real Madrid de Arbeloa, campeón de Copa",
+    "link": "https://www.sport.es/es/noticias/real-madrid/real-madrid-arbeloa-campeon-copa-84493381",
+    "image": "https://estaticos-cdn.sport.es/clip/52b5c294-ad4d-4a9b-b0e5-05f0a9d939b4_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1678561938577,
+    "domain": "sport"
   }
 ]
