@@ -1386,13 +1386,13 @@
     }
   },
   {
-    "gamesPlayed": 24,
+    "gamesPlayed": 25,
     "wins": 9,
     "loses": 8,
-    "draws": 7,
+    "draws": 8,
     "goalsScored": 22,
     "goalsConceded": 23,
-    "points": 34,
+    "points": 35,
     "team": {
       "id": "osasuna",
       "name": "Osasuna",
@@ -3511,13 +3511,13 @@
     }
   },
   {
-    "gamesPlayed": 24,
+    "gamesPlayed": 25,
     "wins": 6,
     "loses": 13,
-    "draws": 5,
+    "draws": 6,
     "goalsScored": 27,
     "goalsConceded": 28,
-    "points": 23,
+    "points": 24,
     "team": {
       "id": "valencia",
       "name": "Valencia",
