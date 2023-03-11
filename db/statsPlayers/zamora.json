@@ -23,23 +23,23 @@
   {
     "type": "Zamora",
     "position": 4,
-    "value": 22,
-    "name": "Stole Dimitrievski",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
-  },
-  {
-    "type": "Zamora",
-    "position": 5,
     "value": 23,
     "name": "Álex Remiro",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Zamora",
-    "position": 6,
+    "position": 5,
     "value": 25,
     "name": "Predrag Rajkovic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+  },
+  {
+    "type": "Zamora",
+    "position": 6,
+    "value": 25,
+    "name": "Stole Dimitrievski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Zamora",
