@@ -9,51 +9,51 @@
   {
     "type": "Tarjetas rojas",
     "position": 2,
+    "value": 3,
+    "name": "Iza Carcelén",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Tarjetas rojas",
+    "position": 3,
     "value": 2,
     "name": "Leandro Cabrera",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 3,
+    "position": 4,
     "value": 2,
     "name": "Stefan Savic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 4,
+    "position": 5,
     "value": 2,
     "name": "Germán Pezzella",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 5,
+    "position": 6,
     "value": 2,
     "name": "Bigas",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 6,
+    "position": 7,
     "value": 2,
     "name": "Jose Angel Carmona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 7,
+    "position": 8,
     "value": 2,
     "name": "Hermoso",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
-  },
-  {
-    "type": "Tarjetas rojas",
-    "position": 8,
-    "value": 2,
-    "name": "Iza Carcelén",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Tarjetas rojas",

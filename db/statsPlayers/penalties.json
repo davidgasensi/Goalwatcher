@@ -16,37 +16,37 @@
   {
     "type": "Penaltis",
     "position": 3,
+    "value": 5,
+    "name": "Enes Ünal",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 4,
     "value": 4,
     "name": "Cristhian Stuani",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Penaltis",
-    "position": 4,
+    "position": 5,
     "value": 3,
     "name": "Ezequiel Ávila",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   },
   {
     "type": "Penaltis",
-    "position": 5,
+    "position": 6,
     "value": 3,
     "name": "Jose Luis Joselu",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Penaltis",
-    "position": 6,
+    "position": 7,
     "value": 3,
     "name": "Vedat Muriqi",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
-  },
-  {
-    "type": "Penaltis",
-    "position": 7,
-    "value": 3,
-    "name": "Enes Ünal",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Penaltis",
