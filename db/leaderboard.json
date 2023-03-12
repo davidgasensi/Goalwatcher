@@ -1,12 +1,12 @@
 [
   {
-    "gamesPlayed": 24,
-    "wins": 20,
+    "gamesPlayed": 25,
+    "wins": 21,
     "loses": 2,
     "draws": 2,
-    "goalsScored": 46,
+    "goalsScored": 47,
     "goalsConceded": 8,
-    "points": 62,
+    "points": 65,
     "team": {
       "id": "barcelona",
       "name": "FC Barcelona",
@@ -1569,12 +1569,12 @@
     }
   },
   {
-    "gamesPlayed": 24,
+    "gamesPlayed": 25,
     "wins": 9,
-    "loses": 9,
+    "loses": 10,
     "draws": 6,
     "goalsScored": 33,
-    "goalsConceded": 26,
+    "goalsConceded": 27,
     "points": 33,
     "team": {
       "id": "athletic",
