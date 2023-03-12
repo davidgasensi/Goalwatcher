@@ -2351,6 +2351,217 @@
   },
   {
     "gamesPlayed": 25,
+    "wins": 7,
+    "loses": 11,
+    "draws": 7,
+    "goalsScored": 29,
+    "goalsConceded": 40,
+    "points": 28,
+    "team": {
+      "id": "sevilla",
+      "name": "Sevilla",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-sevilla.svg",
+      "urlWeb": "https://sevillafc.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/sevillafc/?hl=es",
+        "https://twitter.com/SevillaFC?s=20",
+        "https://www.tiktok.com/@sevillafc?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Dmitrovic",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dmi/100/27629.jpg",
+          "team": "sevilla"
+        },
+        {
+          "name": "Bono",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/b/bou/100/22835.jpg",
+          "team": "sevilla"
+        },
+        {
+          "name": "Rekik",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rek/100/21031.jpg",
+          "team": "sevilla"
+        },
+        {
+          "name": "Nianzou Tanguy Kouassi",
+          "position": "Defensa",
+          "number": 14,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/n/nia/100/46341.jpg",
+          "team": "sevilla"
+        },
+        {
+          "name": "Marcao",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/img/silueta-generica.png",
+          "team": "sevilla"
+        },
+        {
+          "name": "Montiel",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Alex Telles",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Lucas Ocampos",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Gudelj",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Suso",
+          "position": "Centrocampista",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Joan Jordán",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Rakitic",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Januzaj",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Jesús Navas",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Lamela",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Marcos Acuña",
+          "position": "Centrocampista",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Fernando",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Óliver Torres",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Papu Gómez",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Pablo Pérez",
+          "position": "Centrocampista",
+          "number": 26,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Carlos Alvarez",
+          "position": "Centrocampista",
+          "number": 27,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Nacho Quintana",
+          "position": "Centrocampista",
+          "number": 28,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "José Ángel Carmona",
+          "position": "Centrocampista",
+          "number": 40,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Jesús Corona",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Rafa Mir",
+          "position": "Delantero",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "En-Nesyri",
+          "position": "Delantero",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        },
+        {
+          "name": "Jose Alonso",
+          "position": "Delantero",
+          "number": 41,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "sevilla"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 25,
     "wins": 8,
     "loses": 13,
     "draws": 4,
@@ -3322,223 +3533,12 @@
   },
   {
     "gamesPlayed": 25,
-    "wins": 6,
-    "loses": 11,
-    "draws": 8,
-    "goalsScored": 28,
-    "goalsConceded": 40,
-    "points": 26,
-    "team": {
-      "id": "sevilla",
-      "name": "Sevilla",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-sevilla.svg",
-      "urlWeb": "https://sevillafc.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/sevillafc/?hl=es",
-        "https://twitter.com/SevillaFC?s=20",
-        "https://www.tiktok.com/@sevillafc?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Dmitrovic",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dmi/100/27629.jpg",
-          "team": "sevilla"
-        },
-        {
-          "name": "Bono",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/b/bou/100/22835.jpg",
-          "team": "sevilla"
-        },
-        {
-          "name": "Rekik",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rek/100/21031.jpg",
-          "team": "sevilla"
-        },
-        {
-          "name": "Nianzou Tanguy Kouassi",
-          "position": "Defensa",
-          "number": 14,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/n/nia/100/46341.jpg",
-          "team": "sevilla"
-        },
-        {
-          "name": "Marcao",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/img/silueta-generica.png",
-          "team": "sevilla"
-        },
-        {
-          "name": "Montiel",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Alex Telles",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Lucas Ocampos",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Gudelj",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Suso",
-          "position": "Centrocampista",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Joan Jordán",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Rakitic",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Januzaj",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Jesús Navas",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Lamela",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Marcos Acuña",
-          "position": "Centrocampista",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Fernando",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Óliver Torres",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Papu Gómez",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Pablo Pérez",
-          "position": "Centrocampista",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Carlos Alvarez",
-          "position": "Centrocampista",
-          "number": 27,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Nacho Quintana",
-          "position": "Centrocampista",
-          "number": 28,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "José Ángel Carmona",
-          "position": "Centrocampista",
-          "number": 40,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Jesús Corona",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Rafa Mir",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "En-Nesyri",
-          "position": "Delantero",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        },
-        {
-          "name": "Jose Alonso",
-          "position": "Delantero",
-          "number": 41,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "sevilla"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 25,
     "wins": 7,
-    "loses": 13,
-    "draws": 5,
+    "loses": 14,
+    "draws": 4,
     "goalsScored": 29,
-    "goalsConceded": 43,
-    "points": 26,
+    "goalsConceded": 44,
+    "points": 25,
     "team": {
       "id": "almeria",
       "name": "Almería",
