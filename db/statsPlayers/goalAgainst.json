@@ -2,7 +2,7 @@
   {
     "type": "Goles en contra",
     "position": 1,
-    "value": 48,
+    "value": 49,
     "name": "Edgar Badia",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   },
@@ -52,21 +52,21 @@
     "type": "Goles en contra",
     "position": 8,
     "value": 25,
-    "name": "Unai Simón",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+    "name": "Stole Dimitrievski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles en contra",
     "position": 9,
     "value": 25,
-    "name": "Predrag Rajkovic",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+    "name": "Unai Simón",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Goles en contra",
     "position": 10,
-    "value": 23,
-    "name": "Álex Remiro",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+    "value": 25,
+    "name": "Predrag Rajkovic",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   }
 ]

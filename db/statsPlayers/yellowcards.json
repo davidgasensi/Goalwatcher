@@ -31,42 +31,42 @@
     "type": "Tarjetas amarillas",
     "position": 5,
     "value": 9,
+    "name": "Oscar Gil",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 6,
+    "value": 9,
     "name": "Catena",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 6,
+    "position": 7,
     "value": 9,
     "name": "Iván Alejo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 7,
+    "position": 8,
+    "value": 9,
+    "name": "Gumbau",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 9,
     "value": 9,
     "name": "Javier Sánchez",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 8,
-    "value": 8,
-    "name": "Oscar Gil",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 9,
-    "value": 8,
-    "name": "Pau Torres",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
     "position": 10,
     "value": 8,
-    "name": "Óscar Trejo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+    "name": "Lucas Torró",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   }
 ]
