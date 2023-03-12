@@ -1,5 +1,19 @@
 [
   {
+    "title": "\"El acta del partido adolece de errores e inexactitudes notorias y trascendentes\"",
+    "link": "https://www.sport.es/es/noticias/cadiz/cadiz-responde-acta-partido-adolece-84515459",
+    "image": "https://estaticos-cdn.sport.es/clip/532f44fa-deca-4743-a5d2-250a496476ad_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1678624124388,
+    "domain": "sport"
+  },
+  {
+    "title": "\"Queremos que se resuelva\"",
+    "link": "https://www.sport.es/es/noticias/atletico-de-madrid/simeone-caso-negreira-queremos-resuelva-84517438",
+    "image": "https://estaticos-cdn.sport.es/clip/bb5450eb-9f61-4de4-ad5a-226e184c63da_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1678624124385,
+    "domain": "sport"
+  },
+  {
     "title": "Sigue en directo la Junta Directiva del Real Madrid sobre el 'caso Negreira'",
     "link": "https://www.sport.es/es/noticias/barca/sigue-directo-junta-directiva-real-84514182",
     "image": "https://estaticos-cdn.sport.es/clip/a0e2bbb0-c724-42e7-9070-0e7e4e59b9b5_16-9-aspect-ratio_50p_0.jpg",
@@ -109,6 +123,13 @@
     "link": "https://as.com/futbol/mercado-de-fichajes-en-directo-altas-bajas-y-ultima-hora-hoy-n-35/?noti=mercado_mod_port",
     "image": "https://img.asmedia.epimg.net/resizer/3D3burdE6LLvDOQP_fJ4poovCBw=/240x135/filters:focal(1386x468:1396x478)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/V64CTM3V4JERZBPDR2OZF47EW4.jpg",
     "createDate": 1678616140983,
+    "domain": "as"
+  },
+  {
+    "title": "Kadewere hace de Muriqi; Oyarzabal, líder txuri-urdin",
+    "link": "https://as.com/futbol/primera/mallorca-real-sociedad-en-directo-laliga-santander-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/BR60d9igLt_R9ny2yrzoaRJ4dWU=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/A6V6U4MW6EES4SQQYHAO2HPZIM.jpg",
+    "createDate": 1678624123063,
     "domain": "as"
   }
 ]
