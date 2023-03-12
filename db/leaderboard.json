@@ -408,210 +408,13 @@
     }
   },
   {
-    "gamesPlayed": 24,
-    "wins": 13,
-    "loses": 5,
-    "draws": 6,
-    "goalsScored": 38,
-    "goalsConceded": 19,
-    "points": 45,
-    "team": {
-      "id": "atletico",
-      "name": "Atlético",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-atletico.svg",
-      "urlWeb": "https://www.atleticodemadrid.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/atleticodemadrid/?hl=es",
-        "https://twitter.com/Atleti?s=20",
-        "https://www.tiktok.com/@atleticodemadrid?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Ivo Grbic",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/ivo/100/47670.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Oblak",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/obl/100/23109.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Antonio Gomis",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ant/100/50631.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Alejandro Iturbe",
-          "position": "Portero",
-          "number": 33,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/49962.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Giménez",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/22239.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Savic",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Mario Hermoso",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Marco Moreno",
-          "position": "Defensa",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Reguilón",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Kondogbia",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "De Paul",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Koke",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Griezmann",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Correa",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Lemar",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Marcos Llorente",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Nahuel Molina",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Saúl",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Witsel",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Reinildo Mandava",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Pablo Barrios Rivas",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Adrian Corral",
-          "position": "Centrocampista",
-          "number": 48,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Depay",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Morata",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Carrasco",
-          "position": "Delantero",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 24,
-    "wins": 13,
+    "gamesPlayed": 25,
+    "wins": 14,
     "loses": 6,
     "draws": 5,
-    "goalsScored": 32,
+    "goalsScored": 33,
     "goalsConceded": 23,
-    "points": 44,
+    "points": 47,
     "team": {
       "id": "rsociedad",
       "name": "R. Sociedad",
@@ -839,6 +642,203 @@
           "number": 0,
           "image": "//as01.epimg.net/t.gif",
           "team": "rsociedad"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 24,
+    "wins": 13,
+    "loses": 5,
+    "draws": 6,
+    "goalsScored": 38,
+    "goalsConceded": 19,
+    "points": 45,
+    "team": {
+      "id": "atletico",
+      "name": "Atlético",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-atletico.svg",
+      "urlWeb": "https://www.atleticodemadrid.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/atleticodemadrid/?hl=es",
+        "https://twitter.com/Atleti?s=20",
+        "https://www.tiktok.com/@atleticodemadrid?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Ivo Grbic",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/ivo/100/47670.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Oblak",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/obl/100/23109.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Antonio Gomis",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ant/100/50631.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Alejandro Iturbe",
+          "position": "Portero",
+          "number": 33,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/49962.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Giménez",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/22239.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Savic",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Mario Hermoso",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Marco Moreno",
+          "position": "Defensa",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Reguilón",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Kondogbia",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "De Paul",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Koke",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Griezmann",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Correa",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Lemar",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Marcos Llorente",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Nahuel Molina",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Saúl",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Witsel",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Reinildo Mandava",
+          "position": "Centrocampista",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Pablo Barrios Rivas",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Adrian Corral",
+          "position": "Centrocampista",
+          "number": 48,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Depay",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Morata",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Carrasco",
+          "position": "Delantero",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
         }
       ]
     }
@@ -1773,12 +1773,202 @@
     }
   },
   {
-    "gamesPlayed": 24,
+    "gamesPlayed": 25,
+    "wins": 8,
+    "loses": 10,
+    "draws": 7,
+    "goalsScored": 29,
+    "goalsConceded": 34,
+    "points": 31,
+    "team": {
+      "id": "celta",
+      "name": "Celta",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-celta.svg",
+      "urlWeb": "https://rccelta.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/rccelta/?hl=es",
+        "https://twitter.com/RCCelta?s=20",
+        "https://www.tiktok.com/@rccelta?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Marchesín",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mar/100/30641.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Iván Villar",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/iva/100/35894.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Coke Carrillo",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/49965.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Óscar Mingueza",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/osc/100/42885.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Unai Núñez",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/39365.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Joseph Aidoo",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/43563.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Carlos Domínguez",
+          "position": "Defensa",
+          "number": 26,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Hugo Mallo",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Óscar Rodríguez",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Denis Suárez",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Fran Beltrán",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Renato Tapia",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Javi Galán",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Kevin",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Gabriel Veiga",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Fernando",
+          "position": "Centrocampista",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Carles Perez",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Paciencia",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Aspas",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Franco Cervi",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Jorgen Strand Larsen",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Augusto Solari",
+          "position": "Delantero",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Luca De La Torre",
+          "position": "Delantero",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Miguel Rodriguez",
+          "position": "Delantero",
+          "number": 29,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 25,
     "wins": 9,
-    "loses": 11,
+    "loses": 12,
     "draws": 4,
     "goalsScored": 21,
-    "goalsConceded": 25,
+    "goalsConceded": 26,
     "points": 31,
     "team": {
       "id": "mallorca",
@@ -1965,196 +2155,6 @@
           "number": 23,
           "image": "//as01.epimg.net/t.gif",
           "team": "mallorca"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 25,
-    "wins": 8,
-    "loses": 10,
-    "draws": 7,
-    "goalsScored": 29,
-    "goalsConceded": 34,
-    "points": 31,
-    "team": {
-      "id": "celta",
-      "name": "Celta",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-celta.svg",
-      "urlWeb": "https://rccelta.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/rccelta/?hl=es",
-        "https://twitter.com/RCCelta?s=20",
-        "https://www.tiktok.com/@rccelta?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Marchesín",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mar/100/30641.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Iván Villar",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/iva/100/35894.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Coke Carrillo",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/49965.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Óscar Mingueza",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/osc/100/42885.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Unai Núñez",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/39365.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Joseph Aidoo",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/43563.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Carlos Domínguez",
-          "position": "Defensa",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Hugo Mallo",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Óscar Rodríguez",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Denis Suárez",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Fran Beltrán",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Renato Tapia",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Javi Galán",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Kevin",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Gabriel Veiga",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Fernando",
-          "position": "Centrocampista",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Carles Perez",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Paciencia",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Aspas",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Franco Cervi",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Jorgen Strand Larsen",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Augusto Solari",
-          "position": "Delantero",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Luca De La Torre",
-          "position": "Delantero",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Miguel Rodriguez",
-          "position": "Delantero",
-          "number": 29,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
         }
       ]
     }
