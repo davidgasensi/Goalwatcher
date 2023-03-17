@@ -1193,8 +1193,8 @@
     "wins": 10,
     "loses": 10,
     "draws": 6,
-    "goalsScored": 34,
-    "goalsConceded": 27,
+    "goalsScored": 36,
+    "goalsConceded": 28,
     "points": 36,
     "team": {
       "id": "athletic",
@@ -2565,8 +2565,8 @@
     "wins": 8,
     "loses": 14,
     "draws": 4,
-    "goalsScored": 19,
-    "goalsConceded": 36,
+    "goalsScored": 20,
+    "goalsConceded": 38,
     "points": 28,
     "team": {
       "id": "realvalladolid",
