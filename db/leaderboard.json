@@ -408,13 +408,13 @@
     }
   },
   {
-    "gamesPlayed": 25,
-    "wins": 14,
+    "gamesPlayed": 26,
+    "wins": 15,
     "loses": 5,
     "draws": 6,
-    "goalsScored": 39,
+    "goalsScored": 40,
     "goalsConceded": 19,
-    "points": 48,
+    "points": 51,
     "team": {
       "id": "atletico",
       "name": "Atlético",
@@ -3110,12 +3110,12 @@
     }
   },
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 7,
-    "loses": 13,
+    "loses": 14,
     "draws": 5,
     "goalsScored": 28,
-    "goalsConceded": 28,
+    "goalsConceded": 29,
     "points": 26,
     "team": {
       "id": "valencia",

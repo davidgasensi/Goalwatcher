@@ -23,23 +23,23 @@
   {
     "type": "Pichichi",
     "position": 4,
+    "value": 12,
+    "name": "Iago Aspas",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 5,
     "value": 11,
     "name": "Karim Benzema",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Pichichi",
-    "position": 5,
+    "position": 6,
     "value": 11,
     "name": "Borja Iglesias",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
-  },
-  {
-    "type": "Pichichi",
-    "position": 6,
-    "value": 11,
-    "name": "Iago Aspas",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
   },
   {
     "type": "Pichichi",
@@ -65,8 +65,8 @@
   {
     "type": "Pichichi",
     "position": 10,
-    "value": 8,
-    "name": "Martin Braithwaite",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+    "value": 9,
+    "name": "Gabri Veiga",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
   }
 ]
