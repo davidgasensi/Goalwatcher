@@ -412,7 +412,7 @@
     "wins": 15,
     "loses": 5,
     "draws": 6,
-    "goalsScored": 40,
+    "goalsScored": 42,
     "goalsConceded": 19,
     "points": 51,
     "team": {
@@ -3115,7 +3115,7 @@
     "loses": 14,
     "draws": 5,
     "goalsScored": 28,
-    "goalsConceded": 29,
+    "goalsConceded": 31,
     "points": 26,
     "team": {
       "id": "valencia",
