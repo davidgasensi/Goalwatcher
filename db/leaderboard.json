@@ -1,12 +1,12 @@
 [
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 21,
     "loses": 2,
-    "draws": 2,
-    "goalsScored": 47,
-    "goalsConceded": 8,
-    "points": 65,
+    "draws": 3,
+    "goalsScored": 48,
+    "goalsConceded": 9,
+    "points": 66,
     "team": {
       "id": "barcelona",
       "name": "FC Barcelona",
@@ -190,13 +190,13 @@
     }
   },
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 17,
     "loses": 3,
-    "draws": 5,
-    "goalsScored": 50,
-    "goalsConceded": 19,
-    "points": 56,
+    "draws": 6,
+    "goalsScored": 51,
+    "goalsConceded": 20,
+    "points": 57,
     "team": {
       "id": "realmadrid",
       "name": "Real Madrid",
