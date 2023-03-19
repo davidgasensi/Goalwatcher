@@ -605,13 +605,13 @@
     }
   },
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 13,
     "loses": 6,
-    "draws": 6,
+    "draws": 7,
     "goalsScored": 33,
     "goalsConceded": 24,
-    "points": 45,
+    "points": 46,
     "team": {
       "id": "rsociedad",
       "name": "R. Sociedad",
@@ -1027,13 +1027,13 @@
     }
   },
   {
-    "gamesPlayed": 25,
-    "wins": 11,
+    "gamesPlayed": 26,
+    "wins": 12,
     "loses": 9,
     "draws": 5,
-    "goalsScored": 29,
+    "goalsScored": 30,
     "goalsConceded": 24,
-    "points": 38,
+    "points": 41,
     "team": {
       "id": "villarreal",
       "name": "Villarreal",
@@ -1590,12 +1590,12 @@
     }
   },
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 9,
-    "loses": 9,
+    "loses": 10,
     "draws": 7,
     "goalsScored": 22,
-    "goalsConceded": 24,
+    "goalsConceded": 25,
     "points": 34,
     "team": {
       "id": "osasuna",
@@ -3729,13 +3729,13 @@
     }
   },
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 2,
     "loses": 16,
-    "draws": 7,
+    "draws": 8,
     "goalsScored": 19,
     "goalsConceded": 49,
-    "points": 13,
+    "points": 14,
     "team": {
       "id": "elche",
       "name": "Elche",
