@@ -844,13 +844,13 @@
     }
   },
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 12,
     "loses": 7,
-    "draws": 6,
+    "draws": 7,
     "goalsScored": 33,
     "goalsConceded": 26,
-    "points": 42,
+    "points": 43,
     "team": {
       "id": "betis",
       "name": "Betis",
@@ -1963,13 +1963,13 @@
     }
   },
   {
-    "gamesPlayed": 25,
+    "gamesPlayed": 26,
     "wins": 9,
     "loses": 11,
-    "draws": 5,
+    "draws": 6,
     "goalsScored": 22,
     "goalsConceded": 26,
-    "points": 32,
+    "points": 33,
     "team": {
       "id": "mallorca",
       "name": "Mallorca",
