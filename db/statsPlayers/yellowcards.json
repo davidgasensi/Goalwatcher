@@ -17,43 +17,43 @@
     "type": "Tarjetas amarillas",
     "position": 3,
     "value": 10,
-    "name": "Domingos Duarte",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "name": "Catena",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 4,
     "value": 10,
-    "name": "Carles Aleñá",
+    "name": "Domingos Duarte",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 5,
     "value": 10,
+    "name": "Carles Aleñá",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 6,
+    "value": 10,
     "name": "Javier Sánchez",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 6,
+    "position": 7,
     "value": 9,
     "name": "Oscar Gil",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 7,
+    "position": 8,
     "value": 9,
     "name": "Pau Torres",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 8,
-    "value": 9,
-    "name": "Catena",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
