@@ -606,12 +606,12 @@
   },
   {
     "gamesPlayed": 26,
-    "wins": 13,
+    "wins": 14,
     "loses": 6,
-    "draws": 7,
-    "goalsScored": 33,
+    "draws": 6,
+    "goalsScored": 34,
     "goalsConceded": 24,
-    "points": 46,
+    "points": 48,
     "team": {
       "id": "rsociedad",
       "name": "R. Sociedad",
@@ -3731,11 +3731,11 @@
   {
     "gamesPlayed": 26,
     "wins": 2,
-    "loses": 16,
-    "draws": 8,
+    "loses": 17,
+    "draws": 7,
     "goalsScored": 19,
-    "goalsConceded": 49,
-    "points": 14,
+    "goalsConceded": 50,
+    "points": 13,
     "team": {
       "id": "elche",
       "name": "Elche",
