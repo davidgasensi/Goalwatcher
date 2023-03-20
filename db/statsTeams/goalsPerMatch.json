@@ -2,14 +2,14 @@
   {
     "type": "Goles por partido",
     "position": 1,
-    "value": 1.92,
+    "value": 1.96,
     "name": "Real Madrid",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Goles por partido",
     "position": 2,
-    "value": 1.81,
+    "value": 1.88,
     "name": "FC Barcelona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -37,14 +37,14 @@
   {
     "type": "Goles por partido",
     "position": 6,
-    "value": 1.27,
+    "value": 1.35,
     "name": "R. Sociedad",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Goles por partido",
     "position": 7,
-    "value": 1.27,
+    "value": 1.31,
     "name": "Betis",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
@@ -65,30 +65,30 @@
   {
     "type": "Goles por partido",
     "position": 10,
+    "value": 1.23,
+    "name": "Villarreal",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 11,
     "value": 1.19,
     "name": "Rayo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles por partido",
-    "position": 11,
+    "position": 12,
     "value": 1.15,
     "name": "Almería",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
   },
   {
     "type": "Goles por partido",
-    "position": 12,
+    "position": 13,
     "value": 1.12,
     "name": "Sevilla",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
-  },
-  {
-    "type": "Goles por partido",
-    "position": 13,
-    "value": 1.12,
-    "name": "Villarreal",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Goles por partido",
@@ -100,7 +100,7 @@
   {
     "type": "Goles por partido",
     "position": 15,
-    "value": 0.96,
+    "value": 1.04,
     "name": "Getafe",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
