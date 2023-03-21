@@ -1569,57 +1569,57 @@
   },
   {
     "numJornada": "Jornada 29",
-    "date": "16 de abril",
+    "date": "14, 15, 16 y 17 de abril",
     "matches": [
       {
-        "team1": "Getafe",
-        "result": "Por definir",
-        "team2": "FC Barcelona"
-      },
-      {
-        "team1": "Atlético",
-        "result": "Por definir",
-        "team2": "Almería"
-      },
-      {
-        "team1": "Betis",
-        "result": "Por definir",
-        "team2": "Espanyol"
-      },
-      {
-        "team1": "Athletic",
-        "result": "Por definir",
-        "team2": "R. Sociedad"
-      },
-      {
-        "team1": "Valencia",
-        "result": "Por definir",
-        "team2": "Sevilla"
-      },
-      {
-        "team1": "Villarreal",
-        "result": "Por definir",
-        "team2": "Valladolid"
-      },
-      {
-        "team1": "Celta",
-        "result": "Por definir",
-        "team2": "Mallorca"
-      },
-      {
         "team1": "Rayo",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Osasuna"
       },
       {
+        "team1": "Villarreal",
+        "result": "00h",
+        "team2": "Valladolid"
+      },
+      {
+        "team1": "Athletic",
+        "result": "15h",
+        "team2": "R. Sociedad"
+      },
+      {
+        "team1": "Betis",
+        "result": "30h",
+        "team2": "Espanyol"
+      },
+      {
         "team1": "Cádiz",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Real Madrid"
       },
       {
         "team1": "Girona",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Elche"
+      },
+      {
+        "team1": "Getafe",
+        "result": "15h",
+        "team2": "FC Barcelona"
+      },
+      {
+        "team1": "Atlético",
+        "result": "30h",
+        "team2": "Almería"
+      },
+      {
+        "team1": "Valencia",
+        "result": "00h",
+        "team2": "Sevilla"
+      },
+      {
+        "team1": "Celta",
+        "result": "00h",
+        "team2": "Mallorca"
       }
     ]
   },
