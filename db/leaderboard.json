@@ -190,13 +190,13 @@
     }
   },
   {
-    "gamesPlayed": 26,
-    "wins": 17,
+    "gamesPlayed": 27,
+    "wins": 18,
     "loses": 4,
     "draws": 5,
-    "goalsScored": 51,
+    "goalsScored": 57,
     "goalsConceded": 21,
-    "points": 56,
+    "points": 59,
     "team": {
       "id": "realmadrid",
       "name": "Real Madrid",
@@ -408,13 +408,13 @@
     }
   },
   {
-    "gamesPlayed": 26,
-    "wins": 15,
+    "gamesPlayed": 27,
+    "wins": 16,
     "loses": 5,
     "draws": 6,
-    "goalsScored": 42,
+    "goalsScored": 43,
     "goalsConceded": 19,
-    "points": 51,
+    "points": 54,
     "team": {
       "id": "atletico",
       "name": "Atlético",
@@ -605,12 +605,12 @@
     }
   },
   {
-    "gamesPlayed": 26,
+    "gamesPlayed": 27,
     "wins": 14,
-    "loses": 6,
+    "loses": 7,
     "draws": 6,
     "goalsScored": 35,
-    "goalsConceded": 24,
+    "goalsConceded": 26,
     "points": 48,
     "team": {
       "id": "rsociedad",
@@ -844,12 +844,12 @@
     }
   },
   {
-    "gamesPlayed": 26,
+    "gamesPlayed": 27,
     "wins": 13,
-    "loses": 7,
+    "loses": 8,
     "draws": 6,
     "goalsScored": 34,
-    "goalsConceded": 26,
+    "goalsConceded": 27,
     "points": 45,
     "team": {
       "id": "betis",
@@ -1027,13 +1027,13 @@
     }
   },
   {
-    "gamesPlayed": 26,
-    "wins": 12,
+    "gamesPlayed": 27,
+    "wins": 13,
     "loses": 9,
     "draws": 5,
-    "goalsScored": 32,
+    "goalsScored": 34,
     "goalsConceded": 24,
-    "points": 41,
+    "points": 44,
     "team": {
       "id": "villarreal",
       "name": "Villarreal",
@@ -1775,6 +1775,196 @@
   {
     "gamesPlayed": 27,
     "wins": 9,
+    "loses": 10,
+    "draws": 8,
+    "goalsScored": 34,
+    "goalsConceded": 37,
+    "points": 35,
+    "team": {
+      "id": "celta",
+      "name": "Celta",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-celta.svg",
+      "urlWeb": "https://rccelta.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/rccelta/?hl=es",
+        "https://twitter.com/RCCelta?s=20",
+        "https://www.tiktok.com/@rccelta?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Marchesín",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mar/100/30641.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Iván Villar",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/iva/100/35894.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Coke Carrillo",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/49965.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Óscar Mingueza",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/osc/100/42885.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Unai Núñez",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/39365.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Joseph Aidoo",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/43563.jpg",
+          "team": "celta"
+        },
+        {
+          "name": "Carlos Domínguez",
+          "position": "Defensa",
+          "number": 26,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Hugo Mallo",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Óscar Rodríguez",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Denis Suárez",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Fran Beltrán",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Renato Tapia",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Javi Galán",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Kevin",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Gabriel Veiga",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Fernando",
+          "position": "Centrocampista",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Carles Perez",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Paciencia",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Aspas",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Franco Cervi",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Jorgen Strand Larsen",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Augusto Solari",
+          "position": "Delantero",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Luca De La Torre",
+          "position": "Delantero",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        },
+        {
+          "name": "Miguel Rodriguez",
+          "position": "Delantero",
+          "number": 29,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "celta"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 27,
+    "wins": 9,
     "loses": 11,
     "draws": 7,
     "goalsScored": 42,
@@ -1958,196 +2148,6 @@
           "number": 12,
           "image": "//as01.epimg.net/t.gif",
           "team": "girona"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 26,
-    "wins": 9,
-    "loses": 10,
-    "draws": 7,
-    "goalsScored": 32,
-    "goalsConceded": 35,
-    "points": 34,
-    "team": {
-      "id": "celta",
-      "name": "Celta",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-celta.svg",
-      "urlWeb": "https://rccelta.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/rccelta/?hl=es",
-        "https://twitter.com/RCCelta?s=20",
-        "https://www.tiktok.com/@rccelta?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Marchesín",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mar/100/30641.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Iván Villar",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/iva/100/35894.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Coke Carrillo",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/49965.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Óscar Mingueza",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/osc/100/42885.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Unai Núñez",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/39365.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Joseph Aidoo",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/43563.jpg",
-          "team": "celta"
-        },
-        {
-          "name": "Carlos Domínguez",
-          "position": "Defensa",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Hugo Mallo",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Óscar Rodríguez",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Denis Suárez",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Fran Beltrán",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Renato Tapia",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Javi Galán",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Kevin",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Gabriel Veiga",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Fernando",
-          "position": "Centrocampista",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Carles Perez",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Paciencia",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Aspas",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Franco Cervi",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Jorgen Strand Larsen",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Augusto Solari",
-          "position": "Delantero",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Luca De La Torre",
-          "position": "Delantero",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
-        },
-        {
-          "name": "Miguel Rodriguez",
-          "position": "Delantero",
-          "number": 29,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "celta"
         }
       ]
     }
@@ -2765,168 +2765,6 @@
     }
   },
   {
-    "gamesPlayed": 26,
-    "wins": 8,
-    "loses": 14,
-    "draws": 4,
-    "goalsScored": 20,
-    "goalsConceded": 38,
-    "points": 28,
-    "team": {
-      "id": "realvalladolid",
-      "name": "Valladolid",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-valladolid.svg",
-      "urlWeb": "https://www.realvalladolid.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/realvalladolid/?hl=es",
-        "https://twitter.com/realvalladolid?s=20",
-        "https://www.tiktok.com/@realvalladolid"
-      ],
-      "players": [
-        {
-          "name": "Masip",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mas/100/19312.jpg",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Asenjo",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/s/ser/100/16769.jpg",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Javier Sánchez",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jav/100/43326.jpg",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Jawad El Yamiq",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jaw/100/41118.jpg",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Luis Pérez",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Kike",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Aguado",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Monchu",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Olaza",
-          "position": "Centrocampista",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Malsa",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Roque Mesa",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Escudero",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Iván Sánchez",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Anuar",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Joaquín",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Sergio León",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Óscar Plano",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Gonzalo Plata",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Kenedy",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        },
-        {
-          "name": "Sergi Guardiola",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "realvalladolid"
-        }
-      ]
-    }
-  },
-  {
     "gamesPlayed": 27,
     "wins": 6,
     "loses": 11,
@@ -3105,6 +2943,168 @@
           "number": 18,
           "image": "//as01.epimg.net/t.gif",
           "team": "cadiz"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 27,
+    "wins": 8,
+    "loses": 15,
+    "draws": 4,
+    "goalsScored": 20,
+    "goalsConceded": 44,
+    "points": 28,
+    "team": {
+      "id": "realvalladolid",
+      "name": "Valladolid",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-valladolid.svg",
+      "urlWeb": "https://www.realvalladolid.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/realvalladolid/?hl=es",
+        "https://twitter.com/realvalladolid?s=20",
+        "https://www.tiktok.com/@realvalladolid"
+      ],
+      "players": [
+        {
+          "name": "Masip",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mas/100/19312.jpg",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Asenjo",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/s/ser/100/16769.jpg",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Javier Sánchez",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jav/100/43326.jpg",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Jawad El Yamiq",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jaw/100/41118.jpg",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Luis Pérez",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Kike",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Aguado",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Monchu",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Olaza",
+          "position": "Centrocampista",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Malsa",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Roque Mesa",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Escudero",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Iván Sánchez",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Anuar",
+          "position": "Centrocampista",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Joaquín",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Sergio León",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Óscar Plano",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Gonzalo Plata",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Kenedy",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
+        },
+        {
+          "name": "Sergi Guardiola",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "realvalladolid"
         }
       ]
     }
@@ -3309,6 +3309,203 @@
           "number": 32,
           "image": "//as01.epimg.net/t.gif",
           "team": "espanyol"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 27,
+    "wins": 7,
+    "loses": 14,
+    "draws": 6,
+    "goalsScored": 32,
+    "goalsConceded": 47,
+    "points": 27,
+    "team": {
+      "id": "almeria",
+      "name": "Almería",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-almeria.svg",
+      "urlWeb": "https://www.udalmeriasad.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/udalmeria/?hl=es",
+        "https://twitter.com/U_D_Almeria?s=20",
+        "https://www.tiktok.com/@udalmeria"
+      ],
+      "players": [
+        {
+          "name": "Fernando Martínez",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fer/100/20366.jpg",
+          "team": "almeria"
+        },
+        {
+          "name": "Diego Lázaro",
+          "position": "Portero",
+          "number": 25,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/die/100/47689.jpg",
+          "team": "almeria"
+        },
+        {
+          "name": "Pacheco",
+          "position": "Portero",
+          "number": 0,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pac/100/19653.jpg",
+          "team": "almeria"
+        },
+        {
+          "name": "Rodrigo Ely",
+          "position": "Defensa",
+          "number": 19,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rod/100/25300.jpg",
+          "team": "almeria"
+        },
+        {
+          "name": "Chumi",
+          "position": "Defensa",
+          "number": 21,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/40762.jpg",
+          "team": "almeria"
+        },
+        {
+          "name": "Srdan Babic",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Gonzalo Melero",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Eguaras",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Lucas Robertone",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "César De la Hoz",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Portillo",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Lazaro",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Akieme",
+          "position": "Centrocampista",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Arnau Martínez",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Álex Centelles",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Samuel Costa",
+          "position": "Centrocampista",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Houboulang Mendes",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Martin Svidersky",
+          "position": "Centrocampista",
+          "number": 26,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Ramazani",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "El Bilal Toure",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Embarba",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Dyego Sousa",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Leo Baptistao",
+          "position": "Delantero",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Pozo",
+          "position": "Delantero",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Carlos Mosquero",
+          "position": "Delantero",
+          "number": 33,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
         }
       ]
     }
@@ -3527,203 +3724,6 @@
           "number": 40,
           "image": "//as01.epimg.net/t.gif",
           "team": "valencia"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 26,
-    "wins": 7,
-    "loses": 14,
-    "draws": 5,
-    "goalsScored": 30,
-    "goalsConceded": 45,
-    "points": 26,
-    "team": {
-      "id": "almeria",
-      "name": "Almería",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-almeria.svg",
-      "urlWeb": "https://www.udalmeriasad.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/udalmeria/?hl=es",
-        "https://twitter.com/U_D_Almeria?s=20",
-        "https://www.tiktok.com/@udalmeria"
-      ],
-      "players": [
-        {
-          "name": "Fernando Martínez",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fer/100/20366.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Diego Lázaro",
-          "position": "Portero",
-          "number": 25,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/die/100/47689.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Pacheco",
-          "position": "Portero",
-          "number": 0,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pac/100/19653.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Rodrigo Ely",
-          "position": "Defensa",
-          "number": 19,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rod/100/25300.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Chumi",
-          "position": "Defensa",
-          "number": 21,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/40762.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Srdan Babic",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Gonzalo Melero",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Eguaras",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Lucas Robertone",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "César De la Hoz",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Portillo",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Lazaro",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Akieme",
-          "position": "Centrocampista",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Arnau Martínez",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Álex Centelles",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Samuel Costa",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Houboulang Mendes",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Martin Svidersky",
-          "position": "Centrocampista",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Ramazani",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "El Bilal Toure",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Embarba",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Dyego Sousa",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Leo Baptistao",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Pozo",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Carlos Mosquero",
-          "position": "Delantero",
-          "number": 33,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
         }
       ]
     }
