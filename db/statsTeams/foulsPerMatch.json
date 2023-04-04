@@ -30,37 +30,37 @@
   {
     "type": "Faltas por partido",
     "position": 5,
+    "value": 14.81,
+    "name": "Rayo",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+  },
+  {
+    "type": "Faltas por partido",
+    "position": 6,
     "value": 14.41,
     "name": "Elche",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 6,
+    "position": 7,
     "value": 14.33,
     "name": "Cádiz",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 7,
-    "value": 14.22,
-    "name": "Rayo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
-  },
-  {
-    "type": "Faltas por partido",
     "position": 8,
-    "value": 13.48,
-    "name": "Athletic",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+    "value": 13.7,
+    "name": "Valencia",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
   {
     "type": "Faltas por partido",
     "position": 9,
-    "value": 13.15,
-    "name": "Valencia",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+    "value": 13.48,
+    "name": "Athletic",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Faltas por partido",
