@@ -7453,5 +7453,19 @@
     "image": "https://img.asmedia.epimg.net/resizer/FKC1JnEe410KR2mSwI-FHvkvGxk=/360x203/filters:focal(2576x979:2586x989)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/HLN6YODTHFZFPVTE25E2AEJYBQ.JPG",
     "createDate": 1680841080812,
     "domain": "as"
+  },
+  {
+    "title": "\"En el Girona estoy disfrutando\"",
+    "link": "https://www.sport.es/es/noticias/barca/oriol-romeu-girona-disfrutando-85719416",
+    "image": "https://estaticos-cdn.sport.es/clip/cee8d9e4-950a-428f-90b4-685e5098672d_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1680848338358,
+    "domain": "sport"
+  },
+  {
+    "title": "Carlos Carvalhal, en la agenda del Espanyol",
+    "link": "https://www.sport.es/es/noticias/espanyol/carlos-carvalhal-agenda-espanyol-85631773",
+    "image": "https://estaticos-cdn.sport.es/clip/8956886b-3728-49de-bac5-bd57b03430cd_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1680848338360,
+    "domain": "sport"
   }
 ]
