@@ -190,12 +190,12 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 18,
-    "loses": 4,
+    "loses": 5,
     "draws": 5,
-    "goalsScored": 57,
-    "goalsConceded": 21,
+    "goalsScored": 59,
+    "goalsConceded": 24,
     "points": 59,
     "team": {
       "id": "realmadrid",
@@ -605,13 +605,13 @@
     }
   },
   {
-    "gamesPlayed": 27,
-    "wins": 14,
+    "gamesPlayed": 28,
+    "wins": 15,
     "loses": 7,
     "draws": 6,
-    "goalsScored": 35,
+    "goalsScored": 37,
     "goalsConceded": 26,
-    "points": 48,
+    "points": 51,
     "team": {
       "id": "rsociedad",
       "name": "R. Sociedad",
@@ -844,6 +844,168 @@
     }
   },
   {
+    "gamesPlayed": 28,
+    "wins": 14,
+    "loses": 9,
+    "draws": 5,
+    "goalsScored": 37,
+    "goalsConceded": 26,
+    "points": 47,
+    "team": {
+      "id": "villarreal",
+      "name": "Villarreal",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-villarreal.svg",
+      "urlWeb": "https://villarrealcf.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/villarrealcf/?hl=es",
+        "https://twitter.com/VillarrealCF?s=20",
+        "https://www.tiktok.com/@villarrealcf?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Reina",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rei/100/1986.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Kiko Femenía",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/k/kik/100/17648.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Albiol",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/alb/100/15121.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Jorge Cuenca",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/37076.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Mandi",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/man/100/20098.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Pau Torres",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pau/100/37004.jpg",
+          "team": "villarreal"
+        },
+        {
+          "name": "Capoue",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Juan Foyth",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Parejo",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Manu Morlanes",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Mojica",
+          "position": "Centrocampista",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Trigueros",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Giovani Lo Celso",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Alberto Moreno",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Coquelin",
+          "position": "Centrocampista",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Yeremy Pino",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Alfonso Pedraza",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Gerard Moreno",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Chukwueze",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        },
+        {
+          "name": "Morales",
+          "position": "Delantero",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "villarreal"
+        }
+      ]
+    }
+  },
+  {
     "gamesPlayed": 27,
     "wins": 13,
     "loses": 8,
@@ -1027,175 +1189,13 @@
     }
   },
   {
-    "gamesPlayed": 27,
-    "wins": 13,
-    "loses": 9,
-    "draws": 5,
-    "goalsScored": 34,
-    "goalsConceded": 24,
-    "points": 44,
-    "team": {
-      "id": "villarreal",
-      "name": "Villarreal",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-villarreal.svg",
-      "urlWeb": "https://villarrealcf.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/villarrealcf/?hl=es",
-        "https://twitter.com/VillarrealCF?s=20",
-        "https://www.tiktok.com/@villarrealcf?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Reina",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rei/100/1986.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Kiko Femenía",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/k/kik/100/17648.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Albiol",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/alb/100/15121.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Jorge Cuenca",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jor/100/37076.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Mandi",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/man/100/20098.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Pau Torres",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pau/100/37004.jpg",
-          "team": "villarreal"
-        },
-        {
-          "name": "Capoue",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Juan Foyth",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Parejo",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Manu Morlanes",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Mojica",
-          "position": "Centrocampista",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Trigueros",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Giovani Lo Celso",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Alberto Moreno",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Coquelin",
-          "position": "Centrocampista",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Yeremy Pino",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Alfonso Pedraza",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Gerard Moreno",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Chukwueze",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        },
-        {
-          "name": "Morales",
-          "position": "Delantero",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "villarreal"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 27,
-    "wins": 10,
+    "gamesPlayed": 28,
+    "wins": 11,
     "loses": 10,
     "draws": 7,
-    "goalsScored": 36,
-    "goalsConceded": 28,
-    "points": 37,
+    "goalsScored": 38,
+    "goalsConceded": 29,
+    "points": 40,
     "team": {
       "id": "athletic",
       "name": "Athletic",
@@ -1388,6 +1388,189 @@
           "number": 12,
           "image": "//as01.epimg.net/t.gif",
           "team": "athletic"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 28,
+    "wins": 10,
+    "loses": 10,
+    "draws": 8,
+    "goalsScored": 24,
+    "goalsConceded": 28,
+    "points": 38,
+    "team": {
+      "id": "osasuna",
+      "name": "Osasuna",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
+      "urlWeb": "https://www.osasuna.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/caosasuna/?hl=es",
+        "https://twitter.com/Osasuna?s=20",
+        "https://www.tiktok.com/@caosasuna?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Herrera",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/h/her/100/22077.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aitor",
+          "position": "Portero",
+          "number": 25,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ait/100/19122.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Dario",
+          "position": "Portero",
+          "number": 39,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dar/100/44274.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Unai García",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/22841.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "David García",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/25984.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Rubén Peña",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rub/100/25535.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aridane",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Jorge Herrando",
+          "position": "Defensa",
+          "number": 31,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Nacho Vidal",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Juan Cruz",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Lucas Torró",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Jon Moncayola",
+          "position": "Centrocampista",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Brasanac",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Chimy Ávila",
+          "position": "Centrocampista",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Rubén García",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Manu Sánchez",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aimar Oroz",
+          "position": "Centrocampista",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Kike Barja",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Abde",
+          "position": "Delantero",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Moi Gómez",
+          "position": "Delantero",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Ante Budimir",
+          "position": "Delantero",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Kike García",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Iker Benito",
+          "position": "Delantero",
+          "number": 33,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
         }
       ]
     }
@@ -1775,189 +1958,6 @@
           "number": 29,
           "image": "//as01.epimg.net/t.gif",
           "team": "celta"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 27,
-    "wins": 9,
-    "loses": 10,
-    "draws": 8,
-    "goalsScored": 22,
-    "goalsConceded": 27,
-    "points": 35,
-    "team": {
-      "id": "osasuna",
-      "name": "Osasuna",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
-      "urlWeb": "https://www.osasuna.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/caosasuna/?hl=es",
-        "https://twitter.com/Osasuna?s=20",
-        "https://www.tiktok.com/@caosasuna?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Herrera",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/h/her/100/22077.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aitor",
-          "position": "Portero",
-          "number": 25,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ait/100/19122.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Dario",
-          "position": "Portero",
-          "number": 39,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dar/100/44274.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Unai García",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/22841.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "David García",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/25984.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Rubén Peña",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rub/100/25535.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aridane",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Jorge Herrando",
-          "position": "Defensa",
-          "number": 31,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Nacho Vidal",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Juan Cruz",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Lucas Torró",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Jon Moncayola",
-          "position": "Centrocampista",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Brasanac",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Chimy Ávila",
-          "position": "Centrocampista",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Rubén García",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Manu Sánchez",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aimar Oroz",
-          "position": "Centrocampista",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Kike Barja",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Abde",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Moi Gómez",
-          "position": "Delantero",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Ante Budimir",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Kike García",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Iker Benito",
-          "position": "Delantero",
-          "number": 33,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
         }
       ]
     }
@@ -2561,12 +2561,12 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 7,
-    "loses": 11,
+    "loses": 12,
     "draws": 9,
     "goalsScored": 27,
-    "goalsConceded": 34,
+    "goalsConceded": 36,
     "points": 30,
     "team": {
       "id": "getafe",
@@ -3328,12 +3328,12 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 6,
-    "loses": 12,
+    "loses": 13,
     "draws": 9,
-    "goalsScored": 33,
-    "goalsConceded": 44,
+    "goalsScored": 34,
+    "goalsConceded": 46,
     "points": 27,
     "team": {
       "id": "espanyol",
@@ -3729,12 +3729,12 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 2,
-    "loses": 18,
+    "loses": 19,
     "draws": 7,
-    "goalsScored": 19,
-    "goalsConceded": 55,
+    "goalsScored": 20,
+    "goalsConceded": 57,
     "points": 13,
     "team": {
       "id": "elche",
