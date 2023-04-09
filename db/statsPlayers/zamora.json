@@ -9,7 +9,7 @@
   {
     "type": "Zamora",
     "position": 2,
-    "value": 17,
+    "value": 18,
     "name": "Jan Oblak",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
@@ -37,16 +37,16 @@
   {
     "type": "Zamora",
     "position": 6,
-    "value": 28,
-    "name": "Stole Dimitrievski",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+    "value": 24,
+    "name": "Rui Silva",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Zamora",
     "position": 7,
-    "value": 24,
-    "name": "Rui Silva",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+    "value": 30,
+    "name": "Stole Dimitrievski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Zamora",
@@ -58,7 +58,7 @@
   {
     "type": "Zamora",
     "position": 9,
-    "value": 32,
+    "value": 34,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
