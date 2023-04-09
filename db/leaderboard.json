@@ -408,13 +408,13 @@
     }
   },
   {
-    "gamesPlayed": 27,
-    "wins": 16,
+    "gamesPlayed": 28,
+    "wins": 17,
     "loses": 5,
     "draws": 6,
-    "goalsScored": 43,
-    "goalsConceded": 19,
-    "points": 54,
+    "goalsScored": 45,
+    "goalsConceded": 20,
+    "points": 57,
     "team": {
       "id": "atletico",
       "name": "Atlético",
@@ -1006,12 +1006,12 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 13,
-    "loses": 8,
+    "loses": 9,
     "draws": 6,
     "goalsScored": 34,
-    "goalsConceded": 27,
+    "goalsConceded": 29,
     "points": 45,
     "team": {
       "id": "betis",
@@ -1576,12 +1576,12 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 9,
-    "loses": 8,
+    "loses": 9,
     "draws": 10,
-    "goalsScored": 32,
-    "goalsConceded": 31,
+    "goalsScored": 33,
+    "goalsConceded": 33,
     "points": 37,
     "team": {
       "id": "rayo",
@@ -2153,13 +2153,13 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 9,
     "loses": 12,
-    "draws": 6,
-    "goalsScored": 22,
-    "goalsConceded": 27,
-    "points": 33,
+    "draws": 7,
+    "goalsScored": 25,
+    "goalsConceded": 30,
+    "points": 34,
     "team": {
       "id": "mallorca",
       "name": "Mallorca",
@@ -2563,6 +2563,189 @@
   {
     "gamesPlayed": 28,
     "wins": 7,
+    "loses": 11,
+    "draws": 10,
+    "goalsScored": 23,
+    "goalsConceded": 40,
+    "points": 31,
+    "team": {
+      "id": "cadiz",
+      "name": "Cádiz",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
+      "urlWeb": "https://www.cadizcf.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/cadizclubdefutbol/?hl=es",
+        "https://twitter.com/Cadiz_CF?s=20",
+        "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Jeremias Ledesma",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jer/100/45051.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "David Gil",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/36067.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Fali",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fal/100/31008.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Mamadou Mbaye",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mam/100/40853.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Álex Fernández",
+          "position": "Defensa",
+          "number": 8,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/20379.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Luis Hernández",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Genar Fornés",
+          "position": "Defensa",
+          "number": 27,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Victor Chust",
+          "position": "Defensa",
+          "number": 32,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Cala",
+          "position": "Defensa",
+          "number": 0,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Rubén Alcaraz",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "José Mari",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Rubén Sobrino",
+          "position": "Centrocampista",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Iza",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Santiago Arzamendia",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Luis Espino",
+          "position": "Centrocampista",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Fede",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Álvaro Bastida",
+          "position": "Centrocampista",
+          "number": 38,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Zaldua",
+          "position": "Centrocampista",
+          "number": 0,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Lozano",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "T. Bongonda",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Iván Alejo",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Brian Ocampo",
+          "position": "Delantero",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Negredo",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 28,
+    "wins": 7,
     "loses": 12,
     "draws": 9,
     "goalsScored": 27,
@@ -2765,196 +2948,210 @@
     }
   },
   {
-    "gamesPlayed": 27,
-    "wins": 6,
-    "loses": 11,
-    "draws": 10,
-    "goalsScored": 21,
-    "goalsConceded": 40,
-    "points": 28,
+    "gamesPlayed": 28,
+    "wins": 8,
+    "loses": 14,
+    "draws": 6,
+    "goalsScored": 34,
+    "goalsConceded": 48,
+    "points": 30,
     "team": {
-      "id": "cadiz",
-      "name": "Cádiz",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
-      "urlWeb": "https://www.cadizcf.com/",
+      "id": "almeria",
+      "name": "Almería",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-almeria.svg",
+      "urlWeb": "https://www.udalmeriasad.com/",
       "socialNetworks": [
-        "https://www.instagram.com/cadizclubdefutbol/?hl=es",
-        "https://twitter.com/Cadiz_CF?s=20",
-        "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
+        "https://www.instagram.com/udalmeria/?hl=es",
+        "https://twitter.com/U_D_Almeria?s=20",
+        "https://www.tiktok.com/@udalmeria"
       ],
       "players": [
         {
-          "name": "Jeremias Ledesma",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jer/100/45051.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "David Gil",
+          "name": "Fernando Martínez",
           "position": "Portero",
           "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/36067.jpg",
-          "team": "cadiz"
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fer/100/20366.jpg",
+          "team": "almeria"
         },
         {
-          "name": "Fali",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fal/100/31008.jpg",
-          "team": "cadiz"
+          "name": "Diego Lázaro",
+          "position": "Portero",
+          "number": 25,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/die/100/47689.jpg",
+          "team": "almeria"
         },
         {
-          "name": "Mamadou Mbaye",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mam/100/40853.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Álex Fernández",
-          "position": "Defensa",
-          "number": 8,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/20379.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Luis Hernández",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Genar Fornés",
-          "position": "Defensa",
-          "number": 27,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Victor Chust",
-          "position": "Defensa",
-          "number": 32,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Cala",
-          "position": "Defensa",
+          "name": "Pacheco",
+          "position": "Portero",
           "number": 0,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pac/100/19653.jpg",
+          "team": "almeria"
         },
         {
-          "name": "Rubén Alcaraz",
+          "name": "Rodrigo Ely",
+          "position": "Defensa",
+          "number": 19,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rod/100/25300.jpg",
+          "team": "almeria"
+        },
+        {
+          "name": "Chumi",
+          "position": "Defensa",
+          "number": 21,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/40762.jpg",
+          "team": "almeria"
+        },
+        {
+          "name": "Srdan Babic",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Gonzalo Melero",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Eguaras",
           "position": "Centrocampista",
           "number": 4,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "José Mari",
+          "name": "Lucas Robertone",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "César De la Hoz",
           "position": "Centrocampista",
           "number": 6,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Rubén Sobrino",
+          "name": "Portillo",
           "position": "Centrocampista",
-          "number": 7,
+          "number": 8,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Iza",
+          "name": "Lazaro",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Akieme",
+          "position": "Centrocampista",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Arnau Martínez",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
+        },
+        {
+          "name": "Álex Centelles",
           "position": "Centrocampista",
           "number": 20,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Santiago Arzamendia",
+          "name": "Samuel Costa",
           "position": "Centrocampista",
-          "number": 21,
+          "number": 23,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Luis Espino",
-          "position": "Centrocampista",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Fede",
+          "name": "Houboulang Mendes",
           "position": "Centrocampista",
           "number": 24,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Álvaro Bastida",
+          "name": "Martin Svidersky",
           "position": "Centrocampista",
-          "number": 38,
+          "number": 26,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Zaldua",
-          "position": "Centrocampista",
-          "number": 0,
+          "name": "Ramazani",
+          "position": "Delantero",
+          "number": 7,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Lozano",
+          "name": "El Bilal Toure",
           "position": "Delantero",
           "number": 9,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "T. Bongonda",
+          "name": "Embarba",
           "position": "Delantero",
           "number": 10,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Iván Alejo",
+          "name": "Dyego Sousa",
           "position": "Delantero",
           "number": 11,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Brian Ocampo",
+          "name": "Leo Baptistao",
           "position": "Delantero",
-          "number": 14,
+          "number": 12,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
         },
         {
-          "name": "Negredo",
+          "name": "Pozo",
           "position": "Delantero",
-          "number": 18,
+          "number": 17,
           "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
+          "team": "almeria"
+        },
+        {
+          "name": "Carlos Mosquero",
+          "position": "Delantero",
+          "number": 33,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "almeria"
         }
       ]
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 8,
     "loses": 15,
-    "draws": 4,
-    "goalsScored": 20,
-    "goalsConceded": 44,
-    "points": 28,
+    "draws": 5,
+    "goalsScored": 23,
+    "goalsConceded": 47,
+    "points": 29,
     "team": {
       "id": "realvalladolid",
       "name": "Valladolid",
@@ -3110,12 +3307,12 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 7,
-    "loses": 14,
+    "loses": 15,
     "draws": 6,
-    "goalsScored": 29,
-    "goalsConceded": 32,
+    "goalsScored": 30,
+    "goalsConceded": 34,
     "points": 27,
     "team": {
       "id": "valencia",
@@ -3527,203 +3724,6 @@
           "number": 32,
           "image": "//as01.epimg.net/t.gif",
           "team": "espanyol"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 27,
-    "wins": 7,
-    "loses": 14,
-    "draws": 6,
-    "goalsScored": 32,
-    "goalsConceded": 47,
-    "points": 27,
-    "team": {
-      "id": "almeria",
-      "name": "Almería",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-almeria.svg",
-      "urlWeb": "https://www.udalmeriasad.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/udalmeria/?hl=es",
-        "https://twitter.com/U_D_Almeria?s=20",
-        "https://www.tiktok.com/@udalmeria"
-      ],
-      "players": [
-        {
-          "name": "Fernando Martínez",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fer/100/20366.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Diego Lázaro",
-          "position": "Portero",
-          "number": 25,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/die/100/47689.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Pacheco",
-          "position": "Portero",
-          "number": 0,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pac/100/19653.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Rodrigo Ely",
-          "position": "Defensa",
-          "number": 19,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rod/100/25300.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Chumi",
-          "position": "Defensa",
-          "number": 21,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/40762.jpg",
-          "team": "almeria"
-        },
-        {
-          "name": "Srdan Babic",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Gonzalo Melero",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Eguaras",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Lucas Robertone",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "César De la Hoz",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Portillo",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Lazaro",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Akieme",
-          "position": "Centrocampista",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Arnau Martínez",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Álex Centelles",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Samuel Costa",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Houboulang Mendes",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Martin Svidersky",
-          "position": "Centrocampista",
-          "number": 26,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Ramazani",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "El Bilal Toure",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Embarba",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Dyego Sousa",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Leo Baptistao",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Pozo",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
-        },
-        {
-          "name": "Carlos Mosquero",
-          "position": "Delantero",
-          "number": 33,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "almeria"
         }
       ]
     }
