@@ -45,28 +45,28 @@
     "type": "Tarjetas amarillas",
     "position": 7,
     "value": 10,
-    "name": "Domingos Duarte",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "name": "Jaume Costa",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 8,
     "value": 10,
-    "name": "Carles Aleñá",
+    "name": "Domingos Duarte",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 9,
     "value": 10,
-    "name": "Javier Sánchez",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
+    "name": "Carles Aleñá",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 10,
-    "value": 9,
-    "name": "Pau Torres",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+    "value": 10,
+    "name": "Javier Sánchez",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
   }
 ]
