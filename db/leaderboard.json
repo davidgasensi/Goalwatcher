@@ -1,12 +1,12 @@
 [
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 23,
     "loses": 2,
-    "draws": 2,
+    "draws": 3,
     "goalsScored": 53,
     "goalsConceded": 9,
-    "points": 71,
+    "points": 72,
     "team": {
       "id": "barcelona",
       "name": "FC Barcelona",
@@ -1963,13 +1963,13 @@
     }
   },
   {
-    "gamesPlayed": 27,
+    "gamesPlayed": 28,
     "wins": 9,
     "loses": 11,
-    "draws": 7,
+    "draws": 8,
     "goalsScored": 42,
     "goalsConceded": 42,
-    "points": 34,
+    "points": 35,
     "team": {
       "id": "girona",
       "name": "Girona",
