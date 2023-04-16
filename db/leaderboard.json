@@ -1,12 +1,12 @@
 [
   {
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
     "wins": 23,
     "loses": 2,
-    "draws": 3,
+    "draws": 4,
     "goalsScored": 53,
     "goalsConceded": 9,
-    "points": 72,
+    "points": 73,
     "team": {
       "id": "barcelona",
       "name": "FC Barcelona",
@@ -408,13 +408,13 @@
     }
   },
   {
-    "gamesPlayed": 28,
-    "wins": 17,
+    "gamesPlayed": 29,
+    "wins": 18,
     "loses": 5,
     "draws": 6,
-    "goalsScored": 45,
-    "goalsConceded": 20,
-    "points": 57,
+    "goalsScored": 47,
+    "goalsConceded": 21,
+    "points": 60,
     "team": {
       "id": "atletico",
       "name": "Atlético",
@@ -1594,6 +1594,196 @@
     "wins": 10,
     "loses": 11,
     "draws": 8,
+    "goalsScored": 44,
+    "goalsConceded": 42,
+    "points": 38,
+    "team": {
+      "id": "girona",
+      "name": "Girona",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-girona.svg",
+      "urlWeb": "https://www.gironafc.cat/es",
+      "socialNetworks": [
+        "https://www.instagram.com/gironafc/?hl=es",
+        "https://twitter.com/GironaFC?s=20",
+        "https://www.tiktok.com/@gironafc"
+      ],
+      "players": [
+        {
+          "name": "Juan Carlos",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/19459.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Gazzaniga",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gaz/100/20753.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Toni Fuidias",
+          "position": "Portero",
+          "number": 26,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/t/ton/100/46262.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Bernardo",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/b/ber/100/18008.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Arnau Martinez",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/arn/100/48398.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "David López",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Juanpe",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Yan Couto",
+          "position": "Defensa",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Santi Bueno",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Miguel Gutierrez",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Ibrahima Kebe",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Valery Fernández",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Aleix García",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Javi Hernández",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Rodrigo Riquelme",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Oriol Romeu",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Reinier Carvalho",
+          "position": "Centrocampista",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Yangel Herrera",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Iván Martín",
+          "position": "Centrocampista",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Borja García",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Ricard Artero",
+          "position": "Centrocampista",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Stuani",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Valentín Castellano",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Toni Villa",
+          "position": "Delantero",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 29,
+    "wins": 10,
+    "loses": 11,
+    "draws": 8,
     "goalsScored": 25,
     "goalsConceded": 30,
     "points": 38,
@@ -1963,400 +2153,13 @@
     }
   },
   {
-    "gamesPlayed": 28,
-    "wins": 9,
-    "loses": 11,
-    "draws": 8,
-    "goalsScored": 42,
-    "goalsConceded": 42,
-    "points": 35,
-    "team": {
-      "id": "girona",
-      "name": "Girona",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-girona.svg",
-      "urlWeb": "https://www.gironafc.cat/es",
-      "socialNetworks": [
-        "https://www.instagram.com/gironafc/?hl=es",
-        "https://twitter.com/GironaFC?s=20",
-        "https://www.tiktok.com/@gironafc"
-      ],
-      "players": [
-        {
-          "name": "Juan Carlos",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/19459.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Gazzaniga",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gaz/100/20753.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Toni Fuidias",
-          "position": "Portero",
-          "number": 26,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/t/ton/100/46262.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Bernardo",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/b/ber/100/18008.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Arnau Martinez",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/arn/100/48398.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "David López",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Juanpe",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Yan Couto",
-          "position": "Defensa",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Santi Bueno",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Miguel Gutierrez",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Ibrahima Kebe",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Valery Fernández",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Aleix García",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Javi Hernández",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Rodrigo Riquelme",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Oriol Romeu",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Reinier Carvalho",
-          "position": "Centrocampista",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Yangel Herrera",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Iván Martín",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Borja García",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Ricard Artero",
-          "position": "Centrocampista",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Stuani",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Valentín Castellano",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Toni Villa",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
     "wins": 9,
     "loses": 12,
-    "draws": 7,
-    "goalsScored": 25,
-    "goalsConceded": 30,
-    "points": 34,
-    "team": {
-      "id": "mallorca",
-      "name": "Mallorca",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-mallorca.svg",
-      "urlWeb": "https://www.rcdmallorca.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
-        "https://twitter.com/RCD_Mallorca?s=20",
-        "https://www.tiktok.com/@realmallorcaoficial?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Predrag Rajkovic",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pre/100/32395.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Dominik Greif",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dom/100/46488.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Leo Román",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/l/leo/100/47934.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Pere García",
-          "position": "Portero",
-          "number": 33,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/per/100/47452.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Nastasic",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/n/nas/100/21028.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Copete",
-          "position": "Defensa",
-          "number": 6,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cop/100/48860.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Raíllo",
-          "position": "Defensa",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Valjent",
-          "position": "Defensa",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Josep Gaya",
-          "position": "Defensa",
-          "number": 29,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Ruiz de Galarreta",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Grenier",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Antonio Sánchez",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Iddrisu Baba",
-          "position": "Centrocampista",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Dani",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Pablo Maffeo",
-          "position": "Centrocampista",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Battaglia",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Jaume Costa",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Lee Kang-In",
-          "position": "Centrocampista",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Giovanni González",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Braian Cufré",
-          "position": "Delantero",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Muriqi",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Abdón Prats",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Tinotenda Kadewere",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Ángel",
-          "position": "Delantero",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Amath",
-          "position": "Delantero",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 28,
-    "wins": 8,
-    "loses": 12,
     "draws": 8,
-    "goalsScored": 33,
+    "goalsScored": 35,
     "goalsConceded": 44,
-    "points": 32,
+    "points": 35,
     "team": {
       "id": "sevilla",
       "name": "Sevilla",
@@ -2561,6 +2364,203 @@
     }
   },
   {
+    "gamesPlayed": 28,
+    "wins": 9,
+    "loses": 12,
+    "draws": 7,
+    "goalsScored": 25,
+    "goalsConceded": 30,
+    "points": 34,
+    "team": {
+      "id": "mallorca",
+      "name": "Mallorca",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-mallorca.svg",
+      "urlWeb": "https://www.rcdmallorca.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
+        "https://twitter.com/RCD_Mallorca?s=20",
+        "https://www.tiktok.com/@realmallorcaoficial?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Predrag Rajkovic",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pre/100/32395.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Dominik Greif",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dom/100/46488.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Leo Román",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/l/leo/100/47934.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Pere García",
+          "position": "Portero",
+          "number": 33,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/per/100/47452.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Nastasic",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/n/nas/100/21028.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Copete",
+          "position": "Defensa",
+          "number": 6,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cop/100/48860.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Raíllo",
+          "position": "Defensa",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Valjent",
+          "position": "Defensa",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Josep Gaya",
+          "position": "Defensa",
+          "number": 29,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Ruiz de Galarreta",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Grenier",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Antonio Sánchez",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Iddrisu Baba",
+          "position": "Centrocampista",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Dani",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Pablo Maffeo",
+          "position": "Centrocampista",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Battaglia",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Jaume Costa",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Lee Kang-In",
+          "position": "Centrocampista",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Giovanni González",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Braian Cufré",
+          "position": "Delantero",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Muriqi",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Abdón Prats",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Tinotenda Kadewere",
+          "position": "Delantero",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Ángel",
+          "position": "Delantero",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Amath",
+          "position": "Delantero",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        }
+      ]
+    }
+  },
+  {
     "gamesPlayed": 29,
     "wins": 9,
     "loses": 15,
@@ -2727,192 +2727,9 @@
     "wins": 7,
     "loses": 12,
     "draws": 10,
-    "goalsScored": 23,
-    "goalsConceded": 42,
-    "points": 31,
-    "team": {
-      "id": "cadiz",
-      "name": "Cádiz",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
-      "urlWeb": "https://www.cadizcf.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/cadizclubdefutbol/?hl=es",
-        "https://twitter.com/Cadiz_CF?s=20",
-        "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Jeremias Ledesma",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jer/100/45051.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "David Gil",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/36067.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Fali",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fal/100/31008.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Mamadou Mbaye",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mam/100/40853.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Álex Fernández",
-          "position": "Defensa",
-          "number": 8,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/20379.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Luis Hernández",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Genar Fornés",
-          "position": "Defensa",
-          "number": 27,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Victor Chust",
-          "position": "Defensa",
-          "number": 32,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Cala",
-          "position": "Defensa",
-          "number": 0,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Rubén Alcaraz",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "José Mari",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Rubén Sobrino",
-          "position": "Centrocampista",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Iza",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Santiago Arzamendia",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Luis Espino",
-          "position": "Centrocampista",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Fede",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Álvaro Bastida",
-          "position": "Centrocampista",
-          "number": 38,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Zaldua",
-          "position": "Centrocampista",
-          "number": 0,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Lozano",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "T. Bongonda",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Iván Alejo",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Brian Ocampo",
-          "position": "Delantero",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Negredo",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 28,
-    "wins": 7,
-    "loses": 12,
-    "draws": 9,
     "goalsScored": 27,
     "goalsConceded": 36,
-    "points": 30,
+    "points": 31,
     "team": {
       "id": "getafe",
       "name": "Getafe",
@@ -3110,12 +2927,195 @@
     }
   },
   {
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
+    "wins": 7,
+    "loses": 12,
+    "draws": 10,
+    "goalsScored": 23,
+    "goalsConceded": 42,
+    "points": 31,
+    "team": {
+      "id": "cadiz",
+      "name": "Cádiz",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
+      "urlWeb": "https://www.cadizcf.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/cadizclubdefutbol/?hl=es",
+        "https://twitter.com/Cadiz_CF?s=20",
+        "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Jeremias Ledesma",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jer/100/45051.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "David Gil",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/36067.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Fali",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fal/100/31008.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Mamadou Mbaye",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mam/100/40853.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Álex Fernández",
+          "position": "Defensa",
+          "number": 8,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/20379.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Luis Hernández",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Genar Fornés",
+          "position": "Defensa",
+          "number": 27,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Victor Chust",
+          "position": "Defensa",
+          "number": 32,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Cala",
+          "position": "Defensa",
+          "number": 0,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Rubén Alcaraz",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "José Mari",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Rubén Sobrino",
+          "position": "Centrocampista",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Iza",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Santiago Arzamendia",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Luis Espino",
+          "position": "Centrocampista",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Fede",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Álvaro Bastida",
+          "position": "Centrocampista",
+          "number": 38,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Zaldua",
+          "position": "Centrocampista",
+          "number": 0,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Lozano",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "T. Bongonda",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Iván Alejo",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Brian Ocampo",
+          "position": "Delantero",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Negredo",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 29,
     "wins": 8,
-    "loses": 14,
+    "loses": 15,
     "draws": 6,
-    "goalsScored": 34,
-    "goalsConceded": 48,
+    "goalsScored": 35,
+    "goalsConceded": 50,
     "points": 30,
     "team": {
       "id": "almeria",
@@ -3307,12 +3307,12 @@
     }
   },
   {
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
     "wins": 7,
-    "loses": 15,
+    "loses": 16,
     "draws": 6,
     "goalsScored": 30,
-    "goalsConceded": 34,
+    "goalsConceded": 36,
     "points": 27,
     "team": {
       "id": "valencia",
@@ -3729,12 +3729,12 @@
     }
   },
   {
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
     "wins": 2,
-    "loses": 19,
+    "loses": 20,
     "draws": 7,
     "goalsScored": 20,
-    "goalsConceded": 57,
+    "goalsConceded": 59,
     "points": 13,
     "team": {
       "id": "elche",
