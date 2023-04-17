@@ -1963,12 +1963,209 @@
     }
   },
   {
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
+    "wins": 10,
+    "loses": 12,
+    "draws": 7,
+    "goalsScored": 26,
+    "goalsConceded": 30,
+    "points": 37,
+    "team": {
+      "id": "mallorca",
+      "name": "Mallorca",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-mallorca.svg",
+      "urlWeb": "https://www.rcdmallorca.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
+        "https://twitter.com/RCD_Mallorca?s=20",
+        "https://www.tiktok.com/@realmallorcaoficial?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Predrag Rajkovic",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pre/100/32395.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Dominik Greif",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dom/100/46488.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Leo Román",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/l/leo/100/47934.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Pere García",
+          "position": "Portero",
+          "number": 33,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/per/100/47452.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Nastasic",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/n/nas/100/21028.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Copete",
+          "position": "Defensa",
+          "number": 6,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cop/100/48860.jpg",
+          "team": "mallorca"
+        },
+        {
+          "name": "Raíllo",
+          "position": "Defensa",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Valjent",
+          "position": "Defensa",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Josep Gaya",
+          "position": "Defensa",
+          "number": 29,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Ruiz de Galarreta",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Grenier",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Antonio Sánchez",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Iddrisu Baba",
+          "position": "Centrocampista",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Dani",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Pablo Maffeo",
+          "position": "Centrocampista",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Battaglia",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Jaume Costa",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Lee Kang-In",
+          "position": "Centrocampista",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Giovanni González",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Braian Cufré",
+          "position": "Delantero",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Muriqi",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Abdón Prats",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Tinotenda Kadewere",
+          "position": "Delantero",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Ángel",
+          "position": "Delantero",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        },
+        {
+          "name": "Amath",
+          "position": "Delantero",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "mallorca"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 29,
     "wins": 9,
-    "loses": 10,
+    "loses": 11,
     "draws": 9,
     "goalsScored": 36,
-    "goalsConceded": 39,
+    "goalsConceded": 40,
     "points": 36,
     "team": {
       "id": "celta",
@@ -2359,203 +2556,6 @@
           "number": 41,
           "image": "//as01.epimg.net/t.gif",
           "team": "sevilla"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 28,
-    "wins": 9,
-    "loses": 12,
-    "draws": 7,
-    "goalsScored": 25,
-    "goalsConceded": 30,
-    "points": 34,
-    "team": {
-      "id": "mallorca",
-      "name": "Mallorca",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-mallorca.svg",
-      "urlWeb": "https://www.rcdmallorca.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/rcdmallorcaoficial/?hl=es",
-        "https://twitter.com/RCD_Mallorca?s=20",
-        "https://www.tiktok.com/@realmallorcaoficial?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Predrag Rajkovic",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/pre/100/32395.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Dominik Greif",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dom/100/46488.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Leo Román",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/l/leo/100/47934.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Pere García",
-          "position": "Portero",
-          "number": 33,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/p/per/100/47452.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Nastasic",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/n/nas/100/21028.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Copete",
-          "position": "Defensa",
-          "number": 6,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cop/100/48860.jpg",
-          "team": "mallorca"
-        },
-        {
-          "name": "Raíllo",
-          "position": "Defensa",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Valjent",
-          "position": "Defensa",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Josep Gaya",
-          "position": "Defensa",
-          "number": 29,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Ruiz de Galarreta",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Grenier",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Antonio Sánchez",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Iddrisu Baba",
-          "position": "Centrocampista",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Dani",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Pablo Maffeo",
-          "position": "Centrocampista",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Battaglia",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Jaume Costa",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Lee Kang-In",
-          "position": "Centrocampista",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Giovanni González",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Braian Cufré",
-          "position": "Delantero",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Muriqi",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Abdón Prats",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Tinotenda Kadewere",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Ángel",
-          "position": "Delantero",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
-        },
-        {
-          "name": "Amath",
-          "position": "Delantero",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "mallorca"
         }
       ]
     }
