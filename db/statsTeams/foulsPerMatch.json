@@ -2,16 +2,16 @@
   {
     "type": "Faltas por partido",
     "position": 1,
-    "value": 16.76,
-    "name": "Mallorca",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+    "value": 16.21,
+    "name": "R. Sociedad",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Faltas por partido",
     "position": 2,
-    "value": 16.21,
-    "name": "R. Sociedad",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+    "value": 16.1,
+    "name": "Mallorca",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Faltas por partido",
@@ -65,23 +65,23 @@
   {
     "type": "Faltas por partido",
     "position": 10,
-    "value": 12.55,
-    "name": "Celta",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
-  },
-  {
-    "type": "Faltas por partido",
-    "position": 11,
     "value": 12.52,
     "name": "Espanyol",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Faltas por partido",
-    "position": 12,
+    "position": 11,
     "value": 12.24,
     "name": "Atlético",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
+  },
+  {
+    "type": "Faltas por partido",
+    "position": 12,
+    "value": 12.21,
+    "name": "Celta",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
   },
   {
     "type": "Faltas por partido",

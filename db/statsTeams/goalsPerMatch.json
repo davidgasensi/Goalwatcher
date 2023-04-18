@@ -107,23 +107,23 @@
   {
     "type": "Goles por partido",
     "position": 16,
-    "value": 0.9,
-    "name": "Mallorca",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
-  },
-  {
-    "type": "Goles por partido",
-    "position": 17,
     "value": 0.86,
     "name": "Osasuna",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   },
   {
     "type": "Goles por partido",
-    "position": 18,
+    "position": 17,
     "value": 0.86,
     "name": "Valladolid",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 18,
+    "value": 0.86,
+    "name": "Mallorca",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Goles por partido",
