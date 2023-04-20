@@ -1,26 +1,5 @@
 [
   {
-    "title": "Beccacece, el último cartucho del Elche",
-    "link": "https://www.sport.es/es/noticias/elche/beccacece-ultimo-cartucho-elche-84962435",
-    "image": "https://estaticos-cdn.sport.es/clip/d977646a-55bb-4367-b3bc-dbffdeeed06e_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1679407940272,
-    "domain": "sport"
-  },
-  {
-    "title": "Alaba se mete en un lío",
-    "link": "https://www.sport.es/es/noticias/real-madrid/alaba-mete-lio-84959976",
-    "image": "https://estaticos-cdn.sport.es/clip/3a5ea4a5-0618-4aa6-aefb-5f21e7c1750b_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1679407940274,
-    "domain": "sport"
-  },
-  {
-    "title": "Carvajal se pronuncia sobre el gol anulado al Madrid en el clásico",
-    "link": "https://www.sport.es/es/noticias/real-madrid/carvajal-pronuncia-gol-anulado-madrid-84961320",
-    "image": "https://estaticos-cdn.sport.es/clip/830e08e1-e628-44e1-88a1-a8ae6743610f_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1679407940274,
-    "domain": "sport"
-  },
-  {
     "title": "Sorteamos tres entradas dobles para el partido Girona FC – RCD Espanyol",
     "link": "https://www.sport.es/es/noticias/girona/girona-fc-rcd-espanyol-vive-sorteo-entradas-partido-futbol-liga-84965956",
     "image": "https://estaticos-cdn.sport.es/clip/c74dbcaf-9121-4bf3-9908-404beefa6c9b_16-9-aspect-ratio_50p_0.jpg",
@@ -7900,5 +7879,19 @@
     "image": "https://img.asmedia.epimg.net/resizer/KzECPw27cBbVMKQIwqvdJbFZuAA=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2A352UV2CVHETPV2IOWCAXTZCU.jpg",
     "createDate": 1681996739594,
     "domain": "as"
+  },
+  {
+    "title": "Fallece Josep Maria Fusté, mítico jugador del Barcelona",
+    "link": "https://as.com/futbol/primera/fallece-josep-maria-fuste-mitico-jugador-del-barcelona-de-los-anos-sesenta-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/KzECPw27cBbVMKQIwqvdJbFZuAA=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2A352UV2CVHETPV2IOWCAXTZCU.jpg",
+    "createDate": 1682000020146,
+    "domain": "as"
+  },
+  {
+    "title": "Pura emoción en la despedida de Joaquín",
+    "link": "https://www.sport.es/es/noticias/betis/pura-emocion-despedida-joaquin-86261910",
+    "image": "https://estaticos-cdn.sport.es/clip/0e639e2a-7032-44be-a77e-290fbe33b84c_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1682000021075,
+    "domain": "sport"
   }
 ]

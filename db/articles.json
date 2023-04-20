@@ -1,5 +1,12 @@
 [
   {
+    "title": "Pura emoción en la despedida de Joaquín",
+    "link": "https://www.sport.es/es/noticias/betis/pura-emocion-despedida-joaquin-86261910",
+    "image": "https://estaticos-cdn.sport.es/clip/0e639e2a-7032-44be-a77e-290fbe33b84c_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1682000021075,
+    "domain": "sport"
+  },
+  {
     "title": "Toda la rueda de prensa",
     "link": "https://www.sport.es/es/noticias/betis/anuncio-retirada-joaquin-sanchez-directo-86253040",
     "image": "https://estaticos-cdn.sport.es/clip/f3cce663-e05c-4d1e-80e6-6bb4d2f2707f_baja-aspect-ratio_default_0.jpg",
@@ -200,6 +207,13 @@
     "link": "https://as.com/futbol/primera/fallece-josep-maria-fuste-mitico-jugador-del-barcelona-de-los-anos-sesenta-n/",
     "image": "https://img.asmedia.epimg.net/resizer/KzECPw27cBbVMKQIwqvdJbFZuAA=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2A352UV2CVHETPV2IOWCAXTZCU.jpg",
     "createDate": 1681996739594,
+    "domain": "as"
+  },
+  {
+    "title": "Fallece Josep Maria Fusté, mítico jugador del Barcelona",
+    "link": "https://as.com/futbol/primera/fallece-josep-maria-fuste-mitico-jugador-del-barcelona-de-los-anos-sesenta-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/KzECPw27cBbVMKQIwqvdJbFZuAA=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2A352UV2CVHETPV2IOWCAXTZCU.jpg",
+    "createDate": 1682000020146,
     "domain": "as"
   }
 ]
