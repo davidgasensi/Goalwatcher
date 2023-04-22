@@ -37,36 +37,36 @@
   {
     "type": "Zamora",
     "position": 6,
-    "value": 26,
+    "value": 27,
     "name": "Unai Simón",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Zamora",
     "position": 7,
-    "value": 25,
-    "name": "Rui Silva",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
-  },
-  {
-    "type": "Zamora",
-    "position": 8,
     "value": 31,
     "name": "Stole Dimitrievski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Zamora",
+    "position": 8,
+    "value": 28,
+    "name": "Rui Silva",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+  },
+  {
+    "type": "Zamora",
     "position": 9,
     "value": 36,
-    "name": "David Soria",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "name": "Giorgi Mamardashvili",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
   {
     "type": "Zamora",
     "position": 10,
     "value": 36,
-    "name": "Giorgi Mamardashvili",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+    "name": "David Soria",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   }
 ]
