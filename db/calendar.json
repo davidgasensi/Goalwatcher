@@ -1700,22 +1700,22 @@
       },
       {
         "team1": "Atlético",
-        "result": "30h",
+        "result": "3-1",
         "team2": "Mallorca"
       },
       {
         "team1": "Getafe",
-        "result": "30h",
+        "result": "1-2",
         "team2": "Almería"
       },
       {
         "team1": "Celta",
-        "result": "00h",
+        "result": "1-0",
         "team2": "Elche"
       },
       {
         "team1": "Rayo",
-        "result": "00h",
+        "result": "2-1",
         "team2": "FC Barcelona"
       },
       {
@@ -1849,57 +1849,57 @@
   },
   {
     "numJornada": "Jornada 34",
-    "date": "14 de mayo",
+    "date": "12, 13, 14 y 15 de mayo",
     "matches": [
       {
         "team1": "Mallorca",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Cádiz"
       },
       {
-        "team1": "Celta",
-        "result": "Por definir",
-        "team2": "Valencia"
-      },
-      {
-        "team1": "Valladolid",
-        "result": "Por definir",
-        "team2": "Sevilla"
-      },
-      {
-        "team1": "Espanyol",
-        "result": "Por definir",
-        "team2": "FC Barcelona"
-      },
-      {
-        "team1": "Elche",
-        "result": "Por definir",
-        "team2": "Atlético"
-      },
-      {
         "team1": "R. Sociedad",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Girona"
       },
       {
         "team1": "Osasuna",
-        "result": "Por definir",
+        "result": "15h",
         "team2": "Almería"
       },
       {
-        "team1": "Betis",
-        "result": "Por definir",
-        "team2": "Rayo"
-      },
-      {
         "team1": "Villarreal",
-        "result": "Por definir",
+        "result": "30h",
         "team2": "Athletic"
       },
       {
         "team1": "Real Madrid",
-        "result": "Por definir",
+        "result": "00h",
         "team2": "Getafe"
+      },
+      {
+        "team1": "Celta",
+        "result": "00h",
+        "team2": "Valencia"
+      },
+      {
+        "team1": "Elche",
+        "result": "15h",
+        "team2": "Atlético"
+      },
+      {
+        "team1": "Valladolid",
+        "result": "30h",
+        "team2": "Sevilla"
+      },
+      {
+        "team1": "Espanyol",
+        "result": "00h",
+        "team2": "FC Barcelona"
+      },
+      {
+        "team1": "Betis",
+        "result": "00h",
+        "team2": "Rayo"
       }
     ]
   },

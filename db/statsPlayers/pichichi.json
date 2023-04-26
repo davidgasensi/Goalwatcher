@@ -2,7 +2,7 @@
   {
     "type": "Pichichi",
     "position": 1,
-    "value": 17,
+    "value": 18,
     "name": "Robert Lewandowski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -59,14 +59,14 @@
     "type": "Pichichi",
     "position": 9,
     "value": 11,
-    "name": "Antoine Griezmann",
+    "name": "Álvaro Morata",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Pichichi",
     "position": 10,
-    "value": 10,
-    "name": "Alexander Sorloth",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+    "value": 11,
+    "name": "Antoine Griezmann",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   }
 ]

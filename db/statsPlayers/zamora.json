@@ -2,7 +2,7 @@
   {
     "type": "Zamora",
     "position": 1,
-    "value": 9,
+    "value": 11,
     "name": "Marc-André ter Stegen",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -30,16 +30,16 @@
   {
     "type": "Zamora",
     "position": 5,
-    "value": 31,
-    "name": "Predrag Rajkovic",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+    "value": 27,
+    "name": "Unai Simón",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Zamora",
     "position": 6,
-    "value": 27,
-    "name": "Unai Simón",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+    "value": 34,
+    "name": "Predrag Rajkovic",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Zamora",
@@ -51,7 +51,7 @@
   {
     "type": "Zamora",
     "position": 8,
-    "value": 33,
+    "value": 34,
     "name": "Stole Dimitrievski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
