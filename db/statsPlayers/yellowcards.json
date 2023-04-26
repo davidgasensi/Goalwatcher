@@ -24,22 +24,22 @@
     "type": "Tarjetas amarillas",
     "position": 4,
     "value": 11,
+    "name": "Martin Zubimendi",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 5,
+    "value": 11,
     "name": "Jose Angel Carmona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 5,
+    "position": 6,
     "value": 10,
     "name": "Roque Mesa",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valladolid.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 6,
-    "value": 10,
-    "name": "Martin Zubimendi",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Tarjetas amarillas",
@@ -59,14 +59,14 @@
     "type": "Tarjetas amarillas",
     "position": 9,
     "value": 10,
-    "name": "Antonio Raíllo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+    "name": "Arnau Martinez",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 10,
     "value": 10,
-    "name": "Jaume Costa",
+    "name": "Antonio Raíllo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   }
 ]
