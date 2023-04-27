@@ -2,30 +2,30 @@
   {
     "type": "Goles en contra",
     "position": 1,
-    "value": 59,
+    "value": 60,
     "name": "Edgar Badia",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   },
   {
     "type": "Goles en contra",
     "position": 2,
-    "value": 48,
+    "value": 49,
     "name": "Fernando Martínez",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
   },
   {
     "type": "Goles en contra",
     "position": 3,
-    "value": 39,
-    "name": "Yassine Bounou",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
+    "value": 41,
+    "name": "David Soria",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Goles en contra",
     "position": 4,
     "value": 39,
-    "name": "David Soria",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "name": "Yassine Bounou",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Goles en contra",
@@ -44,14 +44,14 @@
   {
     "type": "Goles en contra",
     "position": 7,
-    "value": 33,
+    "value": 34,
     "name": "Stole Dimitrievski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles en contra",
     "position": 8,
-    "value": 31,
+    "value": 34,
     "name": "Predrag Rajkovic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
