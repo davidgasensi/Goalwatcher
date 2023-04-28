@@ -1,5 +1,12 @@
 [
   {
+    "title": "\"¿El 'caso Negreira'? No me ha extrañado nada\"",
+    "link": "https://www.sport.es/es/noticias/espanyol/sanchez-llibre-caso-negreira-extranado-86643681",
+    "image": "https://estaticos-cdn.sport.es/clip/045ecef6-b820-46e0-85dc-f0ae26cf30df_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1682716343529,
+    "domain": "sport"
+  },
+  {
     "title": "El club del póker del Girona",
     "link": "https://www.sport.es/es/noticias/girona/club-poker-girona-86640623",
     "image": "https://estaticos-cdn.sport.es/clip/a2b55fbe-4c99-4ec9-b42f-814a53efca1c_16-9-aspect-ratio_50p_0.jpg",
@@ -214,6 +221,13 @@
     "link": "https://as.com/futbol/bordalas-da-el-ok-y-entrenara-al-getafe-n/",
     "image": "https://img.asmedia.epimg.net/resizer/XgRkZCA-MHgFMJ7Nf53QWcKfxHw=/360x203/filters:focal(422x351:432x361)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/WO324YEHUYPB7MR546TEUNQB64.jpg",
     "createDate": 1682705848716,
+    "domain": "as"
+  },
+  {
+    "title": "Triunfo de Champions",
+    "link": "https://as.com/futbol/primera/osasuna-real-sociedad-en-directo-laliga-santander-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/qU69XkhTkUft5Ja2JekWv_AUmHI=/360x203/filters:focal(2238x26:2224x36)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NU6F34NXIQD6KPOKXSOE2PRGNU.jpg",
+    "createDate": 1682716342358,
     "domain": "as"
   }
 ]
