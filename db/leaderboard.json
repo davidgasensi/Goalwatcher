@@ -605,13 +605,13 @@
     }
   },
   {
-    "gamesPlayed": 31,
-    "wins": 16,
+    "gamesPlayed": 32,
+    "wins": 17,
     "loses": 8,
     "draws": 7,
-    "goalsScored": 39,
+    "goalsScored": 41,
     "goalsConceded": 29,
-    "points": 55,
+    "points": 58,
     "team": {
       "id": "rsociedad",
       "name": "R. Sociedad",
@@ -1393,12 +1393,12 @@
     }
   },
   {
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "wins": 12,
-    "loses": 11,
+    "loses": 12,
     "draws": 8,
     "goalsScored": 29,
-    "goalsConceded": 32,
+    "goalsConceded": 34,
     "points": 44,
     "team": {
       "id": "osasuna",
