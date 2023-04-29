@@ -1,12 +1,12 @@
 [
   {
-    "gamesPlayed": 31,
-    "wins": 24,
+    "gamesPlayed": 32,
+    "wins": 25,
     "loses": 3,
     "draws": 4,
-    "goalsScored": 55,
+    "goalsScored": 59,
     "goalsConceded": 11,
-    "points": 76,
+    "points": 79,
     "team": {
       "id": "barcelona",
       "name": "FC Barcelona",
@@ -190,13 +190,13 @@
     }
   },
   {
-    "gamesPlayed": 31,
-    "wins": 20,
+    "gamesPlayed": 32,
+    "wins": 21,
     "loses": 6,
     "draws": 5,
-    "goalsScored": 65,
-    "goalsConceded": 28,
-    "points": 65,
+    "goalsScored": 69,
+    "goalsConceded": 30,
+    "points": 68,
     "team": {
       "id": "realmadrid",
       "name": "Real Madrid",
@@ -1006,12 +1006,12 @@
     }
   },
   {
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "wins": 14,
-    "loses": 10,
+    "loses": 11,
     "draws": 7,
     "goalsScored": 39,
-    "goalsConceded": 33,
+    "goalsConceded": 37,
     "points": 49,
     "team": {
       "id": "betis",
@@ -1576,12 +1576,12 @@
     }
   },
   {
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "wins": 11,
-    "loses": 10,
+    "loses": 11,
     "draws": 10,
     "goalsScored": 38,
-    "goalsConceded": 37,
+    "goalsConceded": 41,
     "points": 43,
     "team": {
       "id": "rayo",
@@ -2723,12 +2723,12 @@
     }
   },
   {
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "wins": 9,
-    "loses": 16,
+    "loses": 17,
     "draws": 6,
-    "goalsScored": 38,
-    "goalsConceded": 53,
+    "goalsScored": 40,
+    "goalsConceded": 57,
     "points": 33,
     "team": {
       "id": "almeria",
@@ -3729,13 +3729,13 @@
     }
   },
   {
-    "gamesPlayed": 31,
-    "wins": 2,
+    "gamesPlayed": 32,
+    "wins": 3,
     "loses": 22,
     "draws": 7,
-    "goalsScored": 20,
+    "goalsScored": 24,
     "goalsConceded": 62,
-    "points": 13,
+    "points": 16,
     "team": {
       "id": "elche",
       "name": "Elche",

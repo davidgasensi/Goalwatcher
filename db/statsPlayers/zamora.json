@@ -16,16 +16,16 @@
   {
     "type": "Zamora",
     "position": 3,
-    "value": 21,
-    "name": "Thibaut Courtois",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
+    "value": 29,
+    "name": "Álex Remiro",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Zamora",
     "position": 4,
-    "value": 29,
-    "name": "Álex Remiro",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+    "value": 23,
+    "name": "Thibaut Courtois",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Zamora",
@@ -44,23 +44,23 @@
   {
     "type": "Zamora",
     "position": 7,
-    "value": 28,
-    "name": "Rui Silva",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
-  },
-  {
-    "type": "Zamora",
-    "position": 8,
     "value": 37,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
   {
     "type": "Zamora",
-    "position": 9,
+    "position": 8,
     "value": 38,
     "name": "Stole Dimitrievski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+  },
+  {
+    "type": "Zamora",
+    "position": 9,
+    "value": 32,
+    "name": "Rui Silva",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Zamora",
