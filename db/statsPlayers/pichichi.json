@@ -16,7 +16,7 @@
   {
     "type": "Pichichi",
     "position": 3,
-    "value": 13,
+    "value": 14,
     "name": "Jose Luis Joselu",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
@@ -51,16 +51,16 @@
   {
     "type": "Pichichi",
     "position": 8,
-    "value": 11,
-    "name": "Valentin Castellanos",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "value": 12,
+    "name": "Álvaro Morata",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Pichichi",
     "position": 9,
     "value": 11,
-    "name": "Álvaro Morata",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
+    "name": "Valentin Castellanos",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Pichichi",
