@@ -2,14 +2,14 @@
   {
     "type": "Goles por partido",
     "position": 1,
-    "value": 2.03,
+    "value": 2.16,
     "name": "Real Madrid",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Goles por partido",
     "position": 2,
-    "value": 1.72,
+    "value": 1.84,
     "name": "FC Barcelona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -51,30 +51,30 @@
   {
     "type": "Goles por partido",
     "position": 8,
+    "value": 1.25,
+    "name": "Almería",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 9,
     "value": 1.22,
     "name": "Betis",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Goles por partido",
-    "position": 9,
+    "position": 10,
     "value": 1.19,
     "name": "Sevilla",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Goles por partido",
-    "position": 10,
+    "position": 11,
     "value": 1.19,
     "name": "Rayo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
-  },
-  {
-    "type": "Goles por partido",
-    "position": 11,
-    "value": 1.19,
-    "name": "Almería",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
   },
   {
     "type": "Goles por partido",
@@ -128,15 +128,15 @@
   {
     "type": "Goles por partido",
     "position": 19,
-    "value": 0.72,
-    "name": "Cádiz",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+    "value": 0.75,
+    "name": "Elche",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   },
   {
     "type": "Goles por partido",
     "position": 20,
-    "value": 0.63,
-    "name": "Elche",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
+    "value": 0.72,
+    "name": "Cádiz",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   }
 ]

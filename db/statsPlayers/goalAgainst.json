@@ -9,7 +9,7 @@
   {
     "type": "Goles en contra",
     "position": 2,
-    "value": 49,
+    "value": 53,
     "name": "Fernando Martínez",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
   },
@@ -31,22 +31,22 @@
     "type": "Goles en contra",
     "position": 5,
     "value": 38,
+    "name": "Stole Dimitrievski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+  },
+  {
+    "type": "Goles en contra",
+    "position": 6,
+    "value": 38,
     "name": "Jeremías Ledesma",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Goles en contra",
-    "position": 6,
+    "position": 7,
     "value": 37,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
-  },
-  {
-    "type": "Goles en contra",
-    "position": 7,
-    "value": 34,
-    "name": "Stole Dimitrievski",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles en contra",
@@ -58,15 +58,15 @@
   {
     "type": "Goles en contra",
     "position": 9,
-    "value": 29,
-    "name": "Agustín Marchesín",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
+    "value": 32,
+    "name": "Rui Silva",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Goles en contra",
     "position": 10,
     "value": 29,
-    "name": "Álex Remiro",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
+    "name": "Agustín Marchesín",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
   }
 ]
