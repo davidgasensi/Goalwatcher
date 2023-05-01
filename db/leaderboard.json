@@ -1189,13 +1189,13 @@
     }
   },
   {
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "wins": 13,
     "loses": 11,
-    "draws": 7,
-    "goalsScored": 42,
-    "goalsConceded": 31,
-    "points": 46,
+    "draws": 8,
+    "goalsScored": 43,
+    "goalsConceded": 32,
+    "points": 47,
     "team": {
       "id": "athletic",
       "name": "Athletic",
@@ -1388,6 +1388,196 @@
           "number": 12,
           "image": "//as01.epimg.net/t.gif",
           "team": "athletic"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 32,
+    "wins": 12,
+    "loses": 12,
+    "draws": 8,
+    "goalsScored": 50,
+    "goalsConceded": 45,
+    "points": 44,
+    "team": {
+      "id": "girona",
+      "name": "Girona",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-girona.svg",
+      "urlWeb": "https://www.gironafc.cat/es",
+      "socialNetworks": [
+        "https://www.instagram.com/gironafc/?hl=es",
+        "https://twitter.com/GironaFC?s=20",
+        "https://www.tiktok.com/@gironafc"
+      ],
+      "players": [
+        {
+          "name": "Juan Carlos",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/19459.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Gazzaniga",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gaz/100/20753.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Toni Fuidias",
+          "position": "Portero",
+          "number": 26,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/t/ton/100/46262.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Bernardo",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/b/ber/100/18008.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "Arnau Martinez",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/arn/100/48398.jpg",
+          "team": "girona"
+        },
+        {
+          "name": "David López",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Juanpe",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Yan Couto",
+          "position": "Defensa",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Santi Bueno",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Miguel Gutierrez",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Ibrahima Kebe",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Valery Fernández",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Aleix García",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Javi Hernández",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Rodrigo Riquelme",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Oriol Romeu",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Reinier Carvalho",
+          "position": "Centrocampista",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Yangel Herrera",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Iván Martín",
+          "position": "Centrocampista",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Borja García",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Ricard Artero",
+          "position": "Centrocampista",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Stuani",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Valentín Castellano",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
+        },
+        {
+          "name": "Toni Villa",
+          "position": "Delantero",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "girona"
         }
       ]
     }
@@ -1773,202 +1963,12 @@
     }
   },
   {
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "wins": 11,
-    "loses": 12,
-    "draws": 8,
-    "goalsScored": 48,
-    "goalsConceded": 45,
-    "points": 41,
-    "team": {
-      "id": "girona",
-      "name": "Girona",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-girona.svg",
-      "urlWeb": "https://www.gironafc.cat/es",
-      "socialNetworks": [
-        "https://www.instagram.com/gironafc/?hl=es",
-        "https://twitter.com/GironaFC?s=20",
-        "https://www.tiktok.com/@gironafc"
-      ],
-      "players": [
-        {
-          "name": "Juan Carlos",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jua/100/19459.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Gazzaniga",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gaz/100/20753.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Toni Fuidias",
-          "position": "Portero",
-          "number": 26,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/t/ton/100/46262.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Bernardo",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/b/ber/100/18008.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "Arnau Martinez",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/arn/100/48398.jpg",
-          "team": "girona"
-        },
-        {
-          "name": "David López",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Juanpe",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Yan Couto",
-          "position": "Defensa",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Santi Bueno",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Miguel Gutierrez",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Ibrahima Kebe",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Valery Fernández",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Aleix García",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Javi Hernández",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Rodrigo Riquelme",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Oriol Romeu",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Reinier Carvalho",
-          "position": "Centrocampista",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Yangel Herrera",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Iván Martín",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Borja García",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Ricard Artero",
-          "position": "Centrocampista",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Stuani",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Valentín Castellano",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        },
-        {
-          "name": "Toni Villa",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "girona"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 31,
-    "wins": 11,
-    "loses": 12,
+    "loses": 13,
     "draws": 8,
     "goalsScored": 38,
-    "goalsConceded": 45,
+    "goalsConceded": 47,
     "points": 41,
     "team": {
       "id": "sevilla",
@@ -2174,13 +2174,13 @@
     }
   },
   {
-    "gamesPlayed": 31,
+    "gamesPlayed": 32,
     "wins": 11,
     "loses": 13,
-    "draws": 7,
-    "goalsScored": 30,
-    "goalsConceded": 34,
-    "points": 40,
+    "draws": 8,
+    "goalsScored": 31,
+    "goalsConceded": 35,
+    "points": 41,
     "team": {
       "id": "mallorca",
       "name": "Mallorca",
