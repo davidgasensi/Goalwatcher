@@ -37,7 +37,7 @@
   {
     "type": "Zamora",
     "position": 6,
-    "value": 34,
+    "value": 35,
     "name": "Predrag Rajkovic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
@@ -58,15 +58,15 @@
   {
     "type": "Zamora",
     "position": 9,
-    "value": 32,
-    "name": "Rui Silva",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+    "value": 27,
+    "name": "Paulo Gazzaniga",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Zamora",
     "position": 10,
-    "value": 27,
-    "name": "Paulo Gazzaniga",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "value": 32,
+    "name": "Rui Silva",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   }
 ]
