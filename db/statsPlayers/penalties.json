@@ -31,36 +31,36 @@
     "type": "Penaltis",
     "position": 5,
     "value": 4,
+    "name": "Jose Luis Joselu",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 6,
+    "value": 4,
+    "name": "Dani Parejo",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+  },
+  {
+    "type": "Penaltis",
+    "position": 7,
+    "value": 4,
     "name": "Vedat Muriqi",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Penaltis",
-    "position": 6,
+    "position": 8,
     "value": 3,
     "name": "Ezequiel Ávila",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/osasuna.png"
   },
   {
     "type": "Penaltis",
-    "position": 7,
+    "position": 9,
     "value": 3,
     "name": "Iago Aspas",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/celta.png"
-  },
-  {
-    "type": "Penaltis",
-    "position": 8,
-    "value": 3,
-    "name": "Jose Luis Joselu",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
-  },
-  {
-    "type": "Penaltis",
-    "position": 9,
-    "value": 3,
-    "name": "Dani Parejo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Penaltis",
