@@ -23,7 +23,7 @@
   {
     "type": "Goles por partido",
     "position": 4,
-    "value": 1.5,
+    "value": 1.56,
     "name": "Girona",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
@@ -37,7 +37,7 @@
   {
     "type": "Goles por partido",
     "position": 6,
-    "value": 1.31,
+    "value": 1.34,
     "name": "Athletic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
@@ -100,7 +100,7 @@
   {
     "type": "Goles por partido",
     "position": 15,
-    "value": 0.94,
+    "value": 0.97,
     "name": "Mallorca",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
