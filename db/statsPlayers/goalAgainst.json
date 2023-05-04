@@ -16,30 +16,30 @@
   {
     "type": "Goles en contra",
     "position": 3,
+    "value": 44,
+    "name": "Jeremías Ledesma",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Goles en contra",
+    "position": 4,
     "value": 42,
     "name": "David Soria",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Goles en contra",
-    "position": 4,
-    "value": 39,
-    "name": "Yassine Bounou",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
-  },
-  {
-    "type": "Goles en contra",
     "position": 5,
-    "value": 39,
-    "name": "Jeremías Ledesma",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+    "value": 40,
+    "name": "Giorgi Mamardashvili",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
   {
     "type": "Goles en contra",
     "position": 6,
     "value": 39,
-    "name": "Giorgi Mamardashvili",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+    "name": "Yassine Bounou",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Goles en contra",
