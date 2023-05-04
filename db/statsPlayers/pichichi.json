@@ -31,36 +31,36 @@
     "type": "Pichichi",
     "position": 5,
     "value": 13,
+    "name": "Vedat Muriqi",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 6,
+    "value": 13,
+    "name": "Valentin Castellanos",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+  },
+  {
+    "type": "Pichichi",
+    "position": 7,
+    "value": 13,
     "name": "Álvaro Morata",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Pichichi",
-    "position": 6,
+    "position": 8,
     "value": 13,
     "name": "Antoine Griezmann",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Pichichi",
-    "position": 7,
+    "position": 9,
     "value": 12,
     "name": "Borja Iglesias",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
-  },
-  {
-    "type": "Pichichi",
-    "position": 8,
-    "value": 12,
-    "name": "Vedat Muriqi",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
-  },
-  {
-    "type": "Pichichi",
-    "position": 9,
-    "value": 12,
-    "name": "Valentin Castellanos",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Pichichi",
