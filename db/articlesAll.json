@@ -9132,5 +9132,19 @@
     "image": "https://img.asmedia.epimg.net/resizer/XJYInHEj2WRbP7sXloS5EbYr3GQ=/240x135/filters:focal(2046x1395:2000x1405)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/3RXEDDU7A6YGK4AS5LKM3TH7MA.jpg",
     "createDate": 1683349974576,
     "domain": "as"
+  },
+  {
+    "title": "¿Hay caso Endrick?",
+    "link": "https://www.sport.es/es/noticias/real-madrid/hay-caso-endrick-86939741",
+    "image": "https://estaticos-cdn.sport.es/clip/31cc9253-262f-403e-af98-33b731b32f82_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1683353850139,
+    "domain": "sport"
+  },
+  {
+    "title": "¿el duelo que puede decidir la final?",
+    "link": "https://www.sport.es/es/noticias/osasuna/moncayola-vs-vinicius-duelo-decidir-86899966",
+    "image": "https://estaticos-cdn.sport.es/clip/9e10c159-b8fc-4272-8081-74a28c24de68_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1683353850141,
+    "domain": "sport"
   }
 ]
