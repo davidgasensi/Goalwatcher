@@ -1,19 +1,5 @@
 [
   {
-    "title": "Brian Oliván, descartado para el duelo contra el Betis",
-    "link": "https://www.sport.es/es/noticias/espanyol/brian-olivan-descartado-duelo-betis-85916947",
-    "image": "https://estaticos-cdn.sport.es/clip/c300a8c0-45a9-4ce5-b9d3-597973259bea_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1681308843879,
-    "domain": "sport"
-  },
-  {
-    "title": "Dos partidos de suspensión a Marcos Acuña y Aitor Ruibal",
-    "link": "https://www.sport.es/es/noticias/betis/partidos-suspension-marcos-acuna-aitor-85914791",
-    "image": "https://estaticos-cdn.sport.es/clip/96c96841-8ee3-4fe0-9ebe-825138e8cf46_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1681308843881,
-    "domain": "sport"
-  },
-  {
     "title": "Albelda 'baraja' volver al Valencia",
     "link": "https://www.sport.es/es/noticias/laliga/albelda-volver-valencia-academia-85921159",
     "image": "https://estaticos-cdn.sport.es/clip/8e17e6ff-86b7-428b-8b42-2526d816dc9f_16-9-aspect-ratio_50p_0.jpg",
@@ -8460,6 +8446,13 @@
     "link": "https://www.sport.es/es/noticias/espanyol/darder-guarda-silencio-pasillo-habla-87265580",
     "image": "https://estaticos-cdn.sport.es/clip/3bae5aad-b334-4f45-85c7-99b1a9ae7e21_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1683900767663,
+    "domain": "sport"
+  },
+  {
+    "title": "Mingueza recibe el alta médica dos meses y medio después",
+    "link": "https://www.sport.es/es/noticias/celta-de-vigo/mingueza-recibe-alta-medica-meses-87261582",
+    "image": "https://estaticos-cdn.sport.es/clip/bed85c76-f1d9-4bac-97fc-4a29bb8890c7_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1683904468605,
     "domain": "sport"
   }
 ]
