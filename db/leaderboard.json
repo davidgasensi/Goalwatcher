@@ -2174,13 +2174,13 @@
     }
   },
   {
-    "gamesPlayed": 33,
-    "wins": 11,
+    "gamesPlayed": 34,
+    "wins": 12,
     "loses": 14,
     "draws": 8,
-    "goalsScored": 32,
+    "goalsScored": 33,
     "goalsConceded": 37,
-    "points": 41,
+    "points": 44,
     "team": {
       "id": "mallorca",
       "name": "Mallorca",
@@ -2758,12 +2758,12 @@
     }
   },
   {
-    "gamesPlayed": 33,
+    "gamesPlayed": 34,
     "wins": 8,
-    "loses": 14,
+    "loses": 15,
     "draws": 11,
     "goalsScored": 26,
-    "goalsConceded": 49,
+    "goalsConceded": 50,
     "points": 35,
     "team": {
       "id": "cadiz",
