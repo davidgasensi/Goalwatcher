@@ -30,23 +30,23 @@
   {
     "type": "Zamora",
     "position": 5,
-    "value": 29,
-    "name": "Unai Simón",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
-  },
-  {
-    "type": "Zamora",
-    "position": 6,
     "value": 37,
     "name": "Predrag Rajkovic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Zamora",
-    "position": 7,
+    "position": 6,
     "value": 40,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
+  },
+  {
+    "type": "Zamora",
+    "position": 7,
+    "value": 34,
+    "name": "Unai Simón",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Zamora",
