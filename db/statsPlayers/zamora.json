@@ -16,7 +16,7 @@
   {
     "type": "Zamora",
     "position": 3,
-    "value": 29,
+    "value": 31,
     "name": "Álex Remiro",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
@@ -51,22 +51,22 @@
   {
     "type": "Zamora",
     "position": 8,
-    "value": 28,
-    "name": "Paulo Gazzaniga",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
-  },
-  {
-    "type": "Zamora",
-    "position": 9,
     "value": 39,
     "name": "Stole Dimitrievski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Zamora",
-    "position": 10,
+    "position": 9,
     "value": 32,
     "name": "Rui Silva",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+  },
+  {
+    "type": "Zamora",
+    "position": 10,
+    "value": 30,
+    "name": "Paulo Gazzaniga",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   }
 ]
