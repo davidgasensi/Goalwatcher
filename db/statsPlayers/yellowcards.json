@@ -23,50 +23,50 @@
   {
     "type": "Tarjetas amarillas",
     "position": 4,
+    "value": 12,
+    "name": "Iván Alejo",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 5,
+    "value": 12,
+    "name": "Iñigo Ruiz de Galarreta",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 6,
     "value": 11,
     "name": "Martin Zubimendi",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 5,
-    "value": 11,
-    "name": "Iván Alejo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 6,
+    "position": 7,
     "value": 11,
     "name": "Valentin Castellanos",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 7,
+    "position": 8,
     "value": 11,
     "name": "Antonio Raíllo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 8,
-    "value": 11,
-    "name": "Domingos Duarte",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
     "position": 9,
     "value": 11,
-    "name": "Carles Aleñá",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "name": "Jaume Costa",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 10,
     "value": 11,
-    "name": "Iñigo Ruiz de Galarreta",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+    "name": "Domingos Duarte",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   }
 ]
