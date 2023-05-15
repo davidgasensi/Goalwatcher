@@ -1,19 +1,5 @@
 [
   {
-    "title": "A Londres, de punta en blanco",
-    "link": "https://as.com/futbol/primera/a-londres-de-punta-en-blanco-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/jn92YVRe5jhBxHTjtHhjK236658=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/XMTCEK4APFFLQ6YR3MQMN2IIPU.jpg",
-    "createDate": 1681593144165,
-    "domain": "as"
-  },
-  {
-    "title": "\"Es un poco nuestra culpa estar tan lejos\"",
-    "link": "https://as.com/futbol/cadiz-real-madrid-en-directo-laliga-santander-hoy-en-vivo-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/WL0KuJA8xlGHnJaRfqKAgtFeLAo=/240x135/filters:focal(1625x505:1635x515)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TCRHL2KIICUU3SLKKQGE2NNNPI.JPG",
-    "createDate": 1681593144167,
-    "domain": "as"
-  },
-  {
     "title": "El Cádiz no pudo aguantar la embestida del Real Madrid",
     "link": "https://www.sport.es/es/noticias/real-madrid/cadiz-pudo-aguantar-embestida-real-86056750",
     "image": "https://estaticos-cdn.sport.es/clip/2f8a447b-39e2-47f4-846e-f0e9ac2d36d5_16-9-aspect-ratio_50p_0.jpg",
@@ -8551,5 +8537,12 @@
     "image": "https://img.asmedia.epimg.net/resizer/zILhslhzGMbUTF-v4bIdV9AsURw=/240x135/filters:focal(3522x2123:3532x2133)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ORL5QZKKUFGKNFTTFN2C3AQ2NQ.jpg",
     "createDate": 1684181693122,
     "domain": "as"
+  },
+  {
+    "title": "El Betis afianza su puesto europeo",
+    "link": "https://www.sport.es/es/noticias/laliga/betis-afianza-puesto-europeo-87406078",
+    "image": "https://estaticos-cdn.sport.es/clip/bb9d4b4e-eb73-4c5b-aedd-3824b6a75988_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1684185145028,
+    "domain": "sport"
   }
 ]
