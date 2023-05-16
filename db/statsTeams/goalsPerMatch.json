@@ -65,23 +65,23 @@
   {
     "type": "Goles por partido",
     "position": 10,
+    "value": 1.26,
+    "name": "Betis",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 11,
     "value": 1.24,
     "name": "Espanyol",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Goles por partido",
-    "position": 11,
-    "value": 1.18,
+    "position": 12,
+    "value": 1.21,
     "name": "Rayo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
-  },
-  {
-    "type": "Goles por partido",
-    "position": 12,
-    "value": 1.18,
-    "name": "Betis",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Goles por partido",

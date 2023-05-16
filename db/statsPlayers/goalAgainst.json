@@ -30,23 +30,23 @@
   {
     "type": "Goles en contra",
     "position": 5,
+    "value": 42,
+    "name": "Stole Dimitrievski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+  },
+  {
+    "type": "Goles en contra",
+    "position": 6,
     "value": 41,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
   {
     "type": "Goles en contra",
-    "position": 6,
+    "position": 7,
     "value": 39,
     "name": "Yassine Bounou",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
-  },
-  {
-    "type": "Goles en contra",
-    "position": 7,
-    "value": 39,
-    "name": "Stole Dimitrievski",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles en contra",
