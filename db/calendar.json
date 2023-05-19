@@ -1909,7 +1909,7 @@
     "matches": [
       {
         "team1": "Cádiz",
-        "result": "00h",
+        "result": "2-0",
         "team2": "Valladolid"
       },
       {
@@ -1984,6 +1984,11 @@
         "team2": "Cádiz"
       },
       {
+        "team1": "Real Madrid",
+        "result": "30h",
+        "team2": "Rayo"
+      },
+      {
         "team1": "Elche",
         "result": "30h",
         "team2": "Sevilla"
@@ -1999,26 +2004,26 @@
         "team2": "Getafe"
       },
       {
-        "team1": "Osasuna",
-        "result": "30h",
-        "team2": "Athletic"
-      },
-      {
         "team1": "Mallorca",
         "result": "30h",
         "team2": "Valencia"
       },
       {
-        "team1": "Real Madrid",
-        "result": "00h",
-        "team2": "Rayo"
+        "team1": "Osasuna",
+        "result": "30h",
+        "team2": "Athletic"
       }
     ]
   },
   {
     "numJornada": "Jornada 37",
-    "date": "28 de mayo",
+    "date": "27 y 28 de mayo",
     "matches": [
+      {
+        "team1": "Sevilla",
+        "result": "00h",
+        "team2": "Real Madrid"
+      },
       {
         "team1": "Atlético",
         "result": "00h",
@@ -2063,11 +2068,6 @@
         "team1": "Girona",
         "result": "00h",
         "team2": "Betis"
-      },
-      {
-        "team1": "Sevilla",
-        "result": "00h",
-        "team2": "Real Madrid"
       }
     ]
   },

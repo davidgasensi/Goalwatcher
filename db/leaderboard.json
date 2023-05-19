@@ -2561,6 +2561,189 @@
     }
   },
   {
+    "gamesPlayed": 35,
+    "wins": 9,
+    "loses": 15,
+    "draws": 11,
+    "goalsScored": 28,
+    "goalsConceded": 50,
+    "points": 38,
+    "team": {
+      "id": "cadiz",
+      "name": "Cádiz",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
+      "urlWeb": "https://www.cadizcf.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/cadizclubdefutbol/?hl=es",
+        "https://twitter.com/Cadiz_CF?s=20",
+        "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Jeremias Ledesma",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jer/100/45051.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "David Gil",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/36067.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Fali",
+          "position": "Defensa",
+          "number": 3,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fal/100/31008.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Mamadou Mbaye",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mam/100/40853.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Álex Fernández",
+          "position": "Defensa",
+          "number": 8,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/20379.jpg",
+          "team": "cadiz"
+        },
+        {
+          "name": "Luis Hernández",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Genar Fornés",
+          "position": "Defensa",
+          "number": 27,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Victor Chust",
+          "position": "Defensa",
+          "number": 32,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Cala",
+          "position": "Defensa",
+          "number": 0,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Rubén Alcaraz",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "José Mari",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Rubén Sobrino",
+          "position": "Centrocampista",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Iza",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Santiago Arzamendia",
+          "position": "Centrocampista",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Luis Espino",
+          "position": "Centrocampista",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Fede",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Álvaro Bastida",
+          "position": "Centrocampista",
+          "number": 38,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Zaldua",
+          "position": "Centrocampista",
+          "number": 0,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Lozano",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "T. Bongonda",
+          "position": "Delantero",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Iván Alejo",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Brian Ocampo",
+          "position": "Delantero",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        },
+        {
+          "name": "Negredo",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "cadiz"
+        }
+      ]
+    }
+  },
+  {
     "gamesPlayed": 34,
     "wins": 10,
     "loses": 17,
@@ -2976,195 +3159,12 @@
     }
   },
   {
-    "gamesPlayed": 34,
-    "wins": 8,
-    "loses": 15,
-    "draws": 11,
-    "goalsScored": 26,
-    "goalsConceded": 50,
-    "points": 35,
-    "team": {
-      "id": "cadiz",
-      "name": "Cádiz",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-cadiz.svg",
-      "urlWeb": "https://www.cadizcf.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/cadizclubdefutbol/?hl=es",
-        "https://twitter.com/Cadiz_CF?s=20",
-        "https://www.tiktok.com/@cadizclubdefutbol?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Jeremias Ledesma",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jer/100/45051.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "David Gil",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/36067.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Fali",
-          "position": "Defensa",
-          "number": 3,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/f/fal/100/31008.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Mamadou Mbaye",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/m/mam/100/40853.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Álex Fernández",
-          "position": "Defensa",
-          "number": 8,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/20379.jpg",
-          "team": "cadiz"
-        },
-        {
-          "name": "Luis Hernández",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Genar Fornés",
-          "position": "Defensa",
-          "number": 27,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Victor Chust",
-          "position": "Defensa",
-          "number": 32,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Cala",
-          "position": "Defensa",
-          "number": 0,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Rubén Alcaraz",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "José Mari",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Rubén Sobrino",
-          "position": "Centrocampista",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Iza",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Santiago Arzamendia",
-          "position": "Centrocampista",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Luis Espino",
-          "position": "Centrocampista",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Fede",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Álvaro Bastida",
-          "position": "Centrocampista",
-          "number": 38,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Zaldua",
-          "position": "Centrocampista",
-          "number": 0,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Lozano",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "T. Bongonda",
-          "position": "Delantero",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Iván Alejo",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Brian Ocampo",
-          "position": "Delantero",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        },
-        {
-          "name": "Negredo",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "cadiz"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 34,
+    "gamesPlayed": 35,
     "wins": 10,
-    "loses": 19,
+    "loses": 20,
     "draws": 5,
     "goalsScored": 30,
-    "goalsConceded": 60,
+    "goalsConceded": 62,
     "points": 35,
     "team": {
       "id": "realvalladolid",
