@@ -2,7 +2,7 @@
   {
     "type": "Zamora",
     "position": 1,
-    "value": 13,
+    "value": 15,
     "name": "Marc-André ter Stegen",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -16,7 +16,7 @@
   {
     "type": "Zamora",
     "position": 3,
-    "value": 31,
+    "value": 32,
     "name": "Álex Remiro",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
@@ -30,7 +30,7 @@
   {
     "type": "Zamora",
     "position": 5,
-    "value": 37,
+    "value": 40,
     "name": "Predrag Rajkovic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
@@ -58,7 +58,7 @@
   {
     "type": "Zamora",
     "position": 9,
-    "value": 43,
+    "value": 44,
     "name": "David Soria",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
