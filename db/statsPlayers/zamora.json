@@ -44,7 +44,7 @@
   {
     "type": "Zamora",
     "position": 7,
-    "value": 34,
+    "value": 35,
     "name": "Unai Simón",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
@@ -58,15 +58,15 @@
   {
     "type": "Zamora",
     "position": 9,
-    "value": 30,
-    "name": "Paulo Gazzaniga",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "value": 43,
+    "name": "David Soria",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Zamora",
     "position": 10,
-    "value": 43,
-    "name": "David Soria",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "value": 42,
+    "name": "Stole Dimitrievski",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   }
 ]
