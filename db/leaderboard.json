@@ -190,12 +190,209 @@
     }
   },
   {
-    "gamesPlayed": 34,
+    "gamesPlayed": 35,
     "wins": 22,
     "loses": 7,
+    "draws": 6,
+    "goalsScored": 63,
+    "goalsConceded": 27,
+    "points": 72,
+    "team": {
+      "id": "atletico",
+      "name": "Atlético",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-atletico.svg",
+      "urlWeb": "https://www.atleticodemadrid.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/atleticodemadrid/?hl=es",
+        "https://twitter.com/Atleti?s=20",
+        "https://www.tiktok.com/@atleticodemadrid?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Ivo Grbic",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/ivo/100/47670.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Oblak",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/obl/100/23109.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Antonio Gomis",
+          "position": "Portero",
+          "number": 31,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ant/100/50631.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Alejandro Iturbe",
+          "position": "Portero",
+          "number": 33,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/49962.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Giménez",
+          "position": "Defensa",
+          "number": 2,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/22239.jpg",
+          "team": "atletico"
+        },
+        {
+          "name": "Savic",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Mario Hermoso",
+          "position": "Defensa",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Marco Moreno",
+          "position": "Defensa",
+          "number": 36,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Reguilón",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Kondogbia",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "De Paul",
+          "position": "Centrocampista",
+          "number": 5,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Koke",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Griezmann",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Correa",
+          "position": "Centrocampista",
+          "number": 10,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Lemar",
+          "position": "Centrocampista",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Marcos Llorente",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Nahuel Molina",
+          "position": "Centrocampista",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Saúl",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Witsel",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Reinildo Mandava",
+          "position": "Centrocampista",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Pablo Barrios Rivas",
+          "position": "Centrocampista",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Adrian Corral",
+          "position": "Centrocampista",
+          "number": 48,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Depay",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Morata",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        },
+        {
+          "name": "Carrasco",
+          "position": "Delantero",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "atletico"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 35,
+    "wins": 22,
+    "loses": 8,
     "draws": 5,
     "goalsScored": 70,
-    "goalsConceded": 32,
+    "goalsConceded": 33,
     "points": 71,
     "team": {
       "id": "realmadrid",
@@ -403,203 +600,6 @@
           "number": 24,
           "image": "//as01.epimg.net/t.gif",
           "team": "realmadrid"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 34,
-    "wins": 21,
-    "loses": 7,
-    "draws": 6,
-    "goalsScored": 60,
-    "goalsConceded": 27,
-    "points": 69,
-    "team": {
-      "id": "atletico",
-      "name": "Atlético",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-atletico.svg",
-      "urlWeb": "https://www.atleticodemadrid.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/atleticodemadrid/?hl=es",
-        "https://twitter.com/Atleti?s=20",
-        "https://www.tiktok.com/@atleticodemadrid?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Ivo Grbic",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/i/ivo/100/47670.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Oblak",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/o/obl/100/23109.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Antonio Gomis",
-          "position": "Portero",
-          "number": 31,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ant/100/50631.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Alejandro Iturbe",
-          "position": "Portero",
-          "number": 33,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ale/100/49962.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Giménez",
-          "position": "Defensa",
-          "number": 2,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jos/100/22239.jpg",
-          "team": "atletico"
-        },
-        {
-          "name": "Savic",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Mario Hermoso",
-          "position": "Defensa",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Marco Moreno",
-          "position": "Defensa",
-          "number": 36,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Reguilón",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Kondogbia",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "De Paul",
-          "position": "Centrocampista",
-          "number": 5,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Koke",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Griezmann",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Correa",
-          "position": "Centrocampista",
-          "number": 10,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Lemar",
-          "position": "Centrocampista",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Marcos Llorente",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Nahuel Molina",
-          "position": "Centrocampista",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Saúl",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Witsel",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Reinildo Mandava",
-          "position": "Centrocampista",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Pablo Barrios Rivas",
-          "position": "Centrocampista",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Adrian Corral",
-          "position": "Centrocampista",
-          "number": 48,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Depay",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Morata",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
-        },
-        {
-          "name": "Carrasco",
-          "position": "Delantero",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "atletico"
         }
       ]
     }
@@ -1006,13 +1006,13 @@
     }
   },
   {
-    "gamesPlayed": 34,
+    "gamesPlayed": 35,
     "wins": 16,
     "loses": 11,
-    "draws": 7,
+    "draws": 8,
     "goalsScored": 43,
     "goalsConceded": 38,
-    "points": 55,
+    "points": 56,
     "team": {
       "id": "betis",
       "name": "Betis",
@@ -1583,196 +1583,13 @@
     }
   },
   {
-    "gamesPlayed": 34,
+    "gamesPlayed": 35,
     "wins": 13,
     "loses": 13,
-    "draws": 8,
-    "goalsScored": 32,
-    "goalsConceded": 36,
-    "points": 47,
-    "team": {
-      "id": "osasuna",
-      "name": "Osasuna",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
-      "urlWeb": "https://www.osasuna.es/",
-      "socialNetworks": [
-        "https://www.instagram.com/caosasuna/?hl=es",
-        "https://twitter.com/Osasuna?s=20",
-        "https://www.tiktok.com/@caosasuna?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Herrera",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/h/her/100/22077.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aitor",
-          "position": "Portero",
-          "number": 25,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ait/100/19122.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Dario",
-          "position": "Portero",
-          "number": 39,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dar/100/44274.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Unai García",
-          "position": "Defensa",
-          "number": 4,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/22841.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "David García",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/25984.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Rubén Peña",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rub/100/25535.jpg",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aridane",
-          "position": "Defensa",
-          "number": 23,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Jorge Herrando",
-          "position": "Defensa",
-          "number": 31,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Nacho Vidal",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Juan Cruz",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Lucas Torró",
-          "position": "Centrocampista",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Jon Moncayola",
-          "position": "Centrocampista",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Brasanac",
-          "position": "Centrocampista",
-          "number": 8,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Chimy Ávila",
-          "position": "Centrocampista",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Rubén García",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Manu Sánchez",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Aimar Oroz",
-          "position": "Centrocampista",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Kike Barja",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Abde",
-          "position": "Delantero",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Moi Gómez",
-          "position": "Delantero",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Ante Budimir",
-          "position": "Delantero",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Kike García",
-          "position": "Delantero",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        },
-        {
-          "name": "Iker Benito",
-          "position": "Delantero",
-          "number": 33,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "osasuna"
-        }
-      ]
-    }
-  },
-  {
-    "gamesPlayed": 34,
-    "wins": 13,
-    "loses": 13,
-    "draws": 8,
+    "draws": 9,
     "goalsScored": 44,
     "goalsConceded": 49,
-    "points": 47,
+    "points": 48,
     "team": {
       "id": "sevilla",
       "name": "Sevilla",
@@ -1977,12 +1794,195 @@
     }
   },
   {
-    "gamesPlayed": 34,
+    "gamesPlayed": 35,
+    "wins": 13,
+    "loses": 14,
+    "draws": 8,
+    "goalsScored": 32,
+    "goalsConceded": 39,
+    "points": 47,
+    "team": {
+      "id": "osasuna",
+      "name": "Osasuna",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-osasuna.svg",
+      "urlWeb": "https://www.osasuna.es/",
+      "socialNetworks": [
+        "https://www.instagram.com/caosasuna/?hl=es",
+        "https://twitter.com/Osasuna?s=20",
+        "https://www.tiktok.com/@caosasuna?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Herrera",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/h/her/100/22077.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aitor",
+          "position": "Portero",
+          "number": 25,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/a/ait/100/19122.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Dario",
+          "position": "Portero",
+          "number": 39,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dar/100/44274.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Unai García",
+          "position": "Defensa",
+          "number": 4,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/u/una/100/22841.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "David García",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/d/dav/100/25984.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Rubén Peña",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/r/rub/100/25535.jpg",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aridane",
+          "position": "Defensa",
+          "number": 23,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Jorge Herrando",
+          "position": "Defensa",
+          "number": 31,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Nacho Vidal",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Juan Cruz",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Lucas Torró",
+          "position": "Centrocampista",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Jon Moncayola",
+          "position": "Centrocampista",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Brasanac",
+          "position": "Centrocampista",
+          "number": 8,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Chimy Ávila",
+          "position": "Centrocampista",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Rubén García",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Manu Sánchez",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Aimar Oroz",
+          "position": "Centrocampista",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Kike Barja",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Abde",
+          "position": "Delantero",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Moi Gómez",
+          "position": "Delantero",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Ante Budimir",
+          "position": "Delantero",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Kike García",
+          "position": "Delantero",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        },
+        {
+          "name": "Iker Benito",
+          "position": "Delantero",
+          "number": 33,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "osasuna"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 35,
     "wins": 12,
-    "loses": 12,
+    "loses": 13,
     "draws": 10,
-    "goalsScored": 41,
-    "goalsConceded": 45,
+    "goalsScored": 42,
+    "goalsConceded": 47,
     "points": 46,
     "team": {
       "id": "rayo",
@@ -2366,6 +2366,224 @@
           "number": 23,
           "image": "//as01.epimg.net/t.gif",
           "team": "mallorca"
+        }
+      ]
+    }
+  },
+  {
+    "gamesPlayed": 35,
+    "wins": 11,
+    "loses": 17,
+    "draws": 7,
+    "goalsScored": 39,
+    "goalsConceded": 41,
+    "points": 40,
+    "team": {
+      "id": "valencia",
+      "name": "Valencia",
+      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-valencia.svg",
+      "urlWeb": "https://www.valenciacf.com/",
+      "socialNetworks": [
+        "https://www.instagram.com/valenciacf/?hl=es",
+        "https://twitter.com/valenciacf?s=20",
+        "https://www.tiktok.com/@valenciacf?lang=es"
+      ],
+      "players": [
+        {
+          "name": "Jaume",
+          "position": "Portero",
+          "number": 1,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jau/100/23578.jpg",
+          "team": "valencia"
+        },
+        {
+          "name": "Cristian Rivero",
+          "position": "Portero",
+          "number": 13,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cri/100/40827.jpg",
+          "team": "valencia"
+        },
+        {
+          "name": "Mamardashvili",
+          "position": "Portero",
+          "number": 25,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gio/100/49031.jpg",
+          "team": "valencia"
+        },
+        {
+          "name": "Charly",
+          "position": "Portero",
+          "number": 26,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cha/100/49138.jpg",
+          "team": "valencia"
+        },
+        {
+          "name": "Emilio Bernard",
+          "position": "Portero",
+          "number": 42,
+          "image": "//as01.epimg.net/img/silueta-generica.png",
+          "team": "valencia"
+        },
+        {
+          "name": "Gabriel Paulista",
+          "position": "Defensa",
+          "number": 5,
+          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gab/100/22966.jpg",
+          "team": "valencia"
+        },
+        {
+          "name": "Hugo Guillamón",
+          "position": "Defensa",
+          "number": 6,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Mouctar Diakhaby",
+          "position": "Defensa",
+          "number": 12,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Cenk Özkacar",
+          "position": "Defensa",
+          "number": 15,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Vazquez Alcalde",
+          "position": "Defensa",
+          "number": 21,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Eray Cömert",
+          "position": "Defensa",
+          "number": 24,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Cristhian Ibarguen",
+          "position": "Defensa",
+          "number": 33,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Thierry Correia",
+          "position": "Centrocampista",
+          "number": 2,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Lato",
+          "position": "Centrocampista",
+          "number": 3,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Yunus Musah",
+          "position": "Centrocampista",
+          "number": 4,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Gayá",
+          "position": "Centrocampista",
+          "number": 14,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Nico González",
+          "position": "Centrocampista",
+          "number": 17,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Andre Almeida",
+          "position": "Centrocampista",
+          "number": 18,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Foulquier",
+          "position": "Centrocampista",
+          "number": 20,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Rubén Iranzo",
+          "position": "Centrocampista",
+          "number": 34,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Cavani",
+          "position": "Delantero",
+          "number": 7,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Justin Kluivert",
+          "position": "Delantero",
+          "number": 9,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Samu Castillejo",
+          "position": "Delantero",
+          "number": 11,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Samuel Lino",
+          "position": "Delantero",
+          "number": 16,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Hugo Duro",
+          "position": "Delantero",
+          "number": 19,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Marcos André",
+          "position": "Delantero",
+          "number": 22,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Francisco Martinez",
+          "position": "Delantero",
+          "number": 29,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
+        },
+        {
+          "name": "Diego López",
+          "position": "Delantero",
+          "number": 40,
+          "image": "//as01.epimg.net/t.gif",
+          "team": "valencia"
         }
       ]
     }
@@ -2941,224 +3159,6 @@
     }
   },
   {
-    "gamesPlayed": 34,
-    "wins": 10,
-    "loses": 17,
-    "draws": 7,
-    "goalsScored": 38,
-    "goalsConceded": 41,
-    "points": 37,
-    "team": {
-      "id": "valencia",
-      "name": "Valencia",
-      "image": "https://goalwatcher.davidasensi.workers.dev/static/logos/logo-valencia.svg",
-      "urlWeb": "https://www.valenciacf.com/",
-      "socialNetworks": [
-        "https://www.instagram.com/valenciacf/?hl=es",
-        "https://twitter.com/valenciacf?s=20",
-        "https://www.tiktok.com/@valenciacf?lang=es"
-      ],
-      "players": [
-        {
-          "name": "Jaume",
-          "position": "Portero",
-          "number": 1,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/j/jau/100/23578.jpg",
-          "team": "valencia"
-        },
-        {
-          "name": "Cristian Rivero",
-          "position": "Portero",
-          "number": 13,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cri/100/40827.jpg",
-          "team": "valencia"
-        },
-        {
-          "name": "Mamardashvili",
-          "position": "Portero",
-          "number": 25,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gio/100/49031.jpg",
-          "team": "valencia"
-        },
-        {
-          "name": "Charly",
-          "position": "Portero",
-          "number": 26,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/c/cha/100/49138.jpg",
-          "team": "valencia"
-        },
-        {
-          "name": "Emilio Bernard",
-          "position": "Portero",
-          "number": 42,
-          "image": "//as01.epimg.net/img/silueta-generica.png",
-          "team": "valencia"
-        },
-        {
-          "name": "Gabriel Paulista",
-          "position": "Defensa",
-          "number": 5,
-          "image": "//as01.epimg.net/img/comunes/fotos/fichas/deportistas/g/gab/100/22966.jpg",
-          "team": "valencia"
-        },
-        {
-          "name": "Hugo Guillamón",
-          "position": "Defensa",
-          "number": 6,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Mouctar Diakhaby",
-          "position": "Defensa",
-          "number": 12,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Cenk Özkacar",
-          "position": "Defensa",
-          "number": 15,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Vazquez Alcalde",
-          "position": "Defensa",
-          "number": 21,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Eray Cömert",
-          "position": "Defensa",
-          "number": 24,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Cristhian Ibarguen",
-          "position": "Defensa",
-          "number": 33,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Thierry Correia",
-          "position": "Centrocampista",
-          "number": 2,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Lato",
-          "position": "Centrocampista",
-          "number": 3,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Yunus Musah",
-          "position": "Centrocampista",
-          "number": 4,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Gayá",
-          "position": "Centrocampista",
-          "number": 14,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Nico González",
-          "position": "Centrocampista",
-          "number": 17,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Andre Almeida",
-          "position": "Centrocampista",
-          "number": 18,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Foulquier",
-          "position": "Centrocampista",
-          "number": 20,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Rubén Iranzo",
-          "position": "Centrocampista",
-          "number": 34,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Cavani",
-          "position": "Delantero",
-          "number": 7,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Justin Kluivert",
-          "position": "Delantero",
-          "number": 9,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Samu Castillejo",
-          "position": "Delantero",
-          "number": 11,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Samuel Lino",
-          "position": "Delantero",
-          "number": 16,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Hugo Duro",
-          "position": "Delantero",
-          "number": 19,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Marcos André",
-          "position": "Delantero",
-          "number": 22,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Francisco Martinez",
-          "position": "Delantero",
-          "number": 29,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        },
-        {
-          "name": "Diego López",
-          "position": "Delantero",
-          "number": 40,
-          "image": "//as01.epimg.net/t.gif",
-          "team": "valencia"
-        }
-      ]
-    }
-  },
-  {
     "gamesPlayed": 35,
     "wins": 8,
     "loses": 16,
@@ -3525,13 +3525,13 @@
     }
   },
   {
-    "gamesPlayed": 34,
-    "wins": 7,
+    "gamesPlayed": 35,
+    "wins": 8,
     "loses": 17,
     "draws": 10,
-    "goalsScored": 42,
-    "goalsConceded": 60,
-    "points": 31,
+    "goalsScored": 44,
+    "goalsConceded": 61,
+    "points": 34,
     "team": {
       "id": "espanyol",
       "name": "Espanyol",
