@@ -16,7 +16,7 @@
   {
     "type": "Goles por partido",
     "position": 3,
-    "value": 1.71,
+    "value": 1.8,
     "name": "Atlético",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
@@ -65,21 +65,21 @@
   {
     "type": "Goles por partido",
     "position": 10,
+    "value": 1.26,
+    "name": "Espanyol",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 11,
     "value": 1.23,
     "name": "Betis",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Goles por partido",
-    "position": 11,
-    "value": 1.2,
-    "name": "Espanyol",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
-  },
-  {
-    "type": "Goles por partido",
     "position": 12,
-    "value": 1.17,
+    "value": 1.2,
     "name": "Rayo",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
@@ -93,7 +93,7 @@
   {
     "type": "Goles por partido",
     "position": 14,
-    "value": 1.09,
+    "value": 1.11,
     "name": "Valencia",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },

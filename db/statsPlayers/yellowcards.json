@@ -2,23 +2,23 @@
   {
     "type": "Tarjetas amarillas",
     "position": 1,
-    "value": 12,
+    "value": 13,
     "name": "Oscar Gil",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 2,
-    "value": 12,
-    "name": "Alex Baena",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+    "value": 13,
+    "name": "Catena",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 3,
     "value": 12,
-    "name": "Catena",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+    "name": "Alex Baena",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Tarjetas amarillas",
