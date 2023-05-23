@@ -2,7 +2,7 @@
   {
     "type": "Pichichi",
     "position": 1,
-    "value": 22,
+    "value": 23,
     "name": "Robert Lewandowski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -38,15 +38,15 @@
     "type": "Pichichi",
     "position": 6,
     "value": 13,
-    "name": "Valentin Castellanos",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "name": "Vedat Muriqi",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Pichichi",
     "position": 7,
     "value": 13,
-    "name": "Vedat Muriqi",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
+    "name": "Valentin Castellanos",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Pichichi",
