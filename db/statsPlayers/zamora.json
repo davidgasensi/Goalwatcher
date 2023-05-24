@@ -23,7 +23,7 @@
   {
     "type": "Zamora",
     "position": 4,
-    "value": 26,
+    "value": 27,
     "name": "Thibaut Courtois",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
@@ -51,16 +51,16 @@
   {
     "type": "Zamora",
     "position": 8,
-    "value": 32,
-    "name": "Rui Silva",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+    "value": 44,
+    "name": "David Soria",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Zamora",
     "position": 9,
-    "value": 44,
-    "name": "David Soria",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "value": 32,
+    "name": "Rui Silva",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Zamora",

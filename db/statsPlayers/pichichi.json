@@ -9,14 +9,14 @@
   {
     "type": "Pichichi",
     "position": 2,
-    "value": 17,
+    "value": 18,
     "name": "Karim Benzema",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
   {
     "type": "Pichichi",
     "position": 3,
-    "value": 15,
+    "value": 16,
     "name": "Jose Luis Joselu",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
@@ -30,9 +30,9 @@
   {
     "type": "Pichichi",
     "position": 5,
-    "value": 13,
-    "name": "Borja Iglesias",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+    "value": 14,
+    "name": "Antoine Griezmann",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
     "type": "Pichichi",
@@ -45,21 +45,21 @@
     "type": "Pichichi",
     "position": 7,
     "value": 13,
-    "name": "Valentin Castellanos",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "name": "Borja Iglesias",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Pichichi",
     "position": 8,
     "value": 13,
-    "name": "Álvaro Morata",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
+    "name": "Valentin Castellanos",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Pichichi",
     "position": 9,
     "value": 13,
-    "name": "Antoine Griezmann",
+    "name": "Álvaro Morata",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
   {
