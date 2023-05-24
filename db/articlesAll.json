@@ -8495,5 +8495,40 @@
     "image": "https://estaticos-cdn.sport.es/clip/4d242707-d0be-4db2-9a37-fcb5b7ee094c_baja-aspect-ratio_default_0.jpg",
     "createDate": 1684962689224,
     "domain": "sport"
+  },
+  {
+    "title": "La épica da vida al Espanyol",
+    "link": "https://as.com/futbol/primera/espanyol-atletico-en-directo-laliga-santander-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/PlPPdmzyTp38bcYJBHkVOSoNpJk=/360x203/filters:focal(1333x636:1343x646)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ENNGSLKXI36LUMSXNYMW4DYGWI.jpg",
+    "createDate": 1684966395822,
+    "domain": "as"
+  },
+  {
+    "title": "El Getafe se agarra a la vida",
+    "link": "https://as.com/futbol/primera/betis-getafe-en-directo-laliga-santander-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/fAT0iKaFJSrkpqzO5aXGo1mGs2c=/240x135/filters:focal(2345x51:2173x61)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/PVC2PTEVJHV6CQYDHUP25HGERM.jpg",
+    "createDate": 1684966395824,
+    "domain": "as"
+  },
+  {
+    "title": "Así están las cuentas del descenso tras el empate del Espanyol y la victoria del Getafe",
+    "link": "https://www.sport.es/es/noticias/laliga/cuentas-descenso-tres-jornadas-final-liga-santander-87679220",
+    "image": "https://estaticos-cdn.sport.es/clip/26e827ac-3b49-426b-81aa-c9341f023e59_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1684966396796,
+    "domain": "sport"
+  },
+  {
+    "title": "El Espanyol confía en el milagro",
+    "link": "https://www.sport.es/es/noticias/laliga/espanyol-confia-milagro-87837162",
+    "image": "https://estaticos-cdn.sport.es/clip/23a38935-6856-4d8f-9b07-76465a3cde06_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1684966396798,
+    "domain": "sport"
+  },
+  {
+    "title": "¡A Alejo se le cruzan los cables y muerde a Mandi!",
+    "link": "https://www.sport.es/es/noticias/laliga/alejo-le-cruzan-cables-muerde-87848448",
+    "image": "https://estaticos-cdn.sport.es/clip/9b96fa10-a1b6-4c7f-b5fc-473b15d4dd47_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1684966396798,
+    "domain": "sport"
   }
 ]
