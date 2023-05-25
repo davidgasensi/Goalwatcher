@@ -2,7 +2,7 @@
   {
     "type": "Goles por partido",
     "position": 1,
-    "value": 1.94,
+    "value": 2,
     "name": "Real Madrid",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
@@ -16,7 +16,7 @@
   {
     "type": "Goles por partido",
     "position": 3,
-    "value": 1.75,
+    "value": 1.83,
     "name": "Atlético",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/atletico.png"
   },
@@ -24,15 +24,15 @@
     "type": "Goles por partido",
     "position": 4,
     "value": 1.56,
-    "name": "Girona",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "name": "Villarreal",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Goles por partido",
     "position": 5,
-    "value": 1.5,
-    "name": "Villarreal",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
+    "value": 1.56,
+    "name": "Girona",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Goles por partido",
@@ -44,44 +44,44 @@
   {
     "type": "Goles por partido",
     "position": 7,
+    "value": 1.31,
+    "name": "Espanyol",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
+  },
+  {
+    "type": "Goles por partido",
+    "position": 8,
     "value": 1.28,
     "name": "Almería",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/almeria.png"
   },
   {
     "type": "Goles por partido",
-    "position": 8,
+    "position": 9,
     "value": 1.28,
     "name": "Athletic",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Goles por partido",
-    "position": 9,
-    "value": 1.22,
+    "position": 10,
+    "value": 1.25,
     "name": "Sevilla",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
     "type": "Goles por partido",
-    "position": 10,
-    "value": 1.22,
-    "name": "Espanyol",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
-  },
-  {
-    "type": "Goles por partido",
     "position": 11,
     "value": 1.19,
-    "name": "Betis",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
+    "name": "Rayo",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles por partido",
     "position": 12,
-    "value": 1.17,
-    "name": "Rayo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
+    "value": 1.19,
+    "name": "Betis",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Goles por partido",
@@ -121,7 +121,7 @@
   {
     "type": "Goles por partido",
     "position": 18,
-    "value": 0.86,
+    "value": 0.89,
     "name": "Getafe",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
@@ -135,7 +135,7 @@
   {
     "type": "Goles por partido",
     "position": 20,
-    "value": 0.75,
+    "value": 0.78,
     "name": "Elche",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/elche.png"
   }

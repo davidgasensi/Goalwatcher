@@ -38,35 +38,35 @@
     "type": "Tarjetas amarillas",
     "position": 6,
     "value": 12,
+    "name": "Carles Aleñá",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 7,
+    "value": 12,
+    "name": "Fede San Emeterio",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 8,
+    "value": 12,
     "name": "Iñigo Ruiz de Galarreta",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 7,
+    "position": 9,
     "value": 11,
     "name": "Valentin Castellanos",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 8,
+    "position": 10,
     "value": 11,
     "name": "Arnau Martinez",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 9,
-    "value": 11,
-    "name": "Antonio Raíllo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 10,
-    "value": 11,
-    "name": "Jaume Costa",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/mallorca.png"
   }
 ]
