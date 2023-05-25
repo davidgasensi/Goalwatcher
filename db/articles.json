@@ -1,5 +1,19 @@
 [
   {
+    "title": "¿Qué es el DAG? La tecnología de detección automática de goles que habría determinado si el gol en Cornellà era válido",
+    "link": "https://www.sport.es/es/noticias/laliga/dag-tecnologia-deteccion-automatica-goles-87896570",
+    "image": "https://estaticos-cdn.sport.es/clip/a908c4bd-aa0f-4568-b072-dac207083b3b_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1685045700526,
+    "domain": "sport"
+  },
+  {
+    "title": "Muriqi pospone la salvación che",
+    "link": "https://www.sport.es/es/noticias/laliga/muriqi-pospone-salvacion-che-87891780",
+    "image": "https://estaticos-cdn.sport.es/clip/53035a6a-e753-43cf-a4a4-6ec72d4f7743_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1685045700524,
+    "domain": "sport"
+  },
+  {
     "title": "¡El Espanyol impugna el partido ante el Atlético!",
     "link": "https://www.sport.es/es/noticias/espanyol/comunicado-oficial-espanyol-pide-impugnar-87894666",
     "image": "https://estaticos-cdn.sport.es/clip/a908c4bd-aa0f-4568-b072-dac207083b3b_16-9-aspect-ratio_50p_0.jpg",
@@ -298,6 +312,20 @@
     "link": "https://as.com/futbol/primera/diakhaby-rehuye-de-la-pancarta-contra-el-racismo-como-protesta-n/",
     "image": "https://img.asmedia.epimg.net/resizer/9uDR89QdKI_Zcm3VAu1fkMgVJRc=/240x135/filters:focal(862x341:872x351)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/V2NSISW2GVCNBKS5GGJRYBJU3U.jpg",
     "createDate": 1685041893498,
+    "domain": "as"
+  },
+  {
+    "title": "¡Más lío! El Espanyol pide la nulidad del partido ante el Atleti",
+    "link": "https://as.com/futbol/primera/el-espanyol-solicita-la-nulidad-del-partido-contra-el-atletico-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/3_dUx8tdCgKSpC3fyAIOVFNQrlU=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ODV7FDLMPBGRJLXYDOKKTEUWBM.jpg",
+    "createDate": 1685045699951,
+    "domain": "as"
+  },
+  {
+    "title": "El Valencia decide sufrir tras perder en Son Moix",
+    "link": "https://as.com/futbol/el-valencia-decide-sufrir-tras-perder-en-son-moix-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/tdA042SnW5kRSI0GhUWkSGFRN28=/240x135/filters:focal(4113x1445:4123x1455)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/P2MXTL35LPIM54GWMDONIENY5A.jpg",
+    "createDate": 1685045699953,
     "domain": "as"
   }
 ]
