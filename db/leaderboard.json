@@ -190,13 +190,13 @@
     }
   },
   {
-    "gamesPlayed": 36,
-    "wins": 23,
+    "gamesPlayed": 37,
+    "wins": 24,
     "loses": 8,
     "draws": 5,
-    "goalsScored": 72,
-    "goalsConceded": 34,
-    "points": 74,
+    "goalsScored": 74,
+    "goalsConceded": 35,
+    "points": 77,
     "team": {
       "id": "realmadrid",
       "name": "Real Madrid",
@@ -1766,12 +1766,12 @@
     }
   },
   {
-    "gamesPlayed": 36,
+    "gamesPlayed": 37,
     "wins": 13,
-    "loses": 13,
+    "loses": 14,
     "draws": 10,
-    "goalsScored": 45,
-    "goalsConceded": 50,
+    "goalsScored": 46,
+    "goalsConceded": 52,
     "points": 49,
     "team": {
       "id": "sevilla",
