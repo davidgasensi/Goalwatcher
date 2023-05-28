@@ -3,42 +3,42 @@
     "type": "Tarjetas rojas",
     "position": 1,
     "value": 3,
+    "name": "Marcos Acuña",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
+  },
+  {
+    "type": "Tarjetas rojas",
+    "position": 2,
+    "value": 3,
     "name": "Florian Lejeune",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 2,
+    "position": 3,
     "value": 3,
     "name": "Germán Pezzella",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 3,
+    "position": 4,
     "value": 3,
     "name": "Luiz Felipe",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/betis.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 4,
+    "position": 5,
     "value": 3,
     "name": "Iza Carcelén",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Tarjetas rojas",
-    "position": 5,
+    "position": 6,
     "value": 3,
     "name": "Pape Gueye",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
-  },
-  {
-    "type": "Tarjetas rojas",
-    "position": 6,
-    "value": 2,
-    "name": "Marcos Acuña",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/sevilla.png"
   },
   {
