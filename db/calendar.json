@@ -2026,47 +2026,47 @@
       },
       {
         "team1": "Atlético",
-        "result": "00h",
+        "result": "2-1",
         "team2": "R. Sociedad"
       },
       {
         "team1": "Athletic",
-        "result": "00h",
+        "result": "0-1",
         "team2": "Elche"
       },
       {
         "team1": "Almería",
-        "result": "00h",
+        "result": "0-0",
         "team2": "Valladolid"
       },
       {
         "team1": "Rayo",
-        "result": "00h",
+        "result": "2-1",
         "team2": "Villarreal"
       },
       {
         "team1": "Cádiz",
-        "result": "00h",
+        "result": "1-0",
         "team2": "Celta"
       },
       {
         "team1": "Getafe",
-        "result": "00h",
+        "result": "2-1",
         "team2": "Osasuna"
       },
       {
         "team1": "FC Barcelona",
-        "result": "00h",
+        "result": "3-0",
         "team2": "Mallorca"
       },
       {
         "team1": "Valencia",
-        "result": "00h",
+        "result": "2-2",
         "team2": "Espanyol"
       },
       {
         "team1": "Girona",
-        "result": "00h",
+        "result": "1-2",
         "team2": "Betis"
       }
     ]
@@ -2075,6 +2075,31 @@
     "numJornada": "Jornada 38",
     "date": "4 de junio",
     "matches": [
+      {
+        "team1": "Real Madrid",
+        "result": "30h",
+        "team2": "Athletic"
+      },
+      {
+        "team1": "R. Sociedad",
+        "result": "30h",
+        "team2": "Sevilla"
+      },
+      {
+        "team1": "Villarreal",
+        "result": "30h",
+        "team2": "Atlético"
+      },
+      {
+        "team1": "Mallorca",
+        "result": "30h",
+        "team2": "Rayo"
+      },
+      {
+        "team1": "Osasuna",
+        "result": "30h",
+        "team2": "Girona"
+      },
       {
         "team1": "Celta",
         "result": "00h",
@@ -2086,19 +2111,9 @@
         "team2": "Cádiz"
       },
       {
-        "team1": "Real Madrid",
-        "result": "00h",
-        "team2": "Athletic"
-      },
-      {
         "team1": "Valladolid",
         "result": "00h",
         "team2": "Getafe"
-      },
-      {
-        "team1": "R. Sociedad",
-        "result": "00h",
-        "team2": "Sevilla"
       },
       {
         "team1": "Betis",
@@ -2106,24 +2121,9 @@
         "team2": "Valencia"
       },
       {
-        "team1": "Villarreal",
-        "result": "00h",
-        "team2": "Atlético"
-      },
-      {
         "team1": "Espanyol",
         "result": "00h",
         "team2": "Almería"
-      },
-      {
-        "team1": "Mallorca",
-        "result": "00h",
-        "team2": "Rayo"
-      },
-      {
-        "team1": "Osasuna",
-        "result": "00h",
-        "team2": "Girona"
       }
     ]
   }
