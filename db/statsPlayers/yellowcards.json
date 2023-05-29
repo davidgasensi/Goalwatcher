@@ -2,51 +2,51 @@
   {
     "type": "Tarjetas amarillas",
     "position": 1,
-    "value": 13,
+    "value": 14,
     "name": "Oscar Gil",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/espanyol.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 2,
-    "value": 13,
+    "value": 14,
     "name": "Catena",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 3,
+    "value": 13,
+    "name": "Iván Alejo",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 4,
+    "value": 13,
+    "name": "Fede San Emeterio",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Tarjetas amarillas",
+    "position": 5,
     "value": 12,
     "name": "Alex Baena",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/villarreal.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 4,
+    "position": 6,
     "value": 12,
     "name": "Martin Zubimendi",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Tarjetas amarillas",
-    "position": 5,
-    "value": 12,
-    "name": "Iván Alejo",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 6,
+    "position": 7,
     "value": 12,
     "name": "Carles Aleñá",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
-  },
-  {
-    "type": "Tarjetas amarillas",
-    "position": 7,
-    "value": 12,
-    "name": "Fede San Emeterio",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
   },
   {
     "type": "Tarjetas amarillas",
@@ -59,14 +59,14 @@
     "type": "Tarjetas amarillas",
     "position": 9,
     "value": 11,
-    "name": "Valentin Castellanos",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
+    "name": "Oscar Valentin",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Tarjetas amarillas",
     "position": 10,
     "value": 11,
-    "name": "Arnau Martinez",
+    "name": "Valentin Castellanos",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   }
 ]

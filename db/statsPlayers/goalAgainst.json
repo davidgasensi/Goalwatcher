@@ -17,27 +17,27 @@
     "type": "Goles en contra",
     "position": 3,
     "value": 47,
-    "name": "Jeremías Ledesma",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
-  },
-  {
-    "type": "Goles en contra",
-    "position": 4,
-    "value": 46,
     "name": "Stole Dimitrievski",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/rayo.png"
   },
   {
     "type": "Goles en contra",
+    "position": 4,
+    "value": 47,
+    "name": "Jeremías Ledesma",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/cadiz.png"
+  },
+  {
+    "type": "Goles en contra",
     "position": 5,
-    "value": 44,
+    "value": 45,
     "name": "David Soria",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Goles en contra",
     "position": 6,
-    "value": 42,
+    "value": 44,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
@@ -65,7 +65,7 @@
   {
     "type": "Goles en contra",
     "position": 10,
-    "value": 35,
+    "value": 36,
     "name": "Unai Simón",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   }
