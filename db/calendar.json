@@ -2077,52 +2077,52 @@
     "matches": [
       {
         "team1": "Real Madrid",
-        "result": "30h",
+        "result": "1-1",
         "team2": "Athletic"
       },
       {
         "team1": "R. Sociedad",
-        "result": "30h",
+        "result": "2-1",
         "team2": "Sevilla"
       },
       {
         "team1": "Villarreal",
-        "result": "30h",
+        "result": "2-2",
         "team2": "Atlético"
       },
       {
         "team1": "Mallorca",
-        "result": "30h",
+        "result": "3-0",
         "team2": "Rayo"
       },
       {
         "team1": "Osasuna",
-        "result": "30h",
+        "result": "2-1",
         "team2": "Girona"
       },
       {
         "team1": "Celta",
-        "result": "00h",
+        "result": "2-1",
         "team2": "FC Barcelona"
       },
       {
         "team1": "Elche",
-        "result": "00h",
+        "result": "1-1",
         "team2": "Cádiz"
       },
       {
         "team1": "Valladolid",
-        "result": "00h",
+        "result": "0-0",
         "team2": "Getafe"
       },
       {
         "team1": "Betis",
-        "result": "00h",
+        "result": "1-1",
         "team2": "Valencia"
       },
       {
         "team1": "Espanyol",
-        "result": "00h",
+        "result": "3-3",
         "team2": "Almería"
       }
     ]
