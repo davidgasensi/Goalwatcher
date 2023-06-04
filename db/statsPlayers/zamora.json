@@ -2,7 +2,7 @@
   {
     "type": "Zamora",
     "position": 1,
-    "value": 17,
+    "value": 18,
     "name": "Marc-André ter Stegen",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/fc-barcelona.png"
   },
@@ -16,14 +16,14 @@
   {
     "type": "Zamora",
     "position": 3,
-    "value": 34,
+    "value": 35,
     "name": "Álex Remiro",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/r-sociedad.png"
   },
   {
     "type": "Zamora",
     "position": 4,
-    "value": 28,
+    "value": 29,
     "name": "Thibaut Courtois",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/real-madrid.png"
   },
@@ -37,23 +37,23 @@
   {
     "type": "Zamora",
     "position": 6,
-    "value": 44,
+    "value": 45,
     "name": "Giorgi Mamardashvili",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/valencia.png"
   },
   {
     "type": "Zamora",
     "position": 7,
-    "value": 36,
-    "name": "Unai Simón",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
+    "value": 45,
+    "name": "David Soria",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
   },
   {
     "type": "Zamora",
     "position": 8,
-    "value": 45,
-    "name": "David Soria",
-    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/getafe.png"
+    "value": 37,
+    "name": "Unai Simón",
+    "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/athletic.png"
   },
   {
     "type": "Zamora",
@@ -65,7 +65,7 @@
   {
     "type": "Zamora",
     "position": 10,
-    "value": 35,
+    "value": 37,
     "name": "Paulo Gazzaniga",
     "team": "https://est.sport.es/img/modulos-deportivos/resultados/soccer/img/girona.png"
   }
