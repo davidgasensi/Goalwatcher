@@ -1,19 +1,5 @@
 [
   {
-    "title": "“Juntos contra el racismo”",
-    "link": "https://as.com/futbol/primera/laliga-cambia-la-bandera-de-ucrania-por-el-mensaje-juntos-contra-el-racismo-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/H2GYi3R8yiXhSvsZ4CkxAxOM6_4=/240x135/filters:focal(671x117:681x127)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ABKLXVVOOZCHVIOUOQUCGV35GE.jpg",
-    "createDate": 1684872889174,
-    "domain": "as"
-  },
-  {
-    "title": "Europa o salvación en el Villamarín",
-    "link": "https://www.sport.es/es/noticias/laliga/europa-o-salvacion-villamarin-87782217",
-    "image": "https://estaticos-cdn.sport.es/clip/cd0d7efe-8813-451b-b55a-2517ce753f2e_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1684872890332,
-    "domain": "sport"
-  },
-  {
     "title": "Posible 'caso Koundé'",
     "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-altas-bajas-y-ultima-hora-hoy-n-62/?noti=mercado_mod_port",
     "image": "https://img.asmedia.epimg.net/resizer/C33DxgqTCIX0230SiH8sVYpAiCw=/240x135/filters:focal(2316x748:2326x758)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/H5FJWSBTR75HSMS27OUHXJYVE4.JPG",
@@ -7705,6 +7691,13 @@
     "link": "https://www.sport.es/es/noticias/espanyol/darder-acumula-novias-espanyol-89029508",
     "image": "https://estaticos-cdn.sport.es/clip/17160192-60ab-42e8-9354-8bde13b428a4_baja-aspect-ratio_default_0.jpg",
     "createDate": 1687457891537,
+    "domain": "sport"
+  },
+  {
+    "title": "Reunión clave por el futuro de Bordalás",
+    "link": "https://www.sport.es/es/noticias/laliga/reunion-clave-futuro-bordalas-89031759",
+    "image": "https://estaticos-cdn.sport.es/clip/6a8630d5-1f41-493a-ab26-b5516143034e_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1687465045567,
     "domain": "sport"
   }
 ]
