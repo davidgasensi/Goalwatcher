@@ -1,26 +1,5 @@
 [
   {
-    "title": "Se abre la opción Pavard",
-    "link": "https://as.com/futbol/primera/pavard-opcion-para-el-madrid-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/qawjSDE6LkHwWqeIGIKwYEbGc6E=/360x203/filters:focal(3569x1142:3579x1152)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/DQSRDFZ5OULMLUNYNRNP3OOPIE.jpg",
-    "createDate": 1685985165767,
-    "domain": "as"
-  },
-  {
-    "title": "La segunda Liga más goleadora y más goleada de la era Simeone",
-    "link": "https://www.sport.es/es/noticias/laliga/segunda-liga-goleadora-goleada-simeone-88313037",
-    "image": "https://estaticos-cdn.sport.es/clip/439db28a-dcda-400e-aa25-122e00875e15_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1685985166772,
-    "domain": "sport"
-  },
-  {
-    "title": "El Real Madrid prepara su primera oferta por Kane",
-    "link": "https://www.sport.es/es/noticias/real-madrid/real-madrid-prepara-primera-oferta-88333417",
-    "image": "https://estaticos-cdn.sport.es/clip/28ff87a7-d972-4880-9077-2310c4bc81a6_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1685985166774,
-    "domain": "sport"
-  },
-  {
     "title": "Bellingham y un ‘9’ no bastan",
     "link": "https://as.com/futbol/primera/bellingham-y-un-9-no-bastan-n/",
     "image": "https://img.asmedia.epimg.net/resizer/Le4BvOvkz5IUzWFWGu2BXIO9Axo=/360x203/filters:focal(2352x867:2362x877)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/CTHTFDD55VGLCZQ6UVJXAU3ISU.jpg",
@@ -6725,6 +6704,13 @@
     "link": "https://www.sport.es/es/noticias/real-madrid/conocen-horarios-real-madrid-gira-89508451",
     "image": "https://estaticos-cdn.sport.es/clip/dc85728d-b743-4778-b079-1d92a7b92c3d_baja-aspect-ratio_default_0.jpg",
     "createDate": 1688574178201,
+    "domain": "sport"
+  },
+  {
+    "title": "Pellegrini, renovado hasta 2026",
+    "link": "https://www.sport.es/es/noticias/betis/pellegrini-renovado-2026-89511127",
+    "image": "https://estaticos-cdn.sport.es/clip/fd5fe962-58b6-4ea1-aa64-f436cae98997_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1688577287993,
     "domain": "sport"
   }
 ]
