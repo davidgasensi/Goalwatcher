@@ -1,19 +1,5 @@
 [
   {
-    "title": "\"El Tottenham no va a dejar a Kane al Madrid a un precio de saldo\"",
-    "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-benzema-messi-ultima-hora-de-real-madrid-barcelona-n/?noti=mercado_mod_port",
-    "image": "https://img.asmedia.epimg.net/resizer/ZbbkoPLOCPKHjwZ-931wxtk9vAk=/240x135/filters:focal(1508x740:1518x750)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/V7VQPVGGGMMRK2IXC5DNUVF4LM.jpg",
-    "createDate": 1685945957908,
-    "domain": "as"
-  },
-  {
-    "title": "Las notas de LaLiga 2022-2023",
-    "link": "https://www.sport.es/es/noticias/laliga/notas-laliga-2022-2023-87064512",
-    "image": "https://estaticos-cdn.sport.es/clip/f737627b-8296-40a1-b539-552f06d8ede6_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1685945958846,
-    "domain": "sport"
-  },
-  {
     "title": "El PSG 'revienta' el fichaje de Ugarte por Chelsea",
     "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-benzema-messi-ultima-hora-de-real-madrid-barcelona-n/?noti=mercado_mod_port",
     "image": "https://img.asmedia.epimg.net/resizer/tw1JZg-rFfAdKWQmmFjvBwQ8fAk=/240x135/filters:focal(397x67:407x77)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/GA3QCGID5BEAZKB3RXB5GTPZBM.png",
@@ -6705,5 +6691,12 @@
     "image": "https://img.asmedia.epimg.net/resizer/V5XKvKtK8ht4Ns8WdzsAKvZk-O0=/360x203/filters:focal(1176x572:1186x582)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/AGZRH4OIL5H47MIP5D4H42ATEE.jpg",
     "createDate": 1688530844035,
     "domain": "as"
+  },
+  {
+    "title": "Día clave en el futuro de Güler",
+    "link": "https://www.sport.es/es/noticias/barca/dia-clave-futuro-guler-89477697",
+    "image": "https://estaticos-cdn.sport.es/clip/1baadb68-3b4d-4574-9b52-0e6e06348862_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1688538165661,
+    "domain": "sport"
   }
 ]
