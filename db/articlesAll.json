@@ -1,26 +1,5 @@
 [
   {
-    "title": "Gündogan inquieta al Barça",
-    "link": "https://as.com/futbol/primera/suspense-con-gundogan-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/ybkLyRNj-Ws2UZhiVPSzjP2O-IQ=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/CD64PXVIZSYOECHWH7ZDS436RA.jpg",
-    "createDate": 1686219336820,
-    "domain": "as"
-  },
-  {
-    "title": "A Jordi Alba le hubiera gustado retirarse en el Barça con Messi",
-    "link": "https://as.com/futbol/primera/a-jordi-alba-le-hubiera-gustado-retirarse-en-el-barca-con-messi-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/_xVJVxlxwthV_MC4flSQQBFacqQ=/240x135/filters:focal(2542x412:2552x422)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/Y6FGMVPVTSQNSW3734T7GSL3A4.jpg",
-    "createDate": 1686219336822,
-    "domain": "as"
-  },
-  {
-    "title": "El Real Madrid descarta a Harry Kane por no ser amortizable",
-    "link": "https://www.sport.es/es/noticias/real-madrid/real-madrid-descarta-harry-kane-88440855",
-    "image": "https://estaticos-cdn.sport.es/clip/0e58390c-e046-4b7a-a4e5-514cda4370cd_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1686219337680,
-    "domain": "sport"
-  },
-  {
     "title": "Monchi, cada día más lejos del Sánchez-Pizjuán",
     "link": "https://www.sport.es/es/noticias/laliga/monchi-dia-lejos-sanchez-pizjuan-88450456",
     "image": "https://estaticos-cdn.sport.es/clip/7e4e9ef6-0b8e-406e-87d8-48a0673a2c11_16-9-aspect-ratio_50p_0.jpg",
@@ -6680,5 +6659,12 @@
     "image": "https://estaticos-cdn.sport.es/clip/e3dbd50d-b9b3-4629-b57a-b5783523bae6_baja-aspect-ratio_default_0.jpg",
     "createDate": 1688807659433,
     "domain": "sport"
+  },
+  {
+    "title": "El Barça ofrece a Eric García",
+    "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-mbappe-kane-ultima-hora-de-real-madrid-barcelona-n-11/?noti=mercado_mod_port",
+    "image": "https://img.asmedia.epimg.net/resizer/LTdD0M5JEo-Ci8hqMraHPWZVN8c=/360x203/filters:focal(3313x666:3280x676)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/556RRW4ORBUXRUSDNVFUN347DM.jpg",
+    "createDate": 1688811371480,
+    "domain": "as"
   }
 ]
