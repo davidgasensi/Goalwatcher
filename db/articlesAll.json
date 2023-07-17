@@ -6294,5 +6294,40 @@
     "image": "https://estaticos-cdn.sport.es/clip/f0a82258-4a12-4c67-960e-18049dc0fd05_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1689597302234,
     "domain": "sport"
+  },
+  {
+    "title": "11,8 M€ de beneficio",
+    "link": "https://as.com/futbol/primera/el-real-madrid-acaba-la-temporada-con-un-beneficio-de-118-m-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/ehebF6NnSZkWoFArNhI3ZAjp78A=/240x135/filters:focal(1190x295:1200x305)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/DVF77XQ5YVBG7LVHT7CRQV2NP4.jpg",
+    "createDate": 1689600373022,
+    "domain": "as"
+  },
+  {
+    "title": "Los primeros planes de Simeone",
+    "link": "https://as.com/futbol/los-primeros-planes-del-cholo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/_X1Wawr-yjwvYMdrAn-87YiL5Uc=/240x135/filters:focal(349x135:314x145)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/DRCGHDSNDRBWBPPK4PMNFW44KI.jpg",
+    "createDate": 1689600373022,
+    "domain": "as"
+  },
+  {
+    "title": "La respuesta del Madrid a las dudas sobre su situación económica",
+    "link": "https://www.sport.es/es/noticias/real-madrid/respuesta-madrid-dudas-situacion-economica-89989405",
+    "image": "https://estaticos-cdn.sport.es/clip/12c034af-a288-454e-acb8-925a92312766_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1689600373649,
+    "domain": "sport"
+  },
+  {
+    "title": "Pirri será el nuevo presidente de honor del Real Madrid",
+    "link": "https://www.sport.es/es/noticias/real-madrid/pirri-sera-nuevo-presidente-honor-89987511",
+    "image": "https://estaticos-cdn.sport.es/clip/8727b438-e9b9-464c-8a2c-d4e4c2bfcdf4_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1689600373651,
+    "domain": "sport"
+  },
+  {
+    "title": "El Real Madrid arranca la semana con un partido de entrenamiento",
+    "link": "https://www.sport.es/es/noticias/real-madrid/real-madrid-arranca-semana-partido-89984936",
+    "image": "https://estaticos-cdn.sport.es/clip/e9d0d2d8-07b4-4536-9756-5954de8f13a5_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1689600373652,
+    "domain": "sport"
   }
 ]
