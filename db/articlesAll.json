@@ -1,12 +1,5 @@
 [
   {
-    "title": "\"Llevo dos años descansando...\"",
-    "link": "https://www.sport.es/es/noticias/real-madrid/hazard-corta-ataca-madrid-llevo-88840604",
-    "image": "https://estaticos-cdn.sport.es/clip/3726f719-8867-4087-8b8c-9a711b85b85a_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1687086684217,
-    "domain": "sport"
-  },
-  {
     "title": "\"Soy feliz en el Atlético... No habrá ningún cambio\"",
     "link": "https://www.sport.es/es/noticias/atletico-de-madrid/griezmann-feliz-atletico-habra-cambio-88851499",
     "image": "https://estaticos-cdn.sport.es/clip/80567b68-0bb5-49f6-a5ae-659e408db1b0_16-9-aspect-ratio_50p_0.jpg",
@@ -6419,6 +6412,13 @@
     "link": "https://www.sport.es/es/noticias/betis/oficial-bellerin-vuelve-betis-90016991",
     "image": "https://estaticos-cdn.sport.es/clip/980fcd82-1916-42ff-bb4a-c63a646230ca_baja-aspect-ratio_default_0.jpg",
     "createDate": 1689675395942,
+    "domain": "sport"
+  },
+  {
+    "title": "Jonathan Bamba firma con el Celta hasta el 2026",
+    "link": "https://www.sport.es/es/noticias/celta-de-vigo/jonathan-bamba-firma-celta-2026-90015522",
+    "image": "https://estaticos-cdn.sport.es/clip/1090052d-fb07-4b24-90bd-0cb82605f6ff_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1689678768302,
     "domain": "sport"
   }
 ]
