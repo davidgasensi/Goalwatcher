@@ -1,12 +1,5 @@
 [
   {
-    "title": "El chileno Claudio Bravo renueva su contrato con el Betis para la temporada 23-24",
-    "link": "https://www.sport.es/es/noticias/betis/chileno-claudio-bravo-renueva-contrato-88903293",
-    "image": "https://estaticos-cdn.sport.es/clip/dca42bcc-00d8-47d6-8240-2dac9cb8c770_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1687205685750,
-    "domain": "sport"
-  },
-  {
     "title": "Vallejo se aferra al Madrid",
     "link": "https://as.com/futbol/vallejo-se-aferra-al-madrid-n/",
     "image": "https://img.asmedia.epimg.net/resizer/vtgzD_hxUhvznNyjgXRMsLtPg4o=/360x203/filters:focal(1726x679:1736x689)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/QQYJJJDZKNC2TOI63VAOPIT2YQ.jpg",
@@ -6636,6 +6629,34 @@
     "link": "https://www.sport.es/es/noticias/sevilla/fernando-resignado-asume-marchas-bono-90085406",
     "image": "https://estaticos-cdn.sport.es/clip/0d7862c9-bf85-4aff-a4dc-a3f6e08ebd52_baja-aspect-ratio_default_0.jpg",
     "createDate": 1689793915956,
+    "domain": "sport"
+  },
+  {
+    "title": "Courtois, Militao y Rodrygo esperan en LA",
+    "link": "https://as.com/futbol/primera/el-madrid-rumbo-a-los-angeles-con-odriozola-y-sin-alvaro-rodriguez-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/iWV4AN1dkjp7PyWOuB4PrHNgdeQ=/240x135/filters:focal(932x427:942x437)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2JO2FJ6IDRF2RNUHIMGYVGB2HM.jpg",
+    "createDate": 1689797716295,
+    "domain": "as"
+  },
+  {
+    "title": "Altimira dirige y Jaime 'Mata' por el Getafe",
+    "link": "https://www.sport.es/es/noticias/getafe/altimira-dirige-jaime-mata-getafe-90089647",
+    "image": "https://estaticos-cdn.sport.es/clip/2bbe5d9e-2060-4e2f-8879-6e657b6b42a9_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1689797717024,
+    "domain": "sport"
+  },
+  {
+    "title": "Cédric Soares, en el punto de mira del Villarreal",
+    "link": "https://www.sport.es/es/noticias/villarreal/cedric-soares-punto-mira-villarreal-90089182",
+    "image": "https://estaticos-cdn.sport.es/clip/af62ccf4-1ee8-4c08-9bd0-4adc123f64cb_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1689797717026,
+    "domain": "sport"
+  },
+  {
+    "title": "Miguel Ángel Román y DjMaRiiO, nuevos comentaristas de EA Sports FC",
+    "link": "https://www.sport.es/es/noticias/laliga/miguel-angel-roman-djmariio-nuevos-90087472",
+    "image": "https://estaticos-cdn.sport.es/clip/c0592e20-818c-47c0-b1dd-fca2671cf507_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1689797717027,
     "domain": "sport"
   }
 ]
