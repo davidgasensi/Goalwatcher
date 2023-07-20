@@ -1,26 +1,5 @@
 [
   {
-    "title": "Modric tiene una cláusula de escape en la renovación que firmó",
-    "link": "https://www.sport.es/es/noticias/real-madrid/modric-clausula-escape-renovacion-firmo-88937138",
-    "image": "https://estaticos-cdn.sport.es/clip/8b66049a-6423-4f5e-a282-452056bca4e7_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1687277929867,
-    "domain": "sport"
-  },
-  {
-    "title": "El Espanyol reduce el precio de los abonos un 50 por ciento",
-    "link": "https://www.sport.es/es/noticias/espanyol/espanyol-reduce-precio-abonos-50-88929841",
-    "image": "https://estaticos-cdn.sport.es/clip/791771a4-4151-4cc3-81e5-6db4c075a78e_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1687277929869,
-    "domain": "sport"
-  },
-  {
-    "title": "Victor Orta, nuevo director deportivo del Sevilla",
-    "link": "https://www.sport.es/es/noticias/laliga/victor-orta-nuevo-director-deportivo-88935809",
-    "image": "https://estaticos-cdn.sport.es/clip/e195138d-6735-4d14-be72-8c726ed7b699_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1687277929870,
-    "domain": "sport"
-  },
-  {
     "title": "El nuevo Bernabéu, a todo gas",
     "link": "https://as.com/futbol/primera/las-obras-del-santiago-bernabeu-a-todo-gas-hasta-septiembre-n/",
     "image": "https://img.asmedia.epimg.net/resizer/vJrp1H9EmkbGgTTWWPSpxxWJoko=/360x203/filters:focal(718x516:728x526)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/KUYWD6UST5NOWZVQXOQ5XS46EE.jpg",
@@ -6587,6 +6566,13 @@
     "link": "https://www.sport.es/es/noticias/atletico-de-madrid/imagen-polemica-tension-joao-felix-90123029",
     "image": "https://estaticos-cdn.sport.es/clip/32870a08-f90a-4c37-b283-22172969f223_baja-aspect-ratio_default_0.jpg",
     "createDate": 1689866103947,
+    "domain": "sport"
+  },
+  {
+    "title": "La RFEF confirma que todos los equipos están al corriente de pago",
+    "link": "https://www.sport.es/es/noticias/laliga/rfef-confirma-equipos-corriente-pago-90127555",
+    "image": "https://estaticos-cdn.sport.es/clip/b9a92d41-398a-46de-bfff-194f3c056e81_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1689869950618,
     "domain": "sport"
   }
 ]
