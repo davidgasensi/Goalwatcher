@@ -1,12 +1,5 @@
 [
   {
-    "title": "Las dos ofertas definitivas por Pau Torres",
-    "link": "https://www.sport.es/es/noticias/laliga/ofertas-definitivas-pau-torres-89047255",
-    "image": "https://estaticos-cdn.sport.es/clip/f1d0df79-4f88-4b62-acbf-2f92bd3024a4_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1687511772715,
-    "domain": "sport"
-  },
-  {
     "title": "Ceballos se queda en el Madrid",
     "link": "https://as.com/futbol/primera/oficial-ceballos-renueva-hasta-2027-n/",
     "image": "https://img.asmedia.epimg.net/resizer/A5w23DJpIjA_9wSsp5TLHeMG96w=/360x203/filters:focal(442x216:452x226)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/7SKFDRADH5EVLN7EOYZUQP32N4.png",
@@ -6525,5 +6518,12 @@
     "image": "https://img.asmedia.epimg.net/resizer/dTNwjnBbtIU54iFzMI7poNZeDKE=/240x135/filters:focal(1679x482:1689x492)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/AKFRA6ECLBFOFCTXMGFZIIUZ2M.JPG",
     "createDate": 1690103578817,
     "domain": "as"
+  },
+  {
+    "title": "El Benfica no pierde la esperanza con João Félix",
+    "link": "https://www.sport.es/es/noticias/mercado-fichajes/benfica-pierde-esperanza-joao-felix-90219529",
+    "image": "https://estaticos-cdn.sport.es/clip/8aac6d36-d382-44f2-9c22-557781efe68a_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1690107253812,
+    "domain": "sport"
   }
 ]
