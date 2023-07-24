@@ -1,12 +1,5 @@
 [
   {
-    "title": "Gudelj renueva hasta junio de 2026",
-    "link": "https://www.sport.es/es/noticias/sevilla/gudelj-renueva-junio-2026-89091630",
-    "image": "https://estaticos-cdn.sport.es/clip/0663eeb5-bd4b-49c9-9b18-e8860582e58c_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1687623635438,
-    "domain": "sport"
-  },
-  {
     "title": "Continúa la indignación en Navarra por la decisión de UEFA",
     "link": "https://as.com/futbol/primera/continua-la-indignacion-en-navarra-por-la-decision-de-uefa-n/",
     "image": "https://img.asmedia.epimg.net/resizer/q0C7QMYSbSUasz7HhVEXqhBDikc=/360x203/filters:focal(660x154:670x164)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/LTRALH7U7BCYBFM66XAPKQ7ZYY.jpg",
@@ -6608,6 +6601,20 @@
     "link": "https://www.sport.es/es/noticias/atletico-de-madrid/malas-noticias-atletico-90273496",
     "image": "https://estaticos-cdn.sport.es/clip/08af77b7-ef57-4efa-a283-9ac099ae5337_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1690215526763,
+    "domain": "sport"
+  },
+  {
+    "title": "Canales se va a México entre lágrimas",
+    "link": "https://as.com/futbol/adios-inminente-de-sergio-canales-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/BrhFkzpoDrqche2TJiH10ecxog0=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TKMCIOAPSFG7HJN45MQ3V523QE.jpg",
+    "createDate": 1690218797255,
+    "domain": "as"
+  },
+  {
+    "title": "Canales se despide entre lágrimas",
+    "link": "https://www.sport.es/es/noticias/betis/canales-despide-lagrimas-90276984",
+    "image": "https://estaticos-cdn.sport.es/clip/de795f54-58b2-4cbd-90e2-c1495774d462_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1690218798490,
     "domain": "sport"
   }
 ]
