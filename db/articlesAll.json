@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tridente en los banquillos",
-    "link": "https://as.com/futbol/primera/tridente-en-los-banquillos-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/5nyKVxyDXLY317oA5obJCVJfu44=/360x203/filters:focal(771x325:781x335)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/XUCW4CL3LJC45GOPODCKDBGMRE.jpeg",
-    "createDate": 1688093499963,
-    "domain": "as"
-  },
-  {
     "title": "Cuenta atrás tranquila para la opición de compra de Carrasco",
     "link": "https://as.com/futbol/primera/cuenta-atras-tranquila-para-la-opicion-de-compra-de-carrasco-n/",
     "image": "https://img.asmedia.epimg.net/resizer/Wiy2W27SBHOFKti13ayGBtskyT8=/360x203/filters:focal(643x410:653x420)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ZHIIEVFQQVJ23F6SSMZP7CPT7M.jpg",
@@ -6861,5 +6854,19 @@
     "image": "https://estaticos-cdn.sport.es/clip/d0bfd9c2-e6f3-4f73-b66b-e8f8964b2b71_baja-aspect-ratio_default_0.jpg",
     "createDate": 1690679672804,
     "domain": "sport"
+  },
+  {
+    "title": "Duelo Champions en Seúl",
+    "link": "https://as.com/futbol/duelo-champions-en-seul-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/iQ575QC2SzeYpQ9ZoAdh_PeaQO8=/240x135/filters:focal(898x578:795x588)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ORFK3UVSRNTG35RSWBYYFSUVU4.jpg",
+    "createDate": 1690686839975,
+    "domain": "as"
+  },
+  {
+    "title": "La paciencia del Betis se agota con el brasileño Luiz Felipe",
+    "link": "https://as.com/futbol/la-paciencia-del-betis-se-agota-con-el-brasileno-luiz-felipe-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/4Q52bWHZMxNlZvoq352-fnZYT1M=/240x135/filters:focal(1773x959:1783x969)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ZXGXX47BOEEEOGTSZEZEETFBAY.JPG",
+    "createDate": 1690686839975,
+    "domain": "as"
   }
 ]
