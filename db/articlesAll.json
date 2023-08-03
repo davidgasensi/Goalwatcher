@@ -1,19 +1,5 @@
 [
   {
-    "title": "Güler sigue los pasos de Endrick, Vinicius y Rodrygo",
-    "link": "https://www.sport.es/es/noticias/barca/guler-sigue-pasos-endrick-vinicius-89476431",
-    "image": "https://estaticos-cdn.sport.es/clip/6a7e12f0-926e-498d-9efa-1fc8f18dc06c_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1688505306031,
-    "domain": "sport"
-  },
-  {
-    "title": "El Real Madrid enloquece por Güler",
-    "link": "https://www.sport.es/es/noticias/real-madrid/real-madrid-enloquece-guler-89476417",
-    "image": "https://estaticos-cdn.sport.es/clip/6a7e12f0-926e-498d-9efa-1fc8f18dc06c_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1688505306034,
-    "domain": "sport"
-  },
-  {
     "title": "Güler escoge el Real Madrid",
     "link": "https://as.com/futbol/primera/guler-prefiere-el-real-madrid-n/",
     "image": "https://img.asmedia.epimg.net/resizer/LKuD1CCtCWHa9g9MPgMWTwsaFu4=/360x203/filters:focal(735x435:745x445)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NNT6F24W5BAZVD7NBHVQPJ7U4Q.jpg",
@@ -6932,5 +6918,19 @@
     "image": "https://img.asmedia.epimg.net/resizer/VsiFOLGrNeiVZ0y8jNDFYO6MqNA=/240x135/filters:focal(810x537:820x547)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/U4BFL4NOHBHUZJK46SPUYF7HF4.jpg",
     "createDate": 1691097132959,
     "domain": "as"
+  },
+  {
+    "title": "El Barça repesca a su talento del futuro",
+    "link": "https://as.com/futbol/primera/el-barca-repesca-a-michal-zuk-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/PcEm6z1sgiEyg4ZCN55r-_SAbhk=/240x135/filters:focal(357x190:367x200)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IWSNSFRWEFBVDLO4P7SITWU7DM.jpg",
+    "createDate": 1691100758597,
+    "domain": "as"
+  },
+  {
+    "title": "Gil Manzano y Diego Costa reavivan su 'pique'",
+    "link": "https://www.sport.es/es/noticias/atletico-de-madrid/gil-manzano-diego-costa-reavivan-90639764",
+    "image": "https://estaticos-cdn.sport.es/clip/29196e30-c170-4ecc-88d1-52eb130e68c9_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1691100759325,
+    "domain": "sport"
   }
 ]
