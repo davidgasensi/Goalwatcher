@@ -1,19 +1,5 @@
 [
   {
-    "title": "El papel de Simeone en el fichaje de Javi Galán",
-    "link": "https://www.sport.es/es/noticias/atletico-de-madrid/papel-simeone-fichaje-javi-galan-89490702",
-    "image": "https://estaticos-cdn.sport.es/clip/0d164625-3dcb-4151-911c-ef964e6c532f_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1688560585426,
-    "domain": "sport"
-  },
-  {
-    "title": "\"Fue el presidente el que malinterpretó las cosas\"",
-    "link": "https://www.sport.es/es/noticias/getafe/lozano-presentado-getafe-presidente-malinterpreto-89493944",
-    "image": "https://estaticos-cdn.sport.es/clip/9c2697c3-8f30-4093-b52a-21e4579518a6_baja-aspect-ratio_default_0.jpg",
-    "createDate": 1688560585428,
-    "domain": "sport"
-  },
-  {
     "title": "Kenan Yildiz entra en escena por Güler",
     "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-mbappe-kane-ultima-hora-de-real-madrid-barcelona-n-8/?noti=mercado_mod_port",
     "image": "https://img.asmedia.epimg.net/resizer/ryIlnLmd4wZhBEAQ4LzS7gfrEes=/240x135/filters:focal(494x169:504x179)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/7XIO25JCWRALVP4Y5C4EQ32XBE.jpg",
@@ -6882,5 +6868,12 @@
     "image": "https://img.asmedia.epimg.net/resizer/JdXnAz4ftHWLPWiaNtF_IDVqyPA=/240x135/filters:focal(1738x509:1748x519)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/W2D26QOL6IAYTRCQPBAO72KINQ.JPG",
     "createDate": 1691152055907,
     "domain": "as"
+  },
+  {
+    "title": "LaLiga aprueba nueva forma de reparto de ingresos para mejorar su oferta audiovisual",
+    "link": "https://www.sport.es/es/noticias/laliga/laliga-aprueba-nueva-forma-reparto-90658646",
+    "image": "https://estaticos-cdn.sport.es/clip/462f6271-a33d-416a-be97-82a4c999a1d8_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1691155013859,
+    "domain": "sport"
   }
 ]
