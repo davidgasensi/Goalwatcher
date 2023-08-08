@@ -6954,5 +6954,26 @@
     "image": "https://estaticos-cdn.sport.es/clip/e2572378-0057-4f76-95e7-35b7a299f4df_baja-aspect-ratio_default_0.jpg",
     "createDate": 1691525700347,
     "domain": "sport"
+  },
+  {
+    "title": "Juventud al poder",
+    "link": "https://as.com/futbol/primera/juventud-al-poder-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/mEk5DIjoyvvnKJl41d8j7nPsW98=/360x203/filters:focal(2583x1989:2593x1999)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/6PYTI2FUGUIESLA3IILXI5OZDA.jpg",
+    "createDate": 1691529140798,
+    "domain": "as"
+  },
+  {
+    "title": "LaLiga modifica los horarios por el calor",
+    "link": "https://as.com/futbol/laliga-modifica-los-horarios-por-el-calor-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/p22eDogJynUWbW4GwqSRf3lN6LM=/240x135/filters:focal(726x374:736x384)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/MBD4ERTLC5F4BDQCI5ST3B72O4.jpeg",
+    "createDate": 1691529140800,
+    "domain": "as"
+  },
+  {
+    "title": "“Ya está en París”",
+    "link": "https://as.com/futbol/primera/el-barca-confirma-el-adios-de-dembele-ya-esta-en-paris-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/gNihv8um1M46vvAqO76BoOVBUwg=/240x135/filters:focal(1710x447:1720x457)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/YCPPYASUKHRVZOJVLKFLLFSWX4.jpg",
+    "createDate": 1691529140800,
+    "domain": "as"
   }
 ]
