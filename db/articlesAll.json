@@ -1,19 +1,5 @@
 [
   {
-    "title": "Fichaje récord en la historia del Leipzig por el sustituto de Nkunku",
-    "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-mbappe-kane-ultima-hora-de-real-madrid-barcelona-n-17/?noti=mercado_mod_port",
-    "image": "https://img.asmedia.epimg.net/resizer/-6AB7cKfwXal81bkQ_J2BgATc8k=/240x135/filters:focal(989x217:999x227)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/MBYVXGAAEZCOVPF457ADGVEXRI.jpeg",
-    "createDate": 1689347799323,
-    "domain": "as"
-  },
-  {
-    "title": "Oblak está de vuelta",
-    "link": "https://www.sport.es/es/noticias/atletico-de-madrid/buenas-noticias-rojiblancos-oblak-vuelta-89871870",
-    "image": "https://estaticos-cdn.sport.es/clip/bf5741f6-5a89-4672-83e2-dab70844fec5_16-9-aspect-ratio_50p_0.jpg",
-    "createDate": 1689347800120,
-    "domain": "sport"
-  },
-  {
     "title": "Julián Araujo jugará cedido en Las Palmas",
     "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-mbappe-kane-ultima-hora-de-real-madrid-barcelona-n-17/?noti=mercado_mod_port",
     "image": "https://img.asmedia.epimg.net/resizer/38whGGMYgWSYzOorCFfdNaaYc5E=/240x135/filters:focal(1192x859:1202x869)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/WF44FIETHZKWSQB3T3ODHO2EOE.jpg",
@@ -7206,6 +7192,13 @@
     "link": "https://www.sport.es/es/noticias/real-madrid/ceo-bayern-esperabamos-presentar-kepa-90931489",
     "image": "https://estaticos-cdn.sport.es/clip/5220b68d-1422-41c7-bf7d-fb67ce695548_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1691939562034,
+    "domain": "sport"
+  },
+  {
+    "title": "El Real Madrid no fichará un recambio de Militao",
+    "link": "https://www.sport.es/es/noticias/real-madrid/real-madrid-fichara-recambio-militao-90933996",
+    "image": "https://estaticos-cdn.sport.es/clip/7a210fd5-bc24-459c-9202-77533a6ae760_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1691943390633,
     "domain": "sport"
   }
 ]
