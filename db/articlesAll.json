@@ -1,19 +1,5 @@
 [
   {
-    "title": "Cinco 'tiburones' para dos puestos",
-    "link": "https://as.com/futbol/primera/competencia-salvaje-entre-centrales-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/QbcXobe1eNDJvt22C45o1cR269M=/360x203/filters:focal(2956x124:2966x134)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/OFV7HB64D7NNPP3EVDZMYIYHJY.JPG",
-    "createDate": 1689372896505,
-    "domain": "as"
-  },
-  {
-    "title": "Oferta final de Juventus e Inter por Lukaku",
-    "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-mbappe-kane-ultima-hora-de-real-madrid-barcelona-n-17/?noti=mercado_mod_port",
-    "image": "https://img.asmedia.epimg.net/resizer/3P2VEV297qM9x9Z-hvWfCnQ0k7Q=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/URFV5TJUA7X7KPEMTDFJKPJHSQ.jpg",
-    "createDate": 1689372896508,
-    "domain": "as"
-  },
-  {
     "title": "Güler deslumbra",
     "link": "https://as.com/futbol/primera/guler-desata-la-ilusion-n/",
     "image": "https://img.asmedia.epimg.net/resizer/oHU1G5E_O6sQqJMxJw1cGUDwTgQ=/360x203/filters:focal(3634x940:3644x950)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ICI7YZIMFFD5PFYM2JGRACKKCY.jpg",
@@ -7242,5 +7228,12 @@
     "image": "https://estaticos-cdn.sport.es/clip/c6a64baa-c43e-4c50-9a85-2e51787b0c2d_baja-aspect-ratio_default_0.jpg",
     "createDate": 1691964748934,
     "domain": "sport"
+  },
+  {
+    "title": "\"En la segunda parte se han perdido 25 o 30 minutos. Es una vergüenza\"",
+    "link": "https://as.com/futbol/primera/getafe-barcelona-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/GZ3E1U4OXK5nvQMv5zpLEktQJCA=/240x135/filters:focal(2745x65:2755x75)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/YVTLQLUWXJOFFEZS75OGL2JSMI.jpg",
+    "createDate": 1691968369107,
+    "domain": "as"
   }
 ]
