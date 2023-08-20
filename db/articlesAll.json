@@ -7361,5 +7361,19 @@
     "image": "https://estaticos-cdn.sport.es/clip/76814305-c1ea-4bd6-9fe0-ccb0e636f476_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1692486754565,
     "domain": "sport"
+  },
+  {
+    "title": "Matador Bellingham",
+    "link": "https://as.com/futbol/primera/matador-bellingham-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/21okmhVZw5bRqht1UI0Z75IVQHw=/360x203/filters:focal(1682x828:1692x838)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/USVJKSI5QMCV7Q4UNG3U3XF4YQ.jpg",
+    "createDate": 1692504977494,
+    "domain": "as"
+  },
+  {
+    "title": "Solos en la montaña mágica",
+    "link": "https://as.com/futbol/primera/solos-en-la-montana-magica-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/HY3LCsEPXBPh7ck8lrmoXsFFbek=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/4ZBLEEUVMZFJXFHZSZ4UXGPX4Y.jpg",
+    "createDate": 1692504977497,
+    "domain": "as"
   }
 ]
