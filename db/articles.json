@@ -1,5 +1,12 @@
 [
   {
+    "title": "¡Apagón en pleno Granada-Rayo!",
+    "link": "https://www.sport.es/es/noticias/laliga/apagon-pleno-granada-rayo-91205658",
+    "image": "https://estaticos-cdn.sport.es/clip/31f6565b-d48a-47e6-8f76-64ac32a36f21_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1692652339378,
+    "domain": "sport"
+  },
+  {
     "title": "El Alavés sofoca al Sevilla en Mendizorroza",
     "link": "https://www.sport.es/es/noticias/laliga/alaves-sofoca-sevilla-mendizorroza-91202812",
     "image": "https://estaticos-cdn.sport.es/clip/b20c1406-41a8-4db6-b11e-e6d04c37dc0c_16-9-aspect-ratio_50p_0.jpg",
@@ -214,6 +221,13 @@
     "link": "https://as.com/futbol/primera/kike-garcia-lidera-la-fiesta-del-gol-en-mendizorroza-n/",
     "image": "https://img.asmedia.epimg.net/resizer/bTRx-l2HbMrVCdhG__qdcLWX51A=/240x135/filters:focal(1822x848:1832x858)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BOCSYNNHDEYI5AZ5SQB4JYSCJA.jpg",
     "createDate": 1692648867297,
+    "domain": "as"
+  },
+  {
+    "title": "¡Golazo de Álvaro García!",
+    "link": "https://as.com/futbol/primera/granada-rayo-vallecano-en-directo-laliga-ea-sports-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/CEfe-lO5cQ5sar9ErGOZH7GrU2A=/360x203/filters:focal(2838x704:2798x714)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NEZHFX2ABQLW2XDSEMSQF7UJPQ.jpg",
+    "createDate": 1692652338349,
     "domain": "as"
   }
 ]
