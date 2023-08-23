@@ -1,19 +1,5 @@
 [
   {
-    "title": "Canales se marcha a México",
-    "link": "https://as.com/futbol/adios-inminente-de-sergio-canales-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/BrhFkzpoDrqche2TJiH10ecxog0=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TKMCIOAPSFG7HJN45MQ3V523QE.jpg",
-    "createDate": 1690208043750,
-    "domain": "as"
-  },
-  {
-    "title": "el Barça llama al PSG para fichar a Mbappé",
-    "link": "https://as.com/futbol/primera/lequipe-el-barca-llama-al-psg-para-fichar-a-mbappe-n/",
-    "image": "https://img.asmedia.epimg.net/resizer/zBapvvozKDBZB908jYDgB6yGcvA=/240x135/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EMQYNH7EDJOCXHF5SOHEXQ42MQ.jpg",
-    "createDate": 1690208043751,
-    "domain": "as"
-  },
-  {
     "title": "La 'Doble B' del Madrid",
     "link": "https://as.com/futbol/primera/una-sociedad-prometedora-n/",
     "image": "https://img.asmedia.epimg.net/resizer/AKwOfof0ul8VD13CPFkdJVacpWA=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/QAFI4KFY5NC5JHCS6EUOHEOH2I.png",
@@ -7417,5 +7403,12 @@
     "image": "https://img.asmedia.epimg.net/resizer/IT4UlgH431Z4EZVoN2MgmtiVqoA=/240x135/filters:focal(1352x590:1362x600)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/6TBUJ5GNXNHQNLYA2Y6DBPUVKI.jpg",
     "createDate": 1692799965612,
     "domain": "as"
+  },
+  {
+    "title": "El Celta se viste de gala para celebrar su centenario",
+    "link": "https://www.sport.es/es/noticias/celta-de-vigo/celta-viste-gala-celebrar-centenario-91262140",
+    "image": "https://estaticos-cdn.sport.es/clip/d11570a0-0d89-4ed8-9af8-56a7a254e8fc_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1692803657190,
+    "domain": "sport"
   }
 ]
