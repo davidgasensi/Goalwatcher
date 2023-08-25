@@ -1,5 +1,26 @@
 [
   {
+    "title": "Todos los resúmenes y goles de la jornada 3 de LaLiga EA Sports y LaLiga Hypermotion",
+    "link": "https://www.sport.es/es/noticias/laliga/resumenes-goles-jornada-3-laliga-91349296",
+    "image": "https://estaticos-cdn.sport.es/clip/f76a4359-5703-460e-b72b-bae7343aab81_baja-aspect-ratio_default_0.jpg",
+    "createDate": 1692994444724,
+    "domain": "sport"
+  },
+  {
+    "title": "Las Palmas y Real Sociedad se quedan a cero",
+    "link": "https://www.sport.es/es/noticias/las-palmas/palmas-real-sociedad-quedan-cero-91347778",
+    "image": "https://estaticos-cdn.sport.es/clip/3f19e982-e23e-4068-baf1-41d2fa0d5b9d_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1692994444723,
+    "domain": "sport"
+  },
+  {
+    "title": "¡Alarma Vinicius!",
+    "link": "https://www.sport.es/es/noticias/real-madrid/alarma-vinicius-91351530",
+    "image": "https://estaticos-cdn.sport.es/clip/00d73e36-11d7-49f2-9ed7-0b4036fa9185_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1692994444721,
+    "domain": "sport"
+  },
+  {
     "title": "Granada y Mallorca persiguen su primera victoria con la necesidad de improvisar",
     "link": "https://www.sport.es/es/noticias/granada/granada-mallorca-persiguen-primera-victoria-91330707",
     "image": "https://estaticos-cdn.sport.es/clip/cba7e4cd-a74b-4b44-a625-6bd2ffd3adbe_16-9-aspect-ratio_50p_0.jpg",
@@ -249,6 +270,20 @@
     "link": "https://as.com/futbol/primera/las-palmas-real-sociedad-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
     "image": "https://img.asmedia.epimg.net/resizer/5Zcvkq7Te4cnzl-e6xhdENqOiKw=/240x135/filters:focal(498x126:508x136)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TSTD75KS7JFCHIO2MFL3E2CRUM.jpeg",
     "createDate": 1692990676343,
+    "domain": "as"
+  },
+  {
+    "title": "¡La que ha tenido Rodrygo!",
+    "link": "https://as.com/futbol/primera/celta-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/RuqeaDE7cF3j4FVhsgri47-tMEY=/360x203/filters:focal(2315x125:2325x135)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/5BKRGUUNO475WYZTPCNBYBU5G4.jpg",
+    "createDate": 1692994444068,
+    "domain": "as"
+  },
+  {
+    "title": "La victoria sigue esquiva",
+    "link": "https://as.com/futbol/primera/las-palmas-real-sociedad-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/5Zcvkq7Te4cnzl-e6xhdENqOiKw=/240x135/filters:focal(498x126:508x136)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TSTD75KS7JFCHIO2MFL3E2CRUM.jpeg",
+    "createDate": 1692994444071,
     "domain": "as"
   }
 ]
