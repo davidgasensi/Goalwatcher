@@ -7704,5 +7704,26 @@
     "image": "https://estaticos-cdn.sport.es/clip/260f53fd-d19f-4587-886a-f2d8f89a47b8_16-9-aspect-ratio_50p_0.jpg",
     "createDate": 1693160173366,
     "domain": "sport"
+  },
+  {
+    "title": "¡Debuta Sergi Canós!",
+    "link": "https://as.com/futbol/primera/valencia-osasuna-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+    "image": "https://img.asmedia.epimg.net/resizer/bfWIcjnBMJZ-_9fHmlV-LW2vmj4=/240x135/filters:focal(3331x718:3341x728)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BH5N6L2BTK6MEEE5YRIPK5ZF5Q.jpg",
+    "createDate": 1693163442047,
+    "domain": "as"
+  },
+  {
+    "title": "¡60 M€ más bonus!",
+    "link": "https://as.com/futbol/internacional/mercado-de-fichajes-en-directo-mbappe-joao-felix-ultima-hora-de-real-madrid-barcelona-n-6/?noti=mercado_mod_port",
+    "image": "https://img.asmedia.epimg.net/resizer/sOKeXQCmmC3LbdAw0Nr9x_z7o9w=/240x135/filters:focal(880x507:890x517)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VZEJXA5YUBDXVM2QGKTQABS3IM.jpg",
+    "createDate": 1693163442048,
+    "domain": "as"
+  },
+  {
+    "title": "En busca del gol y la victoria",
+    "link": "https://www.sport.es/es/noticias/laliga/busca-gol-victoria-91397392",
+    "image": "https://estaticos-cdn.sport.es/clip/6abff978-9410-4872-8ef9-805c3a3f9ed6_16-9-aspect-ratio_50p_0.jpg",
+    "createDate": 1693163443666,
+    "domain": "sport"
   }
 ]
